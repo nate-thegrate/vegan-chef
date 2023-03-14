@@ -2,6 +2,8 @@
 
 This is a place to catalog my healthy plant-based recipes as I create &amp; experiment with them.
 
+<img src="source_code/contents.svg"> Use GitHub's fancy table of contents to navigate this page.
+
 ## Current research/understanding
 
 ### Sweeteners
@@ -221,6 +223,11 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 - buy it: [Amazon](https://www.amazon.com/dp/B06WLH1J98), $0.58/oz
     - also in grocery stores
 - A nice (albeit expensive) 1:1 powdered sugar replacement, made with erythritol
+
+**Nutritional Yeast**
+- rating: 7/10
+- buy it: [Amazon](https://www.amazon.com/dp/B092H4Z7C6), $0.80/oz
+- In theory, this is supposed to be an easy cheese substitute for vegans. In reality, the taste is kinda weird, but it works pretty well in some recipes.
 
 #### Too expensive, don't get these
 - [Psyllium Husk](https://www.amazon.com/dp/B011QGTRG4) - $0.67/oz
