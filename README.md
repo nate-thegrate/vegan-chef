@@ -41,7 +41,7 @@ But there are 2 downsides:
 
 Fortunately, the research we do have seems to show that when consumed in moderation, it's really helpful for digestion & for keeping your blood sugar in control.
 
-I bought Allulose on [Amazon](https://www.amazon.com/gp/product/B08PY5ZJTX), and for some reason the grains are much finer than sugar or erythritol—almost a powder but not quite. Probably shouldn't make a huge difference in most recipes, but I still thought it'd be good to mention.
+I [bought some Allulose](#allulose-1) a little while back, and I noticed that for some reason, the grains are much finer than sugar or erythritol—almost a powder but not quite. It probably shouldn't make a huge difference in most recipes, but I still thought it'd be good to mention.
 
 #### Aspartame
 - 200 times sweeter than sugar
@@ -49,7 +49,7 @@ I bought Allulose on [Amazon](https://www.amazon.com/gp/product/B08PY5ZJTX), and
 There's a lot of bullsh** on the internet about how aspartame gives you cancer and AIDS and diabetes. I'm happy to put my trust in [Wikipedia](https://en.wikipedia.org/wiki/Aspartame#Intake) and its sources:
 > Reviews have found that even the high levels of intake of aspartame, studied across multiple countries and different methods of measuring aspartame consumption, are well below the acceptable daily intake for safe consumption of aspartame.
 
-I found aspartame being sold on [Amazon](https://www.amazon.com/dp/B08J91Q9YJ), $13 for 1000 packets. Each packet has the sweetness of 2 teaspoons of sugar and has a small amount of dextrose & maltodextrin mixed in to give it some more volume.
+I found [aspartame packets](#aspartame-packets) being sold at $13 for 1000 packets. Each packet has the sweetness of 2 teaspoons of sugar and has a small amount of dextrose & maltodextrin mixed in to give it some more volume.
 
 For reference, whether you buy a 4-pound bag of sugar (227 2-teaspoon servings) or use the equivalent amount of aspartame packets, the cost is the same (about $2.95).
 
