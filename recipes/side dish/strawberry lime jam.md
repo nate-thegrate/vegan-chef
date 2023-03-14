@@ -1,6 +1,6 @@
 # strawberry lime jam
 
-### Ingredients
+### ingredients
 - Strawberries
 - lime juice
 - lots of aspartame packets
@@ -9,7 +9,7 @@
 
 <br>
 
-### Directions:
+### directions:
 
 Heat the strawberries & lime juice in a pot, using a potato masher to smash the strawberries into jam.
 

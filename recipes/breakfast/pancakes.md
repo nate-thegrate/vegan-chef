@@ -1,6 +1,6 @@
 # pancakes
 
-### Ingredients
+### ingredients
 - 1 c water
 - 1/2 t salt
 - 3 aspartame packets
@@ -12,7 +12,7 @@
 
 <br>
 
-### Directions:
+### directions:
 
 Add the salt & aspartame to the water, then add everything else and mix.
 

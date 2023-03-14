@@ -1,6 +1,6 @@
 # sourdough bread
 
-### Ingredients
+### ingredients
 - 300 g water
 - 100 g sourdough starter
 - 10 g salt
@@ -11,7 +11,7 @@
 
 <br>
 
-### Directions:
+### directions:
 
 Mix the water, starter, and salt in a bowl. Then mix in everything else.
 

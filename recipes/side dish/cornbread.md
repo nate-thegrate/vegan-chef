@@ -1,6 +1,6 @@
 # cornbread
 
-### Ingredients
+### ingredients
 - 1/2 c canola oil
 - 12 aspartame packets
 - 1 1/2 c water
@@ -13,7 +13,7 @@
 
 <br>
 
-### Directions:
+### directions:
 
 Mix all ingredients and bake at 400°F for 20-25 min.
 

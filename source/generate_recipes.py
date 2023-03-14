@@ -27,10 +27,10 @@ class Recipe():
     def markdown_text(self):
         return "".join([
             f"# {self.name}\n",
-            "\n### Ingredients\n",
+            "\n### ingredients\n",
             *[f"- {ingredient}\n" for ingredient in self.ingredients],
             "\n<br>\n",
-            "\n### Directions:\n",
+            "\n### directions:\n",
             *[f"\n{direction}\n" for direction in self.directions],
         ])
 

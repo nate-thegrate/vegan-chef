@@ -1,6 +1,6 @@
 # cinnamon rolls
 
-### Ingredients
+### ingredients
 - 2 c water
 - 1/4 c potato pearls
 - 1 t lemon juice
@@ -16,7 +16,7 @@
 
 <br>
 
-### Directions:
+### directions:
 
 mix together butter, aspertame, and cinnamon; set aside.
 

@@ -1,6 +1,6 @@
 # beans & rice
 
-### Ingredients
+### ingredients
 - 1 c rice
 - 1/2 t garlic
 - 1 T onion powder
@@ -13,7 +13,7 @@
 
 <br>
 
-### Directions:
+### directions:
 
 Mix everything but the beans in with the rice and cook them together (having a rice maker or insta-pot is helpful).
 
