@@ -204,22 +204,28 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 - The quintessential superfood. Add it to oatmeal or smoothies to make them healthier.
 - You can also use chia seeds in place of poppy seeds or tapioca when you make muffins or pudding.
 
+#### Impossible Sausage
+- rating: 9.5/10
+- buy it: [Amazon](https://www.amazon.com/dp/B09C14WDWL), $0.46/oz
+    - also in [grocery stores](https://www.walmart.com/ip/525109109), $0.36/oz
+- Impossible ground sausage is my favorite plant-based meat substitute by far. Goes great on pizza, spaghetti, and breakfast burritos.
+
 #### Oat Fiber
 - rating: 9/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07NY4PQ6D), $0.48/oz
     - or get it [bundled with wheat gluten](https://www.amazon.com/dp/B08MLB9ZHV) for $0.29/oz
 - A great way to get dietary fiber in a pure powder form.
 
+#### Wheat Gluten
+- rating: 8.5/10
+- buy it: [Amazon](https://www.amazon.com/dp/B00PB8U7Y0), $0.37/oz
+    - or get it [bundled with oat fiber](https://www.amazon.com/dp/B08MLB9ZHV) for $0.29/oz
+- Wheat gluten is a great source of protein and can improve bread texture.
+
 #### Lupin Flour
 - rating: 8/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07L33XB8C), $0.58/oz
 - Regular flour but a lot healthier.
-
-#### Wheat Gluten
-- rating: 7.5/10
-- buy it: [Amazon](https://www.amazon.com/dp/B00PB8U7Y0), $0.37/oz
-    - or get it [bundled with oat fiber](https://www.amazon.com/dp/B08MLB9ZHV) for $0.29/oz
-- Wheat gluten is a great source of protein and can improve bread texture.
 
 #### Fibersol-2
 - rating: 7/10
@@ -252,8 +258,3 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 - buy it: [Amazon](https://www.amazon.com/dp/B092H4Z7C6), $0.80/oz
     - also in grocery stores
 - In theory, this is supposed to be an easy cheese substitute for vegans. In reality, the taste is kinda weird, but it works pretty well in some recipes.
-
-#### Too expensive, don't get these
-- [Psyllium Husk](https://www.amazon.com/dp/B011QGTRG4) - $0.67/oz
-- [Inulin](https://www.amazon.com/dp/B074WKCPS4) - $0.82/oz
-- [Xanthan Gum](https://www.amazon.com/dp/B09255V6LQ) - $1.47/oz
