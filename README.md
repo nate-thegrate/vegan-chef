@@ -106,7 +106,7 @@ I’ve really enjoyed buying & eating these low-carb wheat foods. Recently I’v
 
 After an enormous amount of searching, the closest thing I could find was King Arthur brand “Keto Wheat Baking Flour”. It contains a lot of gluten and modified starch, along with a few other ingredients. But this stuff is expensive—normally you can get a 5-pound bag of wheat flour for $6 or less, but 5 pounds of this keto flour is over $40. And keep in mind that it’s a combination of a bunch of ingredients, not just pure modified wheat starch.
 
-I was able to find pure digestion-resistant maltodextrin (more on that later).
+I was able to find pure digestion-resistant maltodextrin (more on that [later](#fibersol-2)).
 
 <br>
 
