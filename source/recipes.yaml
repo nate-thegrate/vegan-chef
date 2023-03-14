@@ -59,6 +59,29 @@ waffles:
   directions:
     - Add the salt & aspartame to the water, then add everything else and mix.
     - Cook the waffle batter according to your waffle maker's instructions.
+    
+oatmeal:
+  meal: breakfast
+  ingredients:
+    - 1 c oats
+    - 2 aspartame packets
+    - 3 T c chia seeds
+    - 1/8 t salt
+    - 1 c soy milk
+    - cinnamon or fresh fruit (optional)
+  directions:
+    - Pour all the ingredients into a cereal bowl, one at a time.
+    - Mix and then microwave for 2 minutes, or to your satisfaction.
+
+smoothie:
+  meal: side dish
+  ingredients:
+    - strawberries (and/or other fruit, but IMO strawberries have the best healthy/tasty combo)
+    - lemonade mix
+    - soy milk
+    - chia seeds
+  directions:
+    - blend it up
 
 sourdough bread:
   meal: side dish
