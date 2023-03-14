@@ -2,7 +2,7 @@
 
 This is a place to catalog my healthy plant-based recipes as I create &amp; experiment with them.
 
-<img src="source_code/contents.svg"> Use GitHub's fancy table of contents to navigate this page.
+<img src="source/contents.svg"> Use GitHub's fancy table of contents to navigate this page.
 
 #### All recipes can be found in the [recipes](recipes/) folder!
 
