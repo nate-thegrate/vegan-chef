@@ -4,6 +4,8 @@ This is a place to catalog my healthy plant-based recipes as I create &amp; expe
 
 <img src="source_code/contents.svg"> Use GitHub's fancy table of contents to navigate this page.
 
+#### All recipes can be found in the [recipes](recipes/) folder!
+
 ## Current research/understanding
 
 ### Sweeteners
