@@ -1,4 +1,4 @@
-# Cornbread
+# cornbread
 
 ### Ingredients
 - 1/2 c canola oil

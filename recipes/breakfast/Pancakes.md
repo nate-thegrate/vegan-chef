@@ -1,4 +1,4 @@
-# Pancakes
+# pancakes
 
 ### Ingredients
 - 1 c water

@@ -1,4 +1,4 @@
-Cornbread:
+cornbread:
   meal: side dish
   ingredients:
     - 1/2 c canola oil
@@ -14,7 +14,7 @@ Cornbread:
     - Mix all ingredients and bake at 400°F for 20-25 min.
     - Serve hot, with honey or butter or whatever substitutes for those you wanna use.
 
-Beans & Rice:
+beans & rice:
   meal: dinner
   ingredients:
     - 1 c rice
@@ -30,7 +30,7 @@ Beans & Rice:
     - Mix everything but the beans in with the rice and cook them together (having a rice maker or insta-pot is helpful).
     - Mix in the beans and eat!
 
-Pancakes:
+pancakes:
   meal: breakfast
   ingredients:
     - 1 c water
@@ -45,7 +45,7 @@ Pancakes:
     - Add the salt & aspartame to the water, then add everything else and mix.
     - Heat a griddle or pan to 375°F. Hopefully you know how to flip pancakes.
 
-Waffles:
+waffles:
   meal: breakfast
   ingredients:
     - 1 c water

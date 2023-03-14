@@ -1,4 +1,4 @@
-# Beans & Rice
+# beans & rice
 
 ### Ingredients
 - 1 c rice

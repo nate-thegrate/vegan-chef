@@ -1,4 +1,4 @@
-# Waffles
+# waffles
 
 ### Ingredients
 - 1 c water
