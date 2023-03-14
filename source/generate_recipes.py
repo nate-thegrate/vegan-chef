@@ -45,28 +45,17 @@ def yeet_all_recipes():
 def main():
     yeet_all_recipes()
 
-    with open("recipes.yaml") as f:
-        recipes = yaml.safe_load(f)
+    with open("recipes.yaml") as recipe_yaml:
+        recipes = yaml.safe_load(recipe_yaml)
 
     if multiplier == 1:
-        generate(recipes)
+        for name in recipes:
+            r = Recipe(name, recipes[name])
+            with open(r.filepath, "w") as recipe_markdown:
+                recipe_markdown.write(r.markdown_text)
     else:
-        generate_with_multiplier(recipes, multiplier)
-
-
-def generate(recipes: dict):
-    for name in recipes:
-        recipe = Recipe(name, recipes[name])
-        with open(recipe.filepath, "w") as f:
-            f.write(recipe.markdown_text)
-
-
-def generate_with_multiplier(recipes: dict, multiplier: float):
-    """Coming soon!
-    
-    TODO: make `Ingredient` class with fancy parsing and multiplication
-    """
-    pass
+        pass  # Coming soon!
+        # TODO: make `Ingredient` class with fancy parsing and multiplication
 
 
 if __name__ == "__main__":
