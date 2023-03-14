@@ -41,7 +41,7 @@ But there are 2 downsides:
 
 Fortunately, the research we do have seems to show that when consumed in moderation, it's really helpful for digestion & for keeping your blood sugar in control.
 
-I [bought some Allulose](#allulose-1) a little while back, and I noticed that for some reason, the grains are much finer than sugar or erythritol—almost a powder but not quite. It probably shouldn't make a huge difference in most recipes, but I still thought it'd be good to mention.
+I [bought some Allulose](#allulose-sweetener) a little while back, and I noticed that for some reason, the grains are much finer than sugar or erythritol—almost a powder but not quite. It probably shouldn't make a huge difference in most recipes, but I still thought it'd be good to mention.
 
 #### Aspartame
 - 200 times sweeter than sugar
@@ -88,8 +88,6 @@ Net carbs include sugar, starch, and maltodextrin.
 #### Starch
 Starch is made by taking hundreds of sugar molecules and bonding them together. Your body is able to use starch for energy just like sugar, but it has to do some work to break the molecules apart first.
 
-If you want a healthy way to get calories by eating carbs, starch is the way to go.
-
 #### Maltodextrin
 Maltodextrin is usually made by processing starch from wheat or corn using enzymes or other chemicals. You get maltodextrin if you have somewhere between 2 and 10 sugar molecules bonded together. It dissolves in water almost as well as sugar does, so it’s often used for thickening & emulsifying; it also can be mixed with oil to convert it into a powder form. Maltodextrin is found in many processed foods, e.g. Cheetos, Doritos, salt & vinegar chips, and Quaker oatmeal squares.
 
@@ -106,7 +104,7 @@ I’ve really enjoyed buying & eating these low-carb wheat foods. Recently I’v
 
 After an enormous amount of searching, the closest thing I could find was King Arthur brand “Keto Wheat Baking Flour”. It contains a lot of gluten and modified starch, along with a few other ingredients. But this stuff is expensive—normally you can get a 5-pound bag of wheat flour for $6 or less, but 5 pounds of this keto flour is over $40. And keep in mind that it’s a combination of a bunch of ingredients, not just pure modified wheat starch.
 
-I was able to find pure digestion-resistant maltodextrin (more on that [later](#fibersol-2)).
+The good news is that I found a way to get pure [digestion-resistant maltodextrin](#fibersol-2).
 
 <br>
 
@@ -121,10 +119,10 @@ Unfortunately, not a lot of this research is recent, and it’s difficult to unt
 Many animal products are high in saturated fat & cholesterol; perhaps the primary focus should instead be on reducing intake of animal products. (Eating animal products can lead to increased inflammation, from [what I've seen](https://www.google.com/search?q=animal+products+inflammation).)
 
 #### Protein
-Protein is necessary for survival. The FDA recommends 50 grams a day.
+Protein is really straightforward: you need it to survive, and the FDA recommends eating 50 grams of protein a day.
 
 #### Vitamins & Minerals
-Until recently, my understanding was that I didn’t need any sort of supplements, since there are already plenty of vitamins & minerals in the food I eat.
+Until recently, my understanding was that I didn’t need any sort of vitamin supplements, since there are already plenty of vitamins & minerals in the food I eat.
 
 But then I heard that vitamin B deficiencies are pretty common, and after getting some blood work done, I found out that I have a vitamin D deficiency.
 
@@ -139,7 +137,7 @@ The goal of a paleo diet is to mimic the way humans ate before the agricultural 
 
 The issue is that simply restricting yourself to certain foods doesn’t address the issue of overeating or not getting enough exercise. Furthermore, selective breeding in agriculture is virtually unavoidable—even if you eat fresh fruits and veggies, it’s pretty much guaranteed that the food you’re eating has been selectively bred over thousands of years to taste better. A banana eaten today has a much higher sugar content than a banana eaten during the stone age.
 
-The other issue is that adhering to the paleo diet prevents you from eating whole grains and legumes, both of which are generally considered to be healthy foods.
+The other issue is that adhering to the paleo diet prevents you from eating whole grains and legumes, both of which (in my opinion) are healthy foods.
 
 #### Keto
 The goal of a keto diet is to reduce the amount of net carbs you consume so that nearly all of your energy comes from fat and protein.
@@ -149,9 +147,9 @@ This causes “ketosis”, which means that your body is forced to burn fat for 
 The keto diet is a highly effective way to lose weight, but drastically reducing carbs can have adverse side effects, such as cramps, headaches, fatigue, and digestive problems.
 
 #### Vegetarian/Vegan
-Vegetarians cut meat out of their diets, and vegans don't eat any animal products whatsoever.
+Vegetarians don't eat meat, and vegans don't eat any animal products.
 
-Committing to a vegetarian/vegan diet can be challenging, but there are multiple reasons to do it:
+Committing to a vegetarian/vegan means giving up a lot of really good food, but there are multiple reasons to do it:
 - reduce impact of animal products on the environment
 - mitigate the animal suffering prevalent in factory farms
 - avoid negative health effects such as inflammation
@@ -168,7 +166,9 @@ Despite the apparent contradiction, there’s a huge benefit to the gluten-free 
 Wheat bran is high in fiber, potassium, and multiple other vitamins and minerals. Whole wheat flour contains wheat bran, but white flour is processed so that the bran is removed, and you’re basically left with gluten and a lot of starch.
 Choosing to go gluten-free means that you’ll avoid eating cookies, muffins, bagels, brownies, and other pastries, all of which use white flour and have a lot of sugar too.
 
-This makes gluten-free a great option for healthy eating. But there’s a caveat: avoiding gluten doesn’t have much of a benefit if you buy gluten-free substitutes that are just as bad. Unless you have a wheat sensitivity, you aren’t doing yourself any favors by eating a gluten-free cookie instead of a flour-based one. It also means that you miss out on healthy foods like whole wheat bread.
+This makes gluten-free a great option for healthy eating. But there’s a caveat: avoiding gluten doesn’t have much of a benefit if you buy gluten-free substitutes that are just as bad. Unless you have a wheat sensitivity, you aren’t doing yourself any favors by eating a gluten-free cookie instead of a flour-based one.
+
+It also means that you miss out on healthy foods like whole wheat bread.
 
 #### The best diet
 This is obviously just my opinion, but I aim for a high-fiber, low-sugar diet. I don't eat meat and try to eat vegan/keto foods as much as possible.
@@ -194,21 +194,21 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 #### Guar gum
 - rating: 10/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07FXSV3GV), $0.53/oz
-- A pure source of dietary fiber and a potent thickener. Pretty much any recipe with guar gum calls for a teaspoon or less, so all you need is one bag of this stuff and you're set.
-- (Xanthan Gum is pretty common in keto/gluten-free recipes, but it's more expensive and you need more of it for the same effect.)
+- A pure source of dietary fiber and a potent thickener. Pretty much any recipe with guar gum calls for less than a teaspoon of it, so all you need is one bag of this stuff and you're set.
+- (Xanthan Gum is pretty common in keto/gluten-free recipes, but it's much more expensive.)
 
 #### Chia Seeds
 - rating: 9.5/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07TVNV72P), $0.26/oz
     - also in grocery stores
 - The quintessential superfood. Add it to oatmeal or smoothies to make them healthier.
-- You can also use chia seeds in place of poppy seeds or tapioca when you make muffins or pudding.
+    - You can also use chia seeds in place of poppy seeds or tapioca when you make muffins or pudding.
 
 #### Impossible Sausage
 - rating: 9.5/10
 - buy it: [Amazon](https://www.amazon.com/dp/B09C14WDWL), $0.46/oz
     - also in [grocery stores](https://www.walmart.com/ip/525109109), $0.36/oz
-- Impossible ground sausage is my favorite plant-based meat substitute by far. Goes great on pizza, spaghetti, and breakfast burritos.
+- Impossible ground sausage is by far my favorite plant-based meat substitute. Goes great on pizza, spaghetti, and wherever else you usually use animal sausage.
 
 #### Oat Fiber
 - rating: 9/10
@@ -232,12 +232,12 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 - buy it: [Amazon](https://www.amazon.com/dp/B073TTZX4V), $0.61/oz
 - Pure “digestion-resistant maltodextrin”. Not a lot of research has been done into this stuff; it's probably best to assume that it has half the calories of starch or sugar, and that it does a good job of promoting gut bacteria growth.
 
-#### Erythritol
+#### Erythritol Sweetener
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07MCYC3T1), $0.25/oz
 - 75% as sweet as sugar, cools your mouth down when it dissolves
 
-#### Allulose
+#### Allulose Sweetener
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B08PY5ZJTX), $0.56/oz
 - 75% as sweet as sugar, muy expensivo
@@ -251,7 +251,7 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 #### Potato Pearls
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B072TNNJC4), $0.45/oz
-- Some food (like dinner rolls) can taste better with a bit of potato. `Natural and artificial flavors (milk)` is one of the ingredients in the potato pearls from the Amazon link above, so it might not be 100% vegan but IMO it's close enough.
+- Some food (like dinner rolls) can taste better with a bit of potato. `Natural and artificial flavors (milk)` is one of the ingredients in the potato pearls that I've linked, so it might not be 100% vegan but IMO it's close enough.
 
 #### Nutritional Yeast
 - rating: 6.5/10

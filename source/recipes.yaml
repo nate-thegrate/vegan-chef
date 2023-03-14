@@ -141,6 +141,116 @@ raspberry jam:
     - Heat the raspberries in a pot, using a potato masher to smash them into jam.
     - Add some thickener, then add the aspartame and let it cool.
 
+sweet potato:
+  meal: dinner
+  ingredients:
+    - 1 sweet potato
+  directions:
+    - Use a fork to puncture the potato skin a bunch.
+    - Bake at 425°F for 70 minutes. It's probably a good idea to put tin foil or parchment paper underneath to reduce cleanup hassle.
+    - Put whatever you'd like on top. (I like cinnamon since it reminds me of Thanksgiving)
+
+winter vegetable soup:
+  meal: dinner
+  ingredients:
+    - 1 lb plant-based ground beef
+    - 1 onion
+    - 15 oz stewed tomatoes
+    - 2 8-oz cans tomato sauce
+    - 1 T beef base
+    - 1 can corn, undrained
+    - 1 can green beans, undrained
+    - 1 can red kidney beans, undrained
+    - 1 can white kidney beans, undrained
+    - 1 t garlic
+    - 1/4 t pepper
+    - 1 t basil
+    - 1 bay leaf
+  directions:
+    - Brown sausage with onion.
+    - Then add all other ingredients and bring to a boil. Simmer for 30 min.
+
+kale sausage soup:
+  meal: dinner
+  ingredients:
+    - 1 package plant-based sausage
+    - 1 onion
+    - 6 cups vegetable broth
+    - 1/2 lb kale
+    - 2 lb other veggies (cauliflower, potatoes, carrots)
+    - 1 t basil
+    - 1/2 t oregano
+    - 1 t garlic powder
+    - 1 t salt
+    - 1/2 t pepper
+  directions:
+    - Brown sausage with onion.
+    - Then add all other ingredients and bring to a boil. Simmer for 30 min.
+
+spaghetti:
+  meal: dinner
+  ingredients:
+    - Spaghetti noodles
+    - Spaghetti sauce
+    - Plant-based sausage (optional)
+  directions:
+    - Hopefully you know how to cook spaghetti.
+
+pizza:
+  meal: dinner
+  ingredients:
+    - 2 c water
+    - 1 t lemon juice
+    - 1/4 c oil
+    - "1 T sugar :tired_face: (don't worry, it's just to activate the yeast)"
+    - 1/2 T salt
+    - 4 1/2 cups flour
+    - 1 T yeast
+    - 1/4 cup gluten
+    - sourdough starter (optional)
+  directions:
+    - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
+    - Roll out dough into 2 rectangles (or use half of it for breadsticks).
+    - For breadsticks, roll dough into breadstick shapes, then dip in olive oil and sprinkle garlic and/or parmesan on top.
+    - Top with marinara sauce, plant-based cheese & sausage, peppers, onions, and/or olives.
+    - Bake at 425°F for 12-15 minutes.
+
+dinner rolls:
+  meal: side dish
+  ingredients:
+    - 2 c water
+    - 1/4 c potato pearls
+    - 1 t lemon juice
+    - 6 T oil
+    - "1 T sugar :tired_face: (don't worry, it's just to activate the yeast)"
+    - 2 t salt
+    - 4 c flour
+    - 1 T yeast
+    - 2 T wheat gluten
+    - sourdough starter (optional)
+  directions:
+    - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
+    - Cut dough into 24 rolls. Roll them up and stick them on a pan in the oven.
+    - Set the oven to 350°F for 3 min to warm it up a bit, and then turn the oven off.
+    - Let the rolls rise for 30-45 min. Then set oven to 350°F and bake for 20 min.
+
+no-bake cookies:
+  meal: dessert
+  ingredients:
+    - 1/2 c plant-based butter
+    - 2/3 c erythritol
+    - 1/2 c soy milk
+    - 1/4 c cocoa powder
+    - "36 aspartame packets :smiling_imp:"
+    - 3 c oats
+    - 1 c peanut butter
+    - 1 T vanilla
+    - 1/8 t salt
+  directions:
+    - Boil butter, erythritol, milk, and cocoa for 90 seconds.
+    - Remove from heat and stir in everything else.
+    - Separate into individual cookie balls and let them cool on a cookie sheet for about 30 minutes.
+
 cinnamon rolls:
   meal: dessert
   ingredients:
@@ -150,17 +260,18 @@ cinnamon rolls:
     - 6 T oil
     - "1 T sugar :tired_face: (don't worry, it's just to activate the yeast)"
     - 2 t salt
-    - 4 1/4 c flour
+    - 4 c flour
     - 1 T yeast
     - 2 T wheat gluten
     - 1/2 c plant-based butter
     - 12 aspartame packets
     - 1/4 c cinnamon
+    - sourdough starter (optional)
   directions:
     - Mix together butter, aspartame, and cinnamon; set aside.
     - Combine all other ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
     - Using a rolling pin, spread the dough out into a large rectangle. Spread the butter/sugar/cinnamon mixture on top.
     - Roll the dough up and use dental floss to cut it into individual rolls (about 1 in thick).
     - Put the rolls in a pan and set the pan in the oven. Set the oven to 350°F for 3 min to warm it up a bit, and then turn the oven off.
-    - Let the cinnamon rolls rise for 30-45 min. Then set oven to 350F and bake for 20 min.
+    - Let the cinnamon rolls rise for 30-45 min. Then set oven to 350°F and bake for 20 min.
     - Once the rolls are done, transfer them to a serving plate and ice them.
