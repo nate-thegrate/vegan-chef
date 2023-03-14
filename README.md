@@ -26,7 +26,7 @@ Rather than being digested, erythritol is absorbed through the small intestinal 
 
 However: if you eat a lot of erythritol, some of it can make it into your large intestine. Large intestinal bacteria can digest erythritol, which means it's no longer zero calories, and it can cause bloating/gassiness/diarrhea/nausea :worried:
 
-I read on [Meritage](https://meritagemed.com/erythritol/#breadcrumbs) that there shouldn't be any problems if you eat 18 grams or less per day, and one study found that you can eat 0.5 grams per pound of body weight without issues.
+I read on [Meritage](https://meritagemed.com/erythritol/#breadcrumbs) that there shouldn't be any problems if you eat 18 grams or less per day, and one study found that you can eat over 50 grams (or 0.5 grams per pound of body weight) without issues.
 
 As long as you aren't binge-eating erythritol desserts, you'll probably be fine.
 
@@ -46,8 +46,8 @@ I bought Allulose on [Amazon](https://www.amazon.com/gp/product/B08PY5ZJTX), and
 #### Aspartame
 - 200 times sweeter than sugar
 
-There's so much bullsh** on the internet about how aspartame gives you cancer and AIDS and diabetes. I'm happy to put my trust in [Wikipedia](https://en.wikipedia.org/wiki/Aspartame#Intake) and its sources:
-> Reviews have found that even the high levels of intake of aspartame, studied across multiple countries and different methods of measuring aspartame consumption, are well below the ADI for safe consumption of aspartame.
+There's a lot of bullsh** on the internet about how aspartame gives you cancer and AIDS and diabetes. I'm happy to put my trust in [Wikipedia](https://en.wikipedia.org/wiki/Aspartame#Intake) and its sources:
+> Reviews have found that even the high levels of intake of aspartame, studied across multiple countries and different methods of measuring aspartame consumption, are well below the acceptable daily intake for safe consumption of aspartame.
 
 I found aspartame being sold on [Amazon](https://www.amazon.com/dp/B08J91Q9YJ), $13 for 1000 packets. Each packet has the sweetness of 2 teaspoons of sugar and has a small amount of dextrose & maltodextrin mixed in to give it some more volume.
 
@@ -55,7 +55,7 @@ For reference, whether you buy a 4-pound bag of sugar (227 2-teaspoon servings) 
 
 This is pretty great, especially considering how 4 pounds of erythritol costs about $16, and 4 pounds of allulose is around $35 (and with both of these, you need to add 33% extra to match the sweetness of sugar).
 
-**main takeaway:** if switching from sugar to aspartame works in your recipe, then do it.
+#### main takeaway:** if switching from sugar to aspartame works in your recipe, then do i
 
 #### Monk fruit
 - 200 times sweeter than sugar
@@ -118,7 +118,7 @@ There have been many claims that fat is bad for your health and that you should 
 
 Unfortunately, not a lot of this research is recent, and it’s difficult to untangle the truth from propaganda funded by the sugar industry.
 
-Many animal products are high in saturated fat & cholesterol, so perhaps the primary focus should be on reducing intake of animal products rather than saturated fat/cholesteral.
+Many animal products are high in saturated fat & cholesterol; perhaps the primary focus should instead be on reducing intake of animal products. (Eating animal products can lead to increased inflammation, from [what I've seen](https://www.google.com/search?q=animal+products+inflammation).)
 
 #### Protein
 Protein is necessary for survival. The FDA recommends 50 grams a day.
@@ -154,7 +154,7 @@ Vegetarians cut meat out of their diets, and vegans don't eat any animal product
 Committing to a vegetarian/vegan diet can be challenging, but there are multiple reasons to do it:
 - reduce impact of animal products on the environment
 - mitigate the animal suffering prevalent in factory farms
-- avoid negative health effects (eating animal products can lead to increased inflammation, from [what I've seen](https://www.google.com/search?q=animal+products+inflammation))
+- avoid negative health effects such as inflammation
 
 #### Gluten-free
 “Gluten” is another name for “wheat protein”.
@@ -180,73 +180,74 @@ Dietary fiber is found in vegetables, legumes, and whole grains. Fruits are also
 ## Shopping list
 Some of my recipe ingredients are not very common, so here's a brief overview (including how I feel about each ingredient and where to get it)
 
-**Aspartame Packets**
+#### Aspartame Packets
 - rating: 10/10
 - buy it: [Amazon](https://www.amazon.com/dp/B08J91Q9YJ), $13 for 1000 packets
 - The cheapest low-calorie sweetener I know of. A very convenient way to get rid of sugar in your diet.
 
-**Sourdough Starter**
+#### Sourdough Starter
 - rating: 10/10
 - buy it: you gotta [make it yourself](https://www.google.com/search?q=sourdough+starter+recipe)
     - or have a friend hook you up
 - Literally just a mix of flour and water. 10/10 since sourdough bread is awesome.
 
-**Guar gum**
+#### Guar gum
 - rating: 10/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07FXSV3GV), $0.53/oz
 - A pure source of dietary fiber and a potent thickener. Pretty much any recipe with guar gum calls for a teaspoon or less, so all you need is one bag of this stuff and you're set.
 - (Xanthan Gum is pretty common in keto/gluten-free recipes, but it's more expensive and you need more of it for the same effect.)
 
-**Chia Seeds**
+#### Chia Seeds
 - rating: 9.5/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07TVNV72P), $0.26/oz
     - also in grocery stores
 - The quintessential superfood. Add it to oatmeal or smoothies to make them healthier.
 - You can also use chia seeds in place of poppy seeds or tapioca when you make muffins or pudding.
 
-**Oat Fiber**
+#### Oat Fiber
 - rating: 9/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07NY4PQ6D), $0.48/oz
+    - or get it [bundled with wheat gluten](https://www.amazon.com/dp/B08MLB9ZHV) for $0.29/oz
 - A great way to get dietary fiber in a pure powder form.
 
-**Lupin Flour**
+#### Lupin Flour
 - rating: 8/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07L33XB8C), $0.58/oz
 - Regular flour but a lot healthier.
 
-**Wheat Gluten**
+#### Wheat Gluten
 - rating: 7.5/10
 - buy it: [Amazon](https://www.amazon.com/dp/B00PB8U7Y0), $0.37/oz
-    - or get it [bundled with Oat Fiber](https://www.amazon.com/dp/B08MLB9ZHV) for $0.29/oz
+    - or get it [bundled with oat fiber](https://www.amazon.com/dp/B08MLB9ZHV) for $0.29/oz
 - Wheat gluten is a great source of protein and can improve bread texture.
 
-**Fibersol-2**
+#### Fibersol-2
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B073TTZX4V), $0.61/oz
 - Pure “digestion-resistant maltodextrin”. Not a lot of research has been done into this stuff; it's probably best to assume that it has half the calories of starch or sugar, and that it does a good job of promoting gut bacteria growth.
 
-**Erythritol**
+#### Erythritol
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07MCYC3T1), $0.25/oz
 - 75% as sweet as sugar, cools your mouth down when it dissolves
 
-**Allulose**
+#### Allulose
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B08PY5ZJTX), $0.56/oz
 - 75% as sweet as sugar, muy expensivo
 
-**Swerve Powder**
+#### Swerve Powder
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B06WLH1J98), $0.58/oz
     - also in grocery stores
 - A nice (albeit expensive) 1:1 powdered sugar replacement, made with erythritol.
 
-**Potato Pearls**
+#### Potato Pearls
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B072TNNJC4), $0.45/oz
 - Some food (like dinner rolls) can taste better with a bit of potato. `Natural and artificial flavors (milk)` is one of the ingredients in the potato pearls from the Amazon link above, so it might not be 100% vegan but IMO it's close enough.
 
-**Nutritional Yeast**
+#### Nutritional Yeast
 - rating: 6.5/10
 - buy it: [Amazon](https://www.amazon.com/dp/B092H4Z7C6), $0.80/oz
     - also in grocery stores
