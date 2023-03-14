@@ -6,6 +6,8 @@ Use GitHub's fancy table of contents ( <img src="source/contents.svg"> icon abov
 
 #### All recipes can be found in the [recipes](recipes/) folder!
 
+<br><br>
+
 ## Current research/understanding
 
 ### Sweeteners
@@ -22,7 +24,7 @@ Erythritol bakes & carmelizes in a similar way to sugar, but unlike sugar it coo
 
 Rather than being digested, erythritol is absorbed through the small intestinal wall into the bloodstream, and then filtered by your kidneys into your urine.
 
-However: if you eat a lot of erythritol, some of it can make it into your large intestine. Large intestinal bacteria can digest erythritol, which means it's no longer zero calories, and it can cause bloating/gassiness/diarrhea/nausea :(
+However: if you eat a lot of erythritol, some of it can make it into your large intestine. Large intestinal bacteria can digest erythritol, which means it's no longer zero calories, and it can cause bloating/gassiness/diarrhea/nausea :worried:
 
 I read on [Meritage](https://meritagemed.com/erythritol/#breadcrumbs) that there shouldn't be any problems if you eat 18 grams or less per day, and one study found that you can eat 0.5 grams per pound of body weight without issues.
 
