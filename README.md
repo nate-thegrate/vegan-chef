@@ -55,7 +55,7 @@ For reference, whether you buy a 4-pound bag of sugar (227 2-teaspoon servings) 
 
 This is pretty great, especially considering how 4 pounds of erythritol costs about $16, and 4 pounds of allulose is around $35 (and with both of these, you need to add 33% extra to match the sweetness of sugar).
 
-#### main takeaway:** if switching from sugar to aspartame works in your recipe, then do i
+**main takeaway:** if switching from sugar to aspartame works in your recipe, then do it.
 
 #### Monk fruit
 - 200 times sweeter than sugar
