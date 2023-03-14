@@ -1,4 +1,4 @@
-# Nate: an aspiring vegan chef
+# An aspiring vegan chef
 
 This is a place to catalog my healthy plant-based recipes as I create &amp; experiment with them.
 
