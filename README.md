@@ -55,12 +55,12 @@ For reference, whether you buy a 4-pound bag of sugar (227 2-teaspoon servings) 
 
 This is pretty great, especially considering how 4 pounds of erythritol costs about $16, and 4 pounds of allulose is around $35 (and with both of these, you need to add 33% extra to match the sweetness of sugar).
 
-Takeaway: if switching from sugar to aspartame works in your recipe, then do it.
+**main takeaway:** if switching from sugar to aspartame works in your recipe, then do it.
 
 #### Monk fruit
 - 200 times sweeter than sugar
 
-Very similar to aspartame, but with a cooler-sounding name. It's also a bit more expensive.
+Very similar to aspartame, but it has "monk" in the name, which is pretty cool. It's also a bit more expensive.
 
 If you want a 1:1 sugar substitute and don't mind spending extra money, you could get a monk fruit/allulose blend on [Amazon](https://www.amazon.com/dp/B09B8P1MY9) ($40 for 4 pounds).
 
@@ -82,7 +82,7 @@ People with diabetes (and those on a Keto diet) use the term “net carbs” to 
 
 $\text{Total Carbs} - \text{Fiber} - \text{Sugar Alcohol} = \text{Net Carbs}$
 
-Net carbs include sugar (see above), starch, and maltodextrin.
+Net carbs include sugar, starch, and maltodextrin.
 
 
 #### Starch
@@ -91,7 +91,7 @@ Starch is made by taking hundreds of sugar molecules and bonding them together. 
 If you want a healthy way to get calories by eating carbs, starch is the way to go.
 
 #### Maltodextrin
-Maltodextrin is usually made by processing starch from wheat or corn using enzymes or other chemicals. You get maltodextrin if you have somewhere between 2 and 10 sugar molecules bonded together. It dissolves in water almost as well as sugar does, so it’s often used for thickening & emulsifying; it also can be mixed with oil to convert it into a powder form. Maltodextrin is found in Cheetos, Doritos, salt & vinegar chips, and Quaker oatmeal squares.
+Maltodextrin is usually made by processing starch from wheat or corn using enzymes or other chemicals. You get maltodextrin if you have somewhere between 2 and 10 sugar molecules bonded together. It dissolves in water almost as well as sugar does, so it’s often used for thickening & emulsifying; it also can be mixed with oil to convert it into a powder form. Maltodextrin is found in many processed foods, e.g. Cheetos, Doritos, salt & vinegar chips, and Quaker oatmeal squares.
 
 As far as the work your body does to digest maltodextrin, it’s more work than sugar but less work than starch.
 
@@ -100,11 +100,13 @@ Have you tried “Hero Bread”, “Carb Balance” tortillas, or any other keto
 
 The secret is “modified wheat starch” (a.k.a. “digestion-resistant wheat starch”). Instead of just using flour, they extract the starch and then process it (usually using enzymes or other chemicals) so that it becomes resistant to the human digestive system.
 
-In theory, it should just pass through your body like any other type of dietary fiber rather than being converted into energy. The reality is that research on digestion-resistant starch is sparse since it’s such a new development; [one self-experiment](https://www.quantifieddiabetes.com/2020/09/measuring-effect-of-low-carb.html) found that it has an impact on your blood sugar about 50% as strong as regular corn starch. (But that’s still a pretty nice difference!) The running theory is that your gut bacteria can still digest the resistant starch, and then your body is able to digest the bacteria once they die.
+In theory, it should just pass through your body like any other type of dietary fiber rather than being converted into energy. The reality is that research on digestion-resistant starch is sparse since it’s still pretty new; [one self-experiment](https://www.quantifieddiabetes.com/2020/09/measuring-effect-of-low-carb.html) found that it has an impact on your blood sugar about 50% as strong as regular corn starch. (But that’s still a pretty nice difference!) The running theory is that your gut bacteria can still digest the resistant starch, and then your body is able to digest the bacteria once they die.
 
 I’ve really enjoyed buying & eating these low-carb wheat foods. Recently I’ve been thinking, “how cool would it be if I could use this modified wheat starch in my own baking?” Instead of white flour, I could use a combination of gluten, bran, and modified starch to get the same result with fewer net carbs.
 
 After an enormous amount of searching, the closest thing I could find was King Arthur brand “Keto Wheat Baking Flour”. It contains a lot of gluten and modified starch, along with a few other ingredients. But this stuff is expensive—normally you can get a 5-pound bag of wheat flour for $6 or less, but 5 pounds of this keto flour is over $40. And keep in mind that it’s a combination of a bunch of ingredients, not just pure modified wheat starch.
+
+I was able to find pure digestion-resistant maltodextrin (more on that later).
 
 <br>
 
@@ -116,19 +118,19 @@ There have been many claims that fat is bad for your health and that you should 
 
 Unfortunately, not a lot of this research is recent, and it’s difficult to untangle the truth from propaganda funded by the sugar industry.
 
-Many animal products are high in saturated fat & cholesterol, and recent evidence suggests that a diet high in animal products can cause inflammation and other negative health effects (at least from [what I’ve seen](https://www.google.com/search?q=animal+products+inflammation)).
-
-My plan for now is to avoid saturated fat & cholesterol when it’s convenient to do so, and to make significant effort to reduce the amount of animal products in my diet.
+Many animal products are high in saturated fat & cholesterol, so perhaps the primary focus should be on reducing intake of animal products rather than saturated fat/cholesteral.
 
 #### Protein
-Protein is necessary for survival. I currently try to eat 50 grams a day, as per the FDA’s recommendation.
+Protein is necessary for survival. The FDA recommends 50 grams a day.
 
 #### Vitamins & Minerals
 Until recently, my understanding was that I didn’t need any sort of supplements, since there are already plenty of vitamins & minerals in the food I eat.
 
 But then I heard that vitamin B deficiencies are pretty common, and after getting some blood work done, I found out that I have a vitamin D deficiency.
 
-So I now take multivitamins on a regular basis.
+So now I take multivitamins on a regular basis.
+
+<br>
 
 ### Diets
 
@@ -144,7 +146,7 @@ The goal of a keto diet is to reduce the amount of net carbs you consume so that
 
 This causes “ketosis”, which means that your body is forced to burn fat for energy.
 
-The keto diet is a highly effective way to lose weight, but drastically reducing carbs can have adverse side effects, such as cramps, headaches, digestive problems, and fatigue.
+The keto diet is a highly effective way to lose weight, but drastically reducing carbs can have adverse side effects, such as cramps, headaches, fatigue, and digestive problems.
 
 #### Vegetarian/Vegan
 Vegetarians cut meat out of their diets, and vegans don't eat any animal products whatsoever.
@@ -152,10 +154,10 @@ Vegetarians cut meat out of their diets, and vegans don't eat any animal product
 Committing to a vegetarian/vegan diet can be challenging, but there are multiple reasons to do it:
 - reduce impact of animal products on the environment
 - mitigate the animal suffering prevalent in factory farms
-- avoid negative health effects (eating animal products can lead to increased inflammation from [what I've seen](https://www.google.com/search?q=animal+products+inflammation))
+- avoid negative health effects (eating animal products can lead to increased inflammation, from [what I've seen](https://www.google.com/search?q=animal+products+inflammation))
 
 #### Gluten-free
-“Gluten” is basically just another name for “wheat protein”.
+“Gluten” is another name for “wheat protein”.
 
 The benefits of a gluten-free diet are obvious for anyone who has coeliac disease or any other gluten sensitivity: it’s a good idea to avoid gluten if your body can’t handle it.
 
@@ -171,7 +173,9 @@ This makes gluten-free a great option for healthy eating. But there’s a caveat
 #### The best diet
 This is obviously just my opinion, but I aim for a high-fiber, low-sugar diet. I don't eat meat and try to eat vegan/keto foods as much as possible.
 
-Dietary fiber is found in vegetables, legumes, and whole grains. Fruits are also a good source of fiber, but I don’t eat them as much since they’re also pretty high in sugar. (Shoutout to thousands of years of selective crop breeding!)
+Dietary fiber is found in vegetables, legumes, and whole grains. Fruits are also a good source of fiber, but I don’t eat them as much since they’re also pretty high in sugar.
+
+<br><br>
 
 ## Shopping list
 Some of my recipe ingredients are not very common, so here's a brief overview (including how I feel about each ingredient and where to get it)
@@ -208,7 +212,7 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 **Lupin Flour**
 - rating: 8/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07L33XB8C), $0.58/oz
-- It's like regular flour but it's a lot healthier. [I'll add more here once I get a chance to experiment with it some more]
+- Regular flour but a lot healthier.
 
 **Wheat Gluten**
 - rating: 7.5/10
@@ -240,11 +244,12 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 **Potato Pearls**
 - rating: 7/10
 - buy it: [Amazon](https://www.amazon.com/dp/B072TNNJC4), $0.45/oz
-- Some food (like dinner rolls) can have its taste improved with a bit of potato. `Natural and artificial flavors (milk)` is one of the ingredients in the potato pearls shown in the above Amazon link, so these might not be 100% vegan, but IMO they're close enough.
+- Some food (like dinner rolls) can taste better with a bit of potato. `Natural and artificial flavors (milk)` is one of the ingredients in the potato pearls from the Amazon link above, so it might not be 100% vegan but IMO it's close enough.
 
 **Nutritional Yeast**
 - rating: 6.5/10
 - buy it: [Amazon](https://www.amazon.com/dp/B092H4Z7C6), $0.80/oz
+    - also in grocery stores
 - In theory, this is supposed to be an easy cheese substitute for vegans. In reality, the taste is kinda weird, but it works pretty well in some recipes.
 
 #### Too expensive, don't get these
