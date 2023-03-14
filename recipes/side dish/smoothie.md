@@ -10,4 +10,4 @@
 
 ### directions:
 
-blend it up
+Blend it up 😎
