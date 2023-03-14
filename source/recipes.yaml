@@ -30,6 +30,28 @@ beans & rice:
     - Mix everything but the beans in with the rice and cook them together (having a rice maker or insta-pot is helpful).
     - Mix in the beans and eat!
 
+tofu curry:
+  meal: dinner
+  ingredients:
+    - 28 oz extra firm tofu
+    - 1/8 c oil
+    - 1 onion
+    - 1 t garlic salt
+    - 2 T curry powder
+    - 1 T ginger
+    - 2 t coriander
+    - 1/4 t cayenne pepper
+    - 1/2 t black pepper
+    - 14 oz coconut milk
+    - 14 oz diced tomatoes
+    - 1/2 T lime juice
+    - 2 aspartame packets
+    - 1 cup vegetable broth
+  directions:
+    - Heat up tofu, oil, and onion on a skillet over medium-high heat. Add all the spices and keep going until the tofu & onion start to brown.
+    - Then add everything else and simmer for 20 minutes.
+    - Serve with rice.
+
 pancakes:
   meal: breakfast
   ingredients:
@@ -247,7 +269,7 @@ no-bake cookies:
     - 1 T vanilla
     - 1/8 t salt
   directions:
-    - Boil butter, erythritol, milk, and cocoa for 90 seconds.
+    - Bring butter, erythritol, milk, and cocoa to a boil; boil for 90 seconds.
     - Remove from heat and stir in everything else.
     - Separate into individual cookie balls and let them cool on a cookie sheet for about 30 minutes.
 
