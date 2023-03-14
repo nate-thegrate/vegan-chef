@@ -20,11 +20,11 @@ Ubiquitous and easy to use, but also causes obesity. :(
 
 Out of all the sugar alcohols, erythritol is the best in my opinion: its combination of being sweet, low in calories, and easy on your digestive system is pretty rad.
 
-Erythritol bakes & carmelizes in a similar way to sugar, but unlike sugar it cools your mouth down quite a bit when it dissolves. Sometimes this is a fun experience, but when switching a recipe over from sugar to erythritol, it's easy to tell that something is off.
+Erythritol bakes & carmelizes in a similar way to sugar, but unlike sugar it cools your mouth down quite a bit when it dissolves. Sometimes this is a fun experience, but when switching a recipe over from sugar to erythritol, it's easy to tell that something's off.
 
 Rather than being digested, erythritol is absorbed through the small intestinal wall into the bloodstream, and then filtered by your kidneys into your urine.
 
-However: if you eat a lot of erythritol, some of it can make it into your large intestine. Large intestinal bacteria can digest erythritol, which means it's no longer zero calories, and it can cause bloating/gassiness/diarrhea/nausea :worried:
+However: if you eat a lot of erythritol, some of it can end up in your large intestine. Large intestinal bacteria can digest erythritol, which means it's no longer zero calories, and it can cause bloating/gassiness/diarrhea/nausea :worried:
 
 I read on [Meritage](https://meritagemed.com/erythritol/#breadcrumbs) that there shouldn't be any problems if you eat 18 grams or less per day, and one study found that you can eat over 50 grams (or 0.5 grams per pound of body weight) without issues.
 
