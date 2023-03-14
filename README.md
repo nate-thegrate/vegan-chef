@@ -8,6 +8,60 @@ Use GitHub's fancy table of contents ( <img src="source/contents.svg" width="16p
 
 ## Current research/understanding
 
+## Diets
+
+### Paleo
+The goal of a paleo diet is to mimic the way humans ate before the agricultural revolution (since stuff like obesity wasn't a problem back then.)
+
+The issue is that simply restricting yourself to certain foods doesn’t address the issue of overeating or not getting enough exercise. Furthermore, selective breeding in agriculture is virtually unavoidable—even if you eat fresh fruits and veggies, it’s pretty much guaranteed that the food you’re eating has been selectively bred over thousands of years to taste better. A banana eaten today has a much higher sugar content than a banana eaten during the stone age.
+
+The other issue is that adhering to the paleo diet prevents you from eating whole grains and legumes, both of which are generally considered to be healthy foods.
+
+### Keto
+The goal of a keto diet is to reduce the amount of net carbs you consume so that nearly all of your energy comes from fat and protein.
+
+This causes “ketosis”, which means that your body is forced to burn fat for energy.
+
+The keto diet is a highly effective way to lose weight, but drastically reducing carbs can have adverse side effects, such as cramps, headaches, digestive problems, and fatigue.
+
+### Vegetarian/Vegan
+Vegetarians cut meat out of their diets, and vegans don't eat any animal products whatsoever.
+
+Committing to a vegetarian/vegan diet can be challenging, but there are multiple reasons to do it:
+- reduce impact of animal products on the environment
+- mitigate the animal suffering prevalent in factory farms
+- avoid negative health effects (eating animal products can lead to increased inflammation from [what I've seen](https://www.google.com/search?q=animal+products+inflammation))
+
+### Gluten-free
+“Gluten” is basically just another name for “wheat protein”.
+
+The benefits of a gluten-free diet are obvious for anyone who has coeliac disease or any other gluten sensitivity: it’s a good idea to avoid gluten if your body can’t handle it.
+
+However, many people don’t have an adverse reaction to wheat but still choose to adopt a gluten-free diet. These people generally believe that protein is a good nutrient, which seems contradictory: what’s the problem with gluten then?
+
+Despite the apparent contradiction, there’s a huge benefit to the gluten-free diet: avoiding gluten means you avoid flour and everything that’s made from it.
+
+Wheat bran is high in fiber, potassium, and multiple other vitamins and minerals. Whole wheat flour contains wheat bran, but white flour is processed so that the bran is removed, and you’re basically left with gluten and a lot of starch.
+Choosing to go gluten-free means that you’ll avoid eating cookies, muffins, bagels, brownies, and pastries, all of which use white flour and have a lot of sugar too.
+
+This makes gluten-free a great option for healthy eating. But there’s a caveat: avoiding gluten doesn’t have much of a benefit if you buy gluten-free substitutes that are just as bad. Unless you have a wheat sensitivity, you aren’t doing yourself any favors by eating a gluten-free cookie instead of a flour-based one. It also means that you miss out on healthy foods like whole wheat bread.
+
+### The best diet
+This is obviously just my opinion, but I aim for a diet that’s high in fiber and not super high in net carbs. I try to avoid maltodextrin & sugar whenever possible (or more accurately, whenever I have enough self-control).
+
+Dietary fiber is found in vegetables, legumes, and whole grains. Fruits are also a good source of fiber, but I don’t eat them as much since they’re also pretty high in sugar. (Shoutout to thousands of years of selective crop breeding!)
+
+### Crazy new high-fiber products
+Have you tried “Hero Bread”, “Carb Balance” tortillas, or any other keto-friendly wheat products? They have a crazy high amount of dietary fiber, and the amount of net carbs is very low, sometimes even zero.
+
+The secret is “modified wheat starch” (a.k.a. “digestion-resistant wheat starch”). Instead of just using flour, they extract the starch and then process it (usually using enzymes or other chemicals) so that it becomes resistant to the human digestive system.
+
+In theory, it should just pass through your body like any other type of dietary fiber rather than being converted into energy. The reality is that research on digestion-resistant starch is sparse since it’s such a new development; [one self-experiment](https://www.quantifieddiabetes.com/2020/09/measuring-effect-of-low-carb.html) found that it has an impact on your blood sugar about 50% as strong as regular corn starch. (But that’s still a pretty nice difference!)
+
+I’ve really enjoyed buying & eating these low-carb wheat foods. Recently I’ve been thinking, “how cool would it be if I could use this modified wheat starch in my own baking?” Instead of white flour, I could use a combination of gluten, bran, and modified starch to get the same result with fewer net carbs.
+
+After an enormous amount of searching, the closest thing I could find was King Arthur brand “Keto Wheat Baking Flour”. It contains a lot of gluten and modified starch, along with a few other ingredients. But this stuff is expensive—normally you can get a 5-pound bag of wheat flour for $6 or less, but 5 pounds of this keto flour is over $40. And keep in mind that it’s a combination of a bunch of ingredients, not just pure modified wheat starch.
+
 ### Sweeteners
 
 #### Sugar
@@ -71,7 +125,7 @@ Stevia is very similar to aspartame and monk fruit, but it's known to have an un
 
 #### Dietary Fiber
 The name “dietary fiber” is given to carbs that the human digestive system can’t break down and use for energy.
-Dietary fiber aids in digestion and lowers your risk of several diseases (read more on Wikipedia).
+Dietary fiber aids in digestion and lowers your risk of several diseases (read more on [Wikipedia](https://en.wikipedia.org/wiki/Dietary_fiber)).
 
 #### Net Carbs
 People with diabetes (and those on a Keto diet) use the term “net carbs” to describe carbs that have a significant impact on blood sugar levels.
@@ -101,7 +155,7 @@ There have been many claims that fat is bad for your health and that you should 
 
 Unfortunately, not a lot of this research is recent, and it’s difficult to untangle the truth from propaganda funded by the sugar industry.
 
-Many animal products are high in saturated fat & cholesterol, and recent evidence suggests that a diet high in animal products can cause inflammation and other negative health effects (at least from what I’ve seen).
+Many animal products are high in saturated fat & cholesterol, and recent evidence suggests that a diet high in animal products can cause inflammation and other negative health effects (at least from [what I’ve seen](https://www.google.com/search?q=animal+products+inflammation)).
 
 My plan for now is to avoid saturated fat & cholesterol when it’s convenient to do so, and to make significant effort to reduce the amount of animal products in my diet.
 
@@ -114,58 +168,6 @@ Until recently, my understanding was that I didn’t need any sort of supplement
 But then I heard that vitamin B deficiencies are pretty common, and after getting some blood work done, I found out that I have a vitamin D deficiency.
 
 So I now take multivitamins on a regular basis.
-
-## Diets
-
-### Paleo
-The goal of a paleo diet is to mimic the way humans ate before the agricultural revolution (since stuff like obesity wasn't a problem back then.)
-
-The issue is that simply restricting yourself to certain foods doesn’t address the issue of overeating or not getting enough exercise. Furthermore, selective breeding in agriculture is virtually unavoidable—even if you eat fresh fruits and veggies, it’s pretty much guaranteed that the food you’re eating has been selectively bred over thousands of years to taste better. A banana eaten today has a much higher sugar content than a banana eaten during the stone age.
-
-The other issue is that adhering to the paleo diet prevents you from eating whole grains and legumes, both of which are generally considered to be healthy foods.
-
-### Keto
-The goal of a keto diet is to reduce the amount of net carbs you consume so that nearly all of your energy comes from fat and protein.
-
-This causes “ketosis”, which means that your body is forced to burn fat for energy.
-
-The keto diet is a highly effective way to lose weight, but drastically reducing carbs can have adverse side effects, such as cramps, headaches, digestive problems, and fatigue.
-
-### Low Sugar
-The evidence is overwhelming that high sugar intake is linked to obesity and other health problems, so making an effort to avoid sugar will lead to better health outcomes.
-
-### High fiber
-Not only does it help your digestion, but since dietary fiber has no calories, a high-fiber diet helps you feel more full without increasing your calorie intake, which is great for controlling hunger.
-
-### Gluten-free
-“Gluten” is basically just another name for “wheat protein”.
-
-The benefits of a gluten-free diet are obvious for anyone who has coeliac disease or any other gluten sensitivity: it’s a good idea to avoid gluten if your body can’t handle it.
-
-However, many people don’t have an adverse reaction to wheat but still choose to adopt a gluten-free diet. These people generally believe that protein is a good nutrient, which seems contradictory: what’s the problem with gluten then?
-
-Despite the apparent contradiction, there’s a huge benefit to the gluten-free diet: avoiding gluten means you avoid flour and everything that’s made from it.
-
-Wheat bran is high in fiber, potassium, and multiple other vitamins and minerals. Whole wheat flour contains wheat bran, but white flour is processed so that the bran is removed, and you’re basically left with gluten and a lot of starch.
-Choosing to go gluten-free means that you’ll avoid eating cookies, muffins, bagels, brownies, and pastries, all of which use white flour and have a lot of sugar too.
-
-This makes gluten-free a great option for healthy eating. But there’s a caveat: avoiding gluten doesn’t have much of a benefit if you buy gluten-free substitutes that are just as bad. Unless you have a wheat sensitivity, you aren’t doing yourself any favors by eating a gluten-free cookie instead of a flour-based one. It also means that you miss out on healthy foods like whole wheat bread.
-
-### The best diet
-This is obviously just my opinion, but I aim for a diet that’s high in fiber and not super high in net carbs. I try to avoid maltodextrin & sugar whenever possible (or more accurately, whenever I have enough self-control).
-
-Dietary fiber is found in vegetables, legumes, and whole grains. Fruits are also a good source of fiber, but I don’t eat them as much since they’re also pretty high in sugar. (Shoutout to thousands of years of selective crop breeding!)
-
-### Crazy new high-fiber products
-Have you tried “Hero Bread”, “Carb Balance” tortillas, or any other keto-friendly wheat products? They have a crazy high amount of dietary fiber, and the amount of net carbs is very low, sometimes even zero.
-
-The secret is “modified wheat starch” (a.k.a. “digestion-resistant wheat starch”). Instead of just using flour, they extract the starch and then process it (usually using enzymes or other chemicals) so that it becomes resistant to the human digestive system.
-
-In theory, it should just pass through your body like any other type of dietary fiber rather than being converted into energy. The reality is that research on digestion-resistant starch is sparse since it’s such a new development; [one self-experiment](https://www.quantifieddiabetes.com/2020/09/measuring-effect-of-low-carb.html) found that it has an impact on your blood sugar about 50% as strong as regular corn starch. (But that’s still a pretty nice difference!)
-
-I’ve really enjoyed buying & eating these low-carb wheat foods. Recently I’ve been thinking, “how cool would it be if I could use this modified wheat starch in my own baking?” Instead of white flour, I could use a combination of gluten, bran, and modified starch to get the same result with fewer net carbs.
-
-After an enormous amount of searching, the closest thing I could find was King Arthur brand “Keto Wheat Baking Flour”. It contains a lot of gluten and modified starch, along with a few other ingredients. But this stuff is expensive—normally you can get a 5-pound bag of wheat flour for $6 or less, but 5 pounds of this keto flour is over $40. And keep in mind that it’s a combination of a bunch of ingredients, not just pure modified wheat starch.
 
 ## Shopping list
 Some of my recipe ingredients are not very common, so here's a brief overview (including how I feel about each ingredient and where to get it)
