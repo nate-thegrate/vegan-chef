@@ -51,7 +51,7 @@ There's so much bullsh** on the internet about how aspartame gives you cancer an
 
 I found aspartame being sold on [Amazon](https://www.amazon.com/dp/B08J91Q9YJ), $13 for 1000 packets. Each packet has the sweetness of 2 teaspoons of sugar and has a small amount of dextrose & maltodextrin mixed in to give it some more volume.
 
-For reference, whether you buy a 4-pound bag of sugar (227 2-teaspoon servings) or use the equivalent amount of aspertame packets, the cost is the same (about $2.95).
+For reference, whether you buy a 4-pound bag of sugar (227 2-teaspoon servings) or use the equivalent amount of aspartame packets, the cost is the same (about $2.95).
 
 This is pretty great, especially considering how 4 pounds of erythritol costs about $16, and 4 pounds of allulose is around $35 (and with both of these, you need to add 33% extra to match the sweetness of sugar).
 
