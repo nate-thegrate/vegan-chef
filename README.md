@@ -20,7 +20,7 @@ Ubiquitous and easy to use, but also causes obesity. :(
 
 Out of all the sugar alcohols, erythritol is the best in my opinion: its combination of being sweet, low in calories, and easy on your digestive system is pretty rad.
 
-Erythritol bakes & carmelizes in a similar way to sugar, but unlike sugar it cools your mout down quite a bit when it dissolves. Sometimes this is a fun experience, but when switching a recipe over from sugar to erythritol, it's easy to tell that something is off.
+Erythritol bakes & carmelizes in a similar way to sugar, but unlike sugar it cools your mouth down quite a bit when it dissolves. Sometimes this is a fun experience, but when switching a recipe over from sugar to erythritol, it's easy to tell that something is off.
 
 Rather than being digested, erythritol is absorbed through the small intestinal wall into the bloodstream, and then filtered by your kidneys into your urine.
 
