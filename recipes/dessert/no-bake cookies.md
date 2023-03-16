@@ -15,8 +15,8 @@
 
 ### directions:
 
-Boil butter, erythritol, milk, and cocoa for 90 seconds.
+Bring butter, erythritol, milk, and cocoa to a boil; boil for 90 seconds.
 
-Remove from heat and stir in everything else.
+Let it cool for a minute and then stir in everything else.
 
 Separate into individual cookie balls and let them cool on a cookie sheet for about 30 minutes.
