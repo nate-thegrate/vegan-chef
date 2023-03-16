@@ -14,7 +14,7 @@
 - 1/2 T lime juice
 - 14 oz coconut milk
 - 1 cup vegetable broth
-- 2 aspartame packets
+- 2 T erythritol
 
 <br>
 
