@@ -3,7 +3,7 @@
 ### ingredients
 - 1 package plant-based sausage
 - 1 onion
-- 6 cups vegetable broth
+- 6 c vegetable broth
 - 1/2 lb kale
 - 2 lb other veggies (cauliflower, potatoes, carrots)
 - 1 t basil

@@ -6,9 +6,9 @@
 - 1/4 c oil
 - 1 T sugar :tired_face: (don't worry, it's just to activate the yeast)
 - 1/2 T salt
-- 4 1/2 cups flour
+- 4 1/2 c flour
 - 1 T yeast
-- 1/4 cup gluten
+- 1/4 c gluten
 - sourdough starter (optional)
 
 <br>
