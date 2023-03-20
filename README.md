@@ -55,19 +55,24 @@ For reference, whether you buy a 4-pound bag of sugar (227 2-teaspoon servings) 
 
 This is pretty great, especially considering how 4 pounds of erythritol costs about $16, and 4 pounds of allulose is around $35 (and with both of these, you need to add 33% extra to match the sweetness of sugar).
 
-**main takeaway:** if switching from sugar to aspartame works in your recipe, then do it.
+But there's a huge caveat: aspartame can lose its sweetness if it's heated, so it isn't great for cooking/baking.
+
+#### Sucralose
+- 200 times sweeter than sugar
+
+Sucralose is very similar to aspartame, but it can be used in baking. It's a bit more expensive—the best deal [I could find](#splenda-packets) was $40 for 2000 Splenda packets ($4.54 for the equivalent of a 4-pound bag of sugar)—but it still achieves the same sweetness as erythritol or allulose for a much better price.
 
 #### Monk fruit
 - 200 times sweeter than sugar
 
-Very similar to aspartame, but it has "monk" in the name, which is pretty cool. It's also a bit more expensive.
+Very similar to sucralose, but it has "monk" in the name, which is pretty cool. It's also a bit more expensive.
 
 If you want a 1:1 sugar substitute and don't mind spending extra money, you could get a monk fruit/allulose blend on [Amazon](https://www.amazon.com/dp/B09B8P1MY9) ($40 for 4 pounds).
 
 #### Stevia
 - 200 times sweeter than sugar
 
-Stevia is very similar to aspartame and monk fruit, but it's known to have an undesirable aftertaste. Probably a good one to avoid.
+Stevia is known to have an undesirable aftertaste. It's probably best to avoid using it.
 
 <br>
 
@@ -183,7 +188,12 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
 #### Aspartame Packets
 - rating: 10/10
 - buy it: [Amazon](https://www.amazon.com/dp/B08J91Q9YJ), $13 for 1000 packets
-- The cheapest low-calorie sweetener I know of. A very convenient way to get rid of sugar in your diet.
+- The cheapest low-calorie sweetener I know of.
+
+#### Splenda Packets
+- rating: 10/10
+- buy it: [Amazon](https://www.amazon.com/dp/B000LRO5O4), $40 for 2000 packets
+- The cheapest low-calorie sweetener that can be used in baking.
 
 #### Sourdough Starter
 - rating: 10/10
