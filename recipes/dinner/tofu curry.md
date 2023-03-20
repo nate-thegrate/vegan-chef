@@ -4,15 +4,16 @@
 - 28 oz extra firm tofu
 - 1/8 c oil
 - 1 onion
-- 1 t garlic salt
+- 1/2 t garlic powder
 - 2 T curry powder
 - 1 T ginger
 - 2 t coriander
 - 1/4 t cayenne pepper
 - 1/2 t black pepper
+- 2 t salt
 - 14 oz diced tomatoes
-- 1/2 T lime juice
 - 14 oz coconut milk
+- 1/2 T lime juice
 - 1 c vegetable broth
 - 2 T erythritol
 
