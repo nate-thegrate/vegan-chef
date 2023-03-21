@@ -1,0 +1,66 @@
+{
+    "header": "InboundVerbatim",
+    "metadata": {
+        "band": "AUS",
+        "cid": 1,
+        "destinationUid": {
+            "market": {
+                "name": "Repeater"
+            },
+            "serialNumber": 6748527
+        },
+        "direction": "inbound",
+        "hopCount": 0,
+        "layer": 2,
+        "nid": 1,
+        "originatorUid": {
+            "market": {
+                "name": "Repeater"
+            },
+            "serialNumber": 2955578
+        },
+        "priority": false,
+        "remoteType": "two-way full",
+        "traceUidList": []
+    },
+    "payload": {
+        "mcb": 33,
+        "name": "RepeaterApplicationPayload",
+        "repeaterPayload": {
+            "altNeighbor": 63855,
+            "highPriorityInboundDeliveryCount": 8,
+            "highPriorityInboundMessageDropCount": 9,
+            "highPriorityOutboundDirectedDeliveryCount": 4,
+            "highPriorityOutboundDirectedReceiveCount": 3,
+            "lowPriorityInboundDeliveryCount": 6,
+            "lowPriorityInboundMessageDropCount": 7,
+            "lowPriorityOutboundDirectedDeliveryCount": 2,
+            "lowPriorityOutboundDirectedReceiveCount": 1,
+            "mainNeighbor": 43690,
+            "messagePendingCount": 5,
+            "name": "RequestRepeaterDiagnosticsResponse",
+            "neighborBuildCount": 10,
+            "status": {
+                "jammed": false,
+                "layer": 2,
+                "limitedScanningRemotes": false,
+                "lossOfLinePower": false,
+                "lowBattery": false,
+                "neighborListAssigned": true,
+                "onlyOneNeighbor": false,
+                "reset": false,
+                "stat0bit0": false,
+                "stat0bit2": false,
+                "statusAck": false,
+                "supervision": false,
+                "tamper": true
+            },
+            "subclass": 13
+        }
+    },
+    "signal": {
+        "channel": 7,
+        "level": 64,
+        "margin": 64
+    }
+}
