@@ -7,7 +7,7 @@
 - 2 carrots, cut into matchsticks
 - 1/4 t garlic powder
 - 15 oz white beans
-- 4 cups chicken broth
+- 4 c chicken broth
 - 1/2 t black pepper
 - 3 T parsley
 - 1 t thyme

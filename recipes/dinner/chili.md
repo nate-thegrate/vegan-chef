@@ -1,7 +1,7 @@
 # chili
 
 ### ingredients
-- 4 cups dry beans
+- 4 c dry beans
 - 4 cans diced tomatoes
 - 4 cans tomato sauce
 - 1 1/2 lb plant-based ground beef

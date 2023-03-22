@@ -6,7 +6,7 @@
 - 15 oz white beans, undrained
 - 15 oz black beans, undrained
 - 15 oz diced tomatoes
-- 2 cups water
+- 2 c water
 - 4 t beef base
 - ½ lb pasta
 
