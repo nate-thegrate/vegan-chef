@@ -1,5 +1,5 @@
 cornbread:
-  meal: side dish
+  meal: side dish, bread
   ingredients:
     - 1/2 c canola oil
     - 12 aspartame packets
@@ -47,7 +47,7 @@ tofu curry:
     - 14 oz coconut milk
     - 1/2 T lime juice
     - 1 c vegetable broth
-    - 2 T erythritol
+    - 3 Splenda packets
   directions:
     - Slice the tofu into cubes and dice the onion, then place them in a skillet with the oil over medium-high heat.
     - Add all the spices and cook until the tofu & onion start to brown.
@@ -102,6 +102,7 @@ french toast:
     - 1/2 T vanilla
     - 1/4 t salt
     - 1/8 t guar gum
+    - sliced bread
   directions:
     - Mix ingredients together.
     - Dunk bread in mixture and then cook it like a pancake.
@@ -123,14 +124,15 @@ oatmeal:
 lemon bars:
   meal: dessert
   ingredients:
-    - 1/3 c plant-based butter
-    - 6 Splenda packets
-    - 1 c whole wheat flour
-    - 2 eggs
+    - crust:
+      - 1/3 c plant-based butter
+      - 6 Splenda packets
+      - 1 c whole wheat flour
     - 18 Splenda packets
     - 2 T lupin flour
     - 2 t lemon peel
     - 3 T lemon juice
+    - 1/2 t guar gum
     - 1/4 t baking powder
     - 1/8 t salt
   directions:
@@ -156,10 +158,10 @@ chili skillet:
   directions:
     - Brown beef with onion. (Drain grease afterward if there is any.)
     - Add all other ingredients except cheese and bring to a boil. Simmer for 15 min.
-    - Add cheese if you'd like, and serve with tortilla chips.
+    - Sprinkle cheese on top if you'd like, and serve with tortilla chips.
 
 rice pudding:
-  meal: dessert
+  meal: breakfast, dessert
   ingredients:
     - 3/4 c rice
     - 1 1/2 c soy milk
@@ -173,7 +175,7 @@ rice pudding:
     - Combine all ingredients and cook them however you normally like to cook rice. (A rice maker or insta-pot works well for this.)
 
 smoothie:
-  meal: breakfast
+  meal: breakfast, drink
   ingredients:
     - frozen strawberries (and/or other fruit, but IMO strawberries have the best healthy/tasty combo)
     - lemonade mix
@@ -183,7 +185,7 @@ smoothie:
     - Blend it up 😎
 
 sourdough bread:
-  meal: side dish
+  meal: side dish, bread
   ingredients:
     - 300 g water
     - 100 g sourdough starter
@@ -200,7 +202,7 @@ sourdough bread:
     - It might be worth it to buy an electric knife, since sourdough has a hard crust that's difficult to slice through.
 
 sourdough sopapillas:
-  meal: dessert
+  meal: breakfast, dessert, bread
   ingredients:
     - 300 g water
     - 100 g sourdough starter
@@ -217,7 +219,7 @@ sourdough sopapillas:
     - Serve with honey, cinnamon-sugar, nutella, icing, jam, or even something savory if you'd like!
 
 strawberry lime jam:
-  meal: side dish
+  meal: bread
   ingredients:
     - Strawberries
     - lime juice
@@ -231,7 +233,7 @@ strawberry lime jam:
     - Alternatively, you can use sugar-free lemonade mix in place of lime juice, which will also reduce the amount of aspartame needed.
 
 raspberry jam:
-  meal: side dish
+  meal: bread
   ingredients:
     - Strawberries
     - lots of aspartame packets
@@ -250,7 +252,7 @@ sweet potato:
     - Put whatever you'd like on top. (I like cinnamon since it reminds me of Thanksgiving)
 
 chili:
-  meal: dinner
+  meal: dinner, soup
   ingredients:
     - 4 c dry beans
     - 4 cans diced tomatoes
@@ -268,7 +270,7 @@ chili:
     - Combine everything in a Crock Pot or insta-pot. Cook for who knows how long.
 
 winter vegetable soup:
-  meal: dinner
+  meal: dinner, soup
   ingredients:
     - 1 lb plant-based ground beef
     - 1 onion
@@ -288,7 +290,7 @@ winter vegetable soup:
     - Then add all other ingredients and bring to a boil. Simmer for 30 min.
 
 kale sausage soup:
-  meal: dinner
+  meal: dinner, soup
   ingredients:
     - 1 package plant-based sausage
     - 1 onion
@@ -305,7 +307,7 @@ kale sausage soup:
     - Then add all other ingredients and bring to a boil. Simmer for 30 min.
 
 white bean & spinach soup:
-  meal: dinner
+  meal: dinner, soup
   ingredients:
     - 2 T oil
     - 1 onion, chopped
@@ -327,7 +329,7 @@ white bean & spinach soup:
     - Stir in spinach and cook for another minute, then remove from heat and stir in lemon juice.
 
 italian sausage soup:
-  meal: dinner
+  meal: dinner, soup
   ingredients:
     - 1 lb plant-based sausage
     - 1 t Italian seasoning (or ½ t basil, ¼ t oregano, and ¼ t garlic)
@@ -356,12 +358,12 @@ pizza:
     - 2 c water
     - 1 t lemon juice
     - 1/4 c oil
-    - "1 T sugar :tired_face: (don't worry, it's just to activate the yeast)"
-    - 1/2 T salt
-    - 4 1/2 c flour
+    - 1/2 c sourdough starter
+    - 1 T sugar 😫 (don't worry, it's just to activate the yeast)
+    - 2 t salt
+    - 4 c flour
     - 1 T yeast
-    - 1/4 c gluten
-    - sourdough starter (optional)
+    - 1/4 c wheat gluten
   directions:
     - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
     - Roll out dough into 2 rectangles (or use half of it for breadsticks).
@@ -370,18 +372,18 @@ pizza:
     - Bake at 425°F for 12-15 minutes.
 
 dinner rolls:
-  meal: side dish
+  meal: side dish, bread
   ingredients:
     - 2 c water
     - 1/4 c potato pearls
     - 1 t lemon juice
-    - 6 T oil
-    - "1 T sugar :tired_face: (don't worry, it's just to activate the yeast)"
+    - 1/4 c oil
+    - 1/2 c sourdough starter
+    - 1 T sugar 😫 (don't worry, it's just to activate the yeast)
     - 2 t salt
     - 4 c flour
     - 1 T yeast
     - 2 T wheat gluten
-    - sourdough starter (optional)
   directions:
     - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
     - Cut dough into 24 rolls. Roll them up and stick them on a pan in the oven.
@@ -399,22 +401,24 @@ roasted potatoes:
     - 1 t rosemary
   directions:
     - Wash & cube the potatoes.
-    - Mix oil, salt, and spices in a bowl, then pour mixture onto potatoes.
+    - Mix everything else in a bowl, then pour mixture onto potatoes.
     - Bake at 425°F for 20 min or until potatoes reach optimal crispiness.
 
 ramen salad:
   meal: side dish
   ingredients:
-    - 2 T oil
-    - 2 T rice vinegar
-    - 3 aspartame packets
-    - 1/4 t black pepper
     - 1 3 oz package chicken flavored ramen noodles
     - 2 T sesame seeds
     - 1/4 c sliced almonds
     - 1/2 head cabbage, sliced
+    - salad dressing:
+      - 2 T oil
+      - 2 T rice vinegar
+      - 3 aspartame packets
+      - 1/4 t black pepper
+      - flavor packet (from the ramen noodles package)
   directions:
-    - Make the salad dressing by mixing the oil, vinegar, aspartame, pepper, and ramen flavor packet.
+    - Mix the salad dressing ingredients.
     - Broil the ramen noodles, sesame seeds, and almonds until they start to brown. Watch them diligently since they'll burn in a matter of seconds.
     - Combine everything and serve.
 
@@ -429,7 +433,7 @@ no-bake cookies:
     - 1 c peanut butter
     - 1/4 t molasses
     - 1 T vanilla
-    - "36 aspartame packets :smiling_imp:"
+    - 36 aspartame packets 😈
     - 3 c old-fashioned oats
   directions:
     - Bring butter, erythritol, milk, salt, and cocoa to a boil; boil for 90 seconds.
@@ -438,23 +442,24 @@ no-bake cookies:
     - Separate into individual cookie balls and let them cool on a cookie sheet for about 30 minutes.
 
 cinnamon rolls:
-  meal: dessert
+  meal: breakfast, dessert
   ingredients:
     - 2 c water
     - 1/4 c potato pearls
     - 1 t lemon juice
-    - 6 T oil
-    - "1 T sugar :tired_face: (don't worry, it's just to activate the yeast)"
+    - 1/4 c oil
+    - 1/2 c sourdough starter
+    - 1 T sugar 😫 (don't worry, it's just to activate the yeast)
     - 2 t salt
     - 4 c flour
     - 1 T yeast
     - 2 T wheat gluten
-    - 1/2 c plant-based butter
-    - 12 aspartame packets
-    - 1/4 c cinnamon
-    - sourdough starter (optional)
+    - cinnamon spread:
+      - 1/2 c plant-based butter (room-temperature)
+      - 12 Splenda packets
+      - 1/4 c cinnamon
   directions:
-    - Mix together butter, aspartame, and cinnamon; set aside.
+    - Mix the cinnamon spread ingredients; set aside.
     - Combine all other ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
     - Using a rolling pin, spread the dough out into a large rectangle. Spread the butter/sugar/cinnamon mixture on top.
     - Roll the dough up and use dental floss to cut it into individual rolls (about 1 in thick).

@@ -5,6 +5,7 @@
 - 1/2 T vanilla
 - 1/4 t salt
 - 1/8 t guar gum
+- sliced bread
 
 <br>
 

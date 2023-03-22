@@ -1,14 +1,19 @@
 # lemon bars
 
 ### ingredients
+
+#### crust
 - 1/3 c plant-based butter
 - 6 Splenda packets
 - 1 c whole wheat flour
-- 2 eggs
+
+<br>
+
 - 18 Splenda packets
 - 2 T lupin flour
 - 2 t lemon peel
 - 3 T lemon juice
+- 1/2 t guar gum
 - 1/4 t baking powder
 - 1/8 t salt
 

@@ -4,12 +4,12 @@
 - 2 c water
 - 1 t lemon juice
 - 1/4 c oil
-- 1 T sugar :tired_face: (don't worry, it's just to activate the yeast)
-- 1/2 T salt
-- 4 1/2 c flour
+- 1/2 c sourdough starter
+- 1 T sugar 😫 (don't worry, it's just to activate the yeast)
+- 2 t salt
+- 4 c flour
 - 1 T yeast
-- 1/4 c gluten
-- sourdough starter (optional)
+- 1/4 c wheat gluten
 
 <br>
 

@@ -15,7 +15,7 @@
 - 14 oz coconut milk
 - 1/2 T lime juice
 - 1 c vegetable broth
-- 2 T erythritol
+- 3 Splenda packets
 
 <br>
 

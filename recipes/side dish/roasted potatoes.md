@@ -14,6 +14,6 @@
 
 Wash & cube the potatoes.
 
-Mix oil, salt, and spices in a bowl, then pour mixture onto potatoes.
+Mix everything else in a bowl, then pour mixture onto potatoes.
 
 Bake at 425°F for 20 min or until potatoes reach optimal crispiness.

@@ -23,4 +23,4 @@ Brown beef with onion. (Drain grease afterward if there is any.)
 
 Add all other ingredients except cheese and bring to a boil. Simmer for 15 min.
 
-Add cheese if you'd like, and serve with tortilla chips.
+Sprinkle cheese on top if you'd like, and serve with tortilla chips.
