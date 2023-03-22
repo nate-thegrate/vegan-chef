@@ -220,6 +220,14 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
     - also in [grocery stores](https://www.walmart.com/ip/525109109), $0.36/oz
 - Impossible ground sausage is by far my favorite plant-based meat substitute. Goes great on pizza, spaghetti, and wherever else you usually use animal sausage.
 
+#### Plant-based Butter
+- rating: 9/10
+- buy it: in grocery stores
+    - [margarine](https://www.walmart.com/ip/10294504) $0.10/oz
+    - [butter-flavor shortening](https://www.walmart.com/ip/426222521), $0.19/oz
+    - [coconut oil](https://www.walmart.com/ip/46651267), $0.22/oz
+- Luckily there are plenty of ways to replace butter in a recipe. Coconut oil works great if you need a high saturated fat content; otherwise there are other cheaper & healthier options such as shortening & margarine.
+
 #### Oat Fiber
 - rating: 9/10
 - buy it: [Amazon](https://www.amazon.com/dp/B07NY4PQ6D), $0.48/oz
