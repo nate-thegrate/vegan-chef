@@ -1,4 +1,4 @@
-# aebelskivers
+# aebleskivers
 
 ### ingredients
 - 3 c soy milk
@@ -13,4 +13,4 @@
 
 ### directions:
 
-Combine all ingredients, then cook in an aebelskiver pan.
+Combine all ingredients, then cook in an aebleskiver pan.

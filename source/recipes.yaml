@@ -82,7 +82,7 @@ waffles:
   directions:
     - Mix everything in a bowl and cook as per your waffle maker's instructions.
     
-aebelskivers:
+aebleskivers:
   meal: breakfast
   ingredients:
     - 3 c soy milk
@@ -93,7 +93,7 @@ aebelskivers:
     - 1/2 T baking soda
     - 1/2 t guar gum
   directions:
-    - Combine all ingredients, then cook in an aebelskiver pan.
+    - Combine all ingredients, then cook in an aebleskiver pan.
     
 french toast:
   meal: breakfast
