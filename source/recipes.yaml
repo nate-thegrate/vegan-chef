@@ -86,14 +86,28 @@ oatmeal:
   meal: breakfast
   ingredients:
     - 1 c oats
-    - 2 aspartame packets
-    - 3 T c chia seeds
+    - 3 T chia seeds
     - 1/8 t salt
     - 1 c soy milk
+    - 2 aspartame packets
     - cinnamon or fresh fruit (optional)
   directions:
-    - Pour all the ingredients into a cereal bowl, one at a time.
-    - Mix and then microwave for 2 minutes, or to your satisfaction.
+    - Pour the oats, chia seeds, salt, and milk into a cereal bowl, one at a time.
+    - Mix and then microwave for 2 minutes, or to your satisfaction. Let it cool a little bit and then add aspartame (& fruit if you want).
+
+rice pudding:
+  meal: dessert
+  ingredients:
+    - 3/4 c rice
+    - 1 1/2 c soy milk
+    - 1/4 t salt
+    - 16 Splenda packets
+    - 1/4 c oat fiber
+    - 1/4 t molasses
+    - 1/2 T vanilla
+    - 1/8 t cinnamon
+  directions:
+    - Combine all ingredients and cook them however you normally like to cook rice. (A rice maker or insta-pot works well for this.)
 
 smoothie:
   meal: breakfast
