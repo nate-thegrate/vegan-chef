@@ -82,6 +82,31 @@ waffles:
   directions:
     - Mix everything in a bowl and cook as per your waffle maker's instructions.
     
+aebelskivers:
+  meal: breakfast
+  ingredients:
+    - 3 cups soy milk
+    - 1 t salt
+    - 4 Splenda packets
+    - 3 1/3 cups flour
+    - 1/2 T baking powder
+    - 1/2 T baking soda
+    - 1/2 t guar gum
+  directions:
+    - Combine all ingredients, then cook in an aebelskiver pan.
+    
+french toast:
+  meal: breakfast
+  ingredients:
+    - 1/2 c soy milk
+    - 1/2 T vanilla
+    - 1/4 t salt
+    - 1/8 t guar gum
+  directions:
+    - Mix ingredients together.
+    - Dunk bread in mixture and then cook it like a pancake.
+    - Sprinkle cinnamon on the french toast right as it starts cooking for a nice boost to flavor & aesthetic.
+    
 oatmeal:
   meal: breakfast
   ingredients:
@@ -94,6 +119,44 @@ oatmeal:
   directions:
     - Pour the oats, chia seeds, salt, and milk into a cereal bowl, one at a time.
     - Mix and then microwave for 2 minutes, or to your satisfaction. Let it cool a little bit and then add aspartame (& fruit if you want).
+
+lemon bars:
+  meal: dessert
+  ingredients:
+    - 1/3 cup plant-based butter
+    - 6 Splenda packets
+    - 1 cup whole wheat flour
+    - 2 eggs
+    - 18 Splenda packets
+    - 2 T lupin flour
+    - 2 t lemon peel
+    - 3 T lemon juice
+    - 1/4 t baking powder
+    - 1/8 t salt
+  directions:
+    - Combine the first 3 ingredients and press into an 8x8 pan; bake at 350°F for 15 min.
+    - Combine other ingredients and pour on top of crust; bake at 350°F for 20-25 min.
+
+chili skillet:
+  meal: dinner
+  ingredients:
+    - 1 lb plant-based ground beef
+    - 1 onion
+    - 1 green pepper
+    - 1 clove garlic
+    - 8 oz tomato sauce
+    - 15 oz kidney beans, undrained
+    - 4 t chili powder
+    - 2 t beef base
+    - 1 t oregano
+    - 1/2 c uncooked rice
+    - 1 can corn, undrained
+    - 1/2 c sliced olives
+    - plant-based cheese (optional)
+  directions:
+    - Brown beef with onion. (Drain grease afterward if there is any.)
+    - Add all other ingredients except cheese and bring to a boil. Simmer for 15 min.
+    - Add cheese if you'd like, and serve with tortilla chips.
 
 rice pudding:
   meal: dessert
@@ -186,6 +249,24 @@ sweet potato:
     - Bake at 425°F for 70 minutes. It's probably a good idea to put tin foil or parchment paper underneath to reduce cleanup hassle.
     - Put whatever you'd like on top. (I like cinnamon since it reminds me of Thanksgiving)
 
+chili:
+  meal: dinner
+  ingredients:
+    - 4 cups dry beans
+    - 4 cans diced tomatoes
+    - 4 cans tomato sauce
+    - 1 1/2 lb plant-based ground beef
+    - 1 green pepper
+    - 1 onion
+    - 2 tsp minced garlic
+    - 2 tbsp chili powder
+    - 1 tsp pepper
+    - 2 tsp cumin
+    - 2 tsp basil
+    - 8 tsp beef base
+  directions:
+    - Combine everything in a Crock Pot or insta-pot. Cook for who knows how long.
+
 winter vegetable soup:
   meal: dinner
   ingredients:
@@ -222,6 +303,43 @@ kale sausage soup:
   directions:
     - Brown sausage with onion.
     - Then add all other ingredients and bring to a boil. Simmer for 30 min.
+
+white bean & spinach soup:
+  meal: dinner
+  ingredients:
+    - 2 T oil
+    - 1 onion, chopped
+    - 1 stalk celery, chopped
+    - 2 carrots, cut into matchsticks
+    - 1/4 t garlic powder
+    - 15 oz white beans
+    - 4 cups chicken broth
+    - 1/2 t black pepper
+    - 3 T parsley
+    - 1 t thyme
+    - 1 bay leaf
+    - 8 oz spinach, tough stems trimmed
+    - 1 T lemon juice
+  directions:
+    - Heat oil in a saucepan over medium heat. Add celery & onion and cook for about 5 minutes.
+    - Combine everything but the spinach & lemon juice and simmer for about 30 minutes, then remove the bay leaf.
+    - "Optional: puree a few spoonfuls of the soup in a blender, and then add it back into the pot."
+    - Stir in spinach and cook for another minute, then remove from heat and stir in lemon juice.
+
+italian sausage soup:
+  meal: dinner
+  ingredients:
+    - 1 lb plant-based sausage
+    - 1 t Italian seasoning (or ½ t basil, ¼ t oregano, and ¼ t garlic)
+    - 15 oz white beans, undrained
+    - 15 oz black beans, undrained
+    - 15 oz diced tomatoes
+    - 2 cups water
+    - 4 t beef base
+    - ½ lb pasta
+  directions:
+    - Brown the sausage, then add all other ingredients.
+    - Simmer for 15 minutes or until the pasta is cooked.
 
 spaghetti:
   meal: dinner
@@ -269,6 +387,36 @@ dinner rolls:
     - Cut dough into 24 rolls. Roll them up and stick them on a pan in the oven.
     - Set the oven to 350°F for 3 min to warm it up a bit, and then turn the oven off.
     - Let the rolls rise for 30-45 min. Then set oven to 350°F and bake for 20 min.
+
+roasted potatoes:
+  meal: side dish
+  ingredients:
+    - 8 potatoes
+    - 1/4 cup oil
+    - 1 teaspoon salt
+    - 1 teaspoon garlic
+    - 1/2 teaspoon onion powder
+    - 1 teaspoon rosemary
+  directions:
+    - Wash & cube the potatoes.
+    - Mix oil, salt, and spices in a bowl, then pour mixture onto potatoes.
+    - Bake at 425°F for 20 min or until potatoes reach optimal crispiness.
+
+ramen salad:
+  meal: side dish
+  ingredients:
+    - 2 T oil
+    - 2 T rice vinegar
+    - 3 aspartame packets
+    - 1/4 t black pepper
+    - 1 3-oz package chicken flavored ramen noodles
+    - 2 T sesame seeds
+    - 1/4 cup sliced almonds
+    - 1/2 head cabbage, sliced
+  directions:
+    - Make the salad dressing by mixing the oil, vinegar, aspartame, pepper, and ramen flavor packet.
+    - Broil the ramen noodles, sesame seeds, and almonds until they start to brown. Watch them diligently since they'll burn in a matter of seconds.
+    - Combine everything and serve.
 
 no-bake cookies:
   meal: dessert
