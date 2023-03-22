@@ -5,7 +5,7 @@
 - 2 T rice vinegar
 - 3 aspartame packets
 - 1/4 t black pepper
-- 1 3-oz package chicken flavored ramen noodles
+- 1 3 oz package chicken flavored ramen noodles
 - 2 T sesame seeds
 - 1/4 c sliced almonds
 - 1/2 head cabbage, sliced
