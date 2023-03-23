@@ -61,6 +61,7 @@ class Recipe():
         ])
 
     def export_to_recipe_folder(self):
+        """Adds the recipe to `recipes/` in markdown format."""
         for meal in self.meals:
             with open(Files.recipe(meal, self.name), "w") as recipe_markdown:
                 recipe_markdown.write(self.markdown_text)
