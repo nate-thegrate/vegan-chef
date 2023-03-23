@@ -1,36 +1,37 @@
 import os
 import yaml
+from pathlib import Path
 from shutil import rmtree
 
-with open("branch_config.yaml") as f:
-    multiplier = yaml.safe_load(f)["recipe_multiplier"]
 
-recipe_filepath = '../recipes'
+class Files():
+    script = Path(__file__)
+    source = Path(script.parent).resolve()
+    repo = Path(source.parent).resolve()
+    config = source.joinpath("branch_config.yaml")
+    recipe_import = source.joinpath("recipes.yaml")
+    recipe_export = repo.joinpath("recipes")
+
+    @classmethod
+    def recipe(cls, meal: str, name: str):
+        recipe_path = cls.recipe_export.joinpath(meal)
+        if not recipe_path.is_dir():
+            os.makedirs(recipe_path)
+        return recipe_path.joinpath(f"{name}.md")
 
 
 class Recipe():
 
-    def __init__(self, name: str, recipe: dict[str, str | list[str]]):
+    def __init__(self, name: str, recipe: dict):
         self.name = name
-        self.meals: list[str] = recipe["meal"].split(", ")
+        self.meals = str(recipe["meal"]).split(", ")
         self.ingredients: list = recipe["ingredients"]
         self.directions: list[str] = recipe["directions"]
-    
-    @property
-    def filepaths(self):
-        paths = []
-        for name in self.meals:
-            filepath = os.path.join(recipe_filepath, name)
-            if not os.path.exists(filepath):
-                os.makedirs(filepath)
-            paths.append(filepath)
-        return (os.path.join(path, f"{self.name}.md") for path in paths)
-    
-    @property
-    def ingredients_markdown(self):
+
+    def parse_ingredients(self):
         ingreds = self.ingredients
-        parsed_ingreds = []
-        
+        parsed_ingreds: list[str] = []
+
         def str_after_this(item):
             next = ingreds.index(item) + 1
             return next < len(ingreds) and isinstance(ingreds[next], str)
@@ -53,35 +54,46 @@ class Recipe():
         return "".join([
             f"# {self.name}\n",
             "\n### ingredients\n",
-            *self.ingredients_markdown,
+            *self.parse_ingredients(),
             "\n<br>\n",
             "\n### directions:\n",
             *(f"\n{direction}\n" for direction in self.directions),
         ])
 
+    def export_to_recipe_folder(self):
+        for meal in self.meals:
+            with open(Files.recipe(meal, self.name), "w") as recipe_markdown:
+                recipe_markdown.write(self.markdown_text)
 
-def yeet_all_recipes():
-    for file in os.listdir(recipe_filepath):
-        path = os.path.join(recipe_filepath, file)
-        if os.path.isdir(path):
+
+def yeet_everything():
+    """deletes every folder in the `recipes/` directory."""
+    for file in os.listdir(Files.recipe_export):
+        path = Files.recipe_export.joinpath(file)
+        if path.is_dir():
             rmtree(path)
 
 
+def load_recipes() -> list[Recipe]:
+    """Imports data from `recipes.yaml` into a list of `Recipe` objects."""
+    with open(Files.recipe_import) as recipe_file:
+        recipe_data = dict(yaml.safe_load(recipe_file)).items()
+        return [Recipe(*item) for item in recipe_data]
+
+
+def get_multiplier() -> float:
+    """This function isn't currently in use since we aren't multiplying recipes."""
+    with open(Files.config) as f:
+        return yaml.safe_load(f)["recipe_multiplier"]
+
+
 def main():
-    yeet_all_recipes()
+    yeet_everything()
 
-    with open("recipes.yaml") as recipe_yaml:
-        recipes = yaml.safe_load(recipe_yaml)
+    recipes = load_recipes()
 
-    if multiplier == 1:
-        for name in recipes:
-            r = Recipe(name, recipes[name])
-            for filepath in r.filepaths:
-                with open(filepath, "w") as recipe_markdown:
-                    recipe_markdown.write(r.markdown_text)
-    else:
-        pass  # Coming soon!
-        # TODO: make `Ingredient` class with fancy parsing and multiplication
+    for recipe in recipes:
+        recipe.export_to_recipe_folder()
 
 
 if __name__ == "__main__":
