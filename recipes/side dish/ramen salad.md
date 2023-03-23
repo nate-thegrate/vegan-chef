@@ -20,6 +20,6 @@
 
 Mix the salad dressing ingredients.
 
-Broil the ramen noodles, sesame seeds, and almonds until they start to brown. Watch them diligently since they'll burn in a matter of seconds.
+Break apart the dry ramen noodles into bite-size pieces. Place them on a pan with the sesame seeds & almonds, and broil until they start to brown. Watch them diligently since they'll burn in a matter of seconds.
 
 Combine everything and serve.
