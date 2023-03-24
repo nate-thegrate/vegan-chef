@@ -32,8 +32,10 @@ class Recipe():
         ingreds = self.ingredients
         parsed_ingreds: list[str] = []
 
-        def str_after_this(item):
-            next = ingreds.index(item) + 1
+        def str_after_this(section) -> bool:
+            """Returns `True` if the section after this one is a string
+            (i.e. a single ingredient)."""
+            next = ingreds.index(section) + 1
             return next < len(ingreds) and isinstance(ingreds[next], str)
 
         for section in ingreds:
