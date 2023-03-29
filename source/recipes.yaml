@@ -15,7 +15,7 @@ cornbread:
     - Serve hot, with honey or butter or whatever substitutes for those you wanna use.
 
 beans & rice:
-  meal: dinner
+  meal: main dish
   ingredients:
     - 1 c rice
     - 1/2 t garlic
@@ -31,7 +31,7 @@ beans & rice:
     - Mix in the beans and eat!
 
 fried rice:
-  meal: dinner
+  meal: main dish
   ingredients:
     - 1 onion
     - 14 oz tofu
@@ -52,7 +52,7 @@ fried rice:
     - Top with sliced green onion and serve.
 
 tofu curry:
-  meal: dinner
+  meal: main dish
   ingredients:
     - 28 oz extra firm tofu
     - 1/8 c oil
@@ -177,7 +177,7 @@ lemon bars:
     - Combine other ingredients and pour on top of crust; bake at 350°F for 20-25 min.
 
 chili skillet:
-  meal: dinner
+  meal: main dish
   ingredients:
     - 1 lb plant-based ground beef
     - 1 onion
@@ -238,6 +238,30 @@ sourdough bread:
     - Bake at 375°F for 50 minutes. Then take it out of the pan and let it cool for a few minutes.
     - It might be worth it to buy an electric knife, since sourdough has a hard crust that's difficult to slice through.
 
+pb & j:
+  meal: bread, main dish
+  ingredients:
+    - bread
+    - peanut butter
+    - jam
+  directions:
+    - I'm just adding this as a recipe since I keep forgetting that I can just make a PB&J when I'm hungry.
+
+vegan deli sandwich:
+  meal: bread, main dish
+  ingredients:
+    - bread
+    - tofurkey
+    - plant-based cheese
+    - lettuce
+    - tomato
+    - onion
+    - Vegenaise
+    - Mustard
+    - Salt & Pepper
+  directions:
+    - They made plant-based versions of sliced turkey, cheese, & mayo. You can literally just buy that stuff and then make a regular sandwich.
+
 sourdough sopapillas:
   meal: breakfast, dessert, bread
   ingredients:
@@ -280,7 +304,7 @@ raspberry jam:
     - Add some thickener, then add the aspartame and let it cool.
 
 sweet potato:
-  meal: dinner
+  meal: main dish
   ingredients:
     - 1 sweet potato
   directions:
@@ -289,7 +313,7 @@ sweet potato:
     - Put whatever you'd like on top. (I like cinnamon since it reminds me of Thanksgiving)
 
 chili:
-  meal: dinner, soup
+  meal: main dish, soup
   ingredients:
     - 4 c dry beans
     - 4 cans diced tomatoes
@@ -307,7 +331,7 @@ chili:
     - Combine everything in a Crock Pot or insta-pot. Cook for who knows how long.
 
 winter vegetable soup:
-  meal: dinner, soup
+  meal: main dish, soup
   ingredients:
     - 1 lb plant-based ground beef
     - 1 onion
@@ -327,7 +351,7 @@ winter vegetable soup:
     - Then add all other ingredients and bring to a boil. Simmer for 30 min.
 
 kale sausage soup:
-  meal: dinner, soup
+  meal: main dish, soup
   ingredients:
     - 1 package plant-based sausage
     - 1 onion
@@ -344,7 +368,7 @@ kale sausage soup:
     - Then add all other ingredients and bring to a boil. Simmer for 30 min.
 
 white bean & spinach soup:
-  meal: dinner, soup
+  meal: main dish, soup
   ingredients:
     - 2 T oil
     - 1 onion, chopped
@@ -366,7 +390,7 @@ white bean & spinach soup:
     - Stir in spinach and cook for another minute, then remove from heat and stir in lemon juice.
 
 italian sausage soup:
-  meal: dinner, soup
+  meal: main dish, soup
   ingredients:
     - 1 lb plant-based sausage
     - 1 t Italian seasoning (or ½ t basil, ¼ t oregano, and ¼ t garlic)
@@ -381,7 +405,7 @@ italian sausage soup:
     - Simmer for 15 minutes or until the pasta is cooked.
 
 spaghetti:
-  meal: dinner
+  meal: main dish
   ingredients:
     - Spaghetti noodles
     - Spaghetti sauce
@@ -390,7 +414,7 @@ spaghetti:
     - Hopefully you know how to cook spaghetti.
 
 pizza:
-  meal: dinner
+  meal: main dish
   ingredients:
     - 2 c water
     - 1 t lemon juice
