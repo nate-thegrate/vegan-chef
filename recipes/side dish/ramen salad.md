@@ -1,7 +1,7 @@
 # ramen salad
 
 ### ingredients
-- 1 3 oz package chicken flavored ramen noodles
+- 1 3 oz package soy sauce flavored ramen noodles
 - 2 T sesame seeds
 - 1/4 c sliced almonds
 - 1/2 head cabbage, sliced
