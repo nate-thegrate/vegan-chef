@@ -1,7 +1,8 @@
 cornbread:
   meal: side dish, bread
+  calculate nutrition & price: false
   ingredients:
-    - 1/2 c canola oil
+    - 1/2 c oil
     - 12 aspartame packets
     - 1 1/2 c water
     - 1 t salt
@@ -16,6 +17,7 @@ cornbread:
 
 guacamole:
   meal: side dish
+  calculate nutrition & price: false
   ingredients:
     - 3 avocados
     - 2 T lime juice
@@ -31,6 +33,7 @@ guacamole:
 
 beans & rice:
   meal: main dish
+  calculate nutrition & price: false
   ingredients:
     - 1 c rice
     - 1/2 t garlic
@@ -47,6 +50,7 @@ beans & rice:
 
 fried rice:
   meal: main dish
+  calculate nutrition & price: false
   ingredients:
     - 1 onion
     - 14 oz tofu
@@ -68,6 +72,7 @@ fried rice:
 
 tofu curry:
   meal: main dish
+  calculate nutrition & price: false
   ingredients:
     - 28 oz extra firm tofu
     - 1/8 c oil
@@ -92,6 +97,7 @@ tofu curry:
 
 pancakes:
   meal: breakfast
+  servings: 2
   ingredients:
     - 1 c water
     - 1/2 t salt
@@ -107,6 +113,7 @@ pancakes:
 
 waffles:
   meal: breakfast
+  servings: 2
   ingredients:
     - 1 c water
     - 1/2 t salt
@@ -120,6 +127,7 @@ waffles:
 
 coconut syrup:
   meal: breakfast
+  calculate nutrition & price: false
   ingredients:
     - 14 oz coconut milk
     - 2/3 c brown erythritol
@@ -135,6 +143,7 @@ coconut syrup:
 
 aebleskivers:
   meal: breakfast
+  calculate nutrition & price: false
   ingredients:
     - 3 c soy milk
     - 1 t salt
@@ -148,6 +157,7 @@ aebleskivers:
 
 french toast:
   meal: breakfast
+  calculate nutrition & price: false
   ingredients:
     - 1/2 c soy milk
     - 1/2 T vanilla
@@ -161,6 +171,7 @@ french toast:
 
 oatmeal:
   meal: breakfast
+  calculate nutrition & price: false
   ingredients:
     - 1 c oats
     - 3 T chia seeds
@@ -174,6 +185,7 @@ oatmeal:
 
 lemon bars:
   meal: dessert
+  calculate nutrition & price: false
   ingredients:
     - crust:
         - 1/3 c plant-based butter
@@ -192,6 +204,7 @@ lemon bars:
 
 chili skillet:
   meal: main dish
+  calculate nutrition & price: false
   ingredients:
     - 1 lb plant-based ground beef
     - 1 onion
@@ -213,6 +226,7 @@ chili skillet:
 
 rice pudding:
   meal: breakfast, dessert
+  calculate nutrition & price: false
   ingredients:
     - 1 c soy milk
     - 1/4 c oat fiber
@@ -227,6 +241,7 @@ rice pudding:
 
 smoothie:
   meal: breakfast, drink
+  calculate nutrition & price: false
   ingredients:
     - frozen strawberries (and/or other fruit, but IMO strawberries have the best healthy/tasty combo)
     - lemonade mix
@@ -237,6 +252,7 @@ smoothie:
 
 sourdough bread:
   meal: side dish, bread
+  calculate nutrition & price: false
   ingredients:
     - 300 g water
     - 100 g sourdough starter
@@ -254,6 +270,7 @@ sourdough bread:
 
 pb & j:
   meal: bread, main dish
+  calculate nutrition & price: false
   ingredients:
     - bread
     - peanut butter
@@ -263,6 +280,7 @@ pb & j:
 
 vegan deli sandwich:
   meal: bread, main dish
+  calculate nutrition & price: false
   ingredients:
     - bread
     - tofurkey
@@ -278,6 +296,7 @@ vegan deli sandwich:
 
 sourdough sopapillas:
   meal: breakfast, dessert, bread
+  calculate nutrition & price: false
   ingredients:
     - 300 g water
     - 100 g sourdough starter
@@ -295,6 +314,7 @@ sourdough sopapillas:
 
 strawberry lime jam:
   meal: bread
+  calculate nutrition & price: false
   ingredients:
     - Strawberries
     - lime juice
@@ -309,6 +329,7 @@ strawberry lime jam:
 
 raspberry jam:
   meal: bread
+  calculate nutrition & price: false
   ingredients:
     - Strawberries
     - lots of aspartame packets
@@ -319,6 +340,7 @@ raspberry jam:
 
 sweet potato:
   meal: main dish
+  calculate nutrition & price: false
   ingredients:
     - 1 sweet potato
   directions:
@@ -328,6 +350,7 @@ sweet potato:
 
 chili:
   meal: main dish, soup
+  calculate nutrition & price: false
   ingredients:
     - 4 c dry beans
     - 4 cans diced tomatoes
@@ -346,6 +369,7 @@ chili:
 
 winter vegetable soup:
   meal: main dish, soup
+  calculate nutrition & price: false
   ingredients:
     - 1 lb plant-based ground beef
     - 1 onion
@@ -366,6 +390,7 @@ winter vegetable soup:
 
 kale sausage soup:
   meal: main dish, soup
+  calculate nutrition & price: false
   ingredients:
     - 1 package plant-based sausage
     - 1 onion
@@ -383,6 +408,7 @@ kale sausage soup:
 
 white bean & spinach soup:
   meal: main dish, soup
+  calculate nutrition & price: false
   ingredients:
     - 2 T oil
     - 1 onion, chopped
@@ -405,6 +431,7 @@ white bean & spinach soup:
 
 italian sausage soup:
   meal: main dish, soup
+  calculate nutrition & price: false
   ingredients:
     - 1 lb plant-based sausage
     - 1 t Italian seasoning (or ½ t basil, ¼ t oregano, and ¼ t garlic)
@@ -420,6 +447,7 @@ italian sausage soup:
 
 spaghetti:
   meal: main dish
+  calculate nutrition & price: false
   ingredients:
     - Spaghetti noodles
     - Spaghetti sauce
@@ -429,6 +457,7 @@ spaghetti:
 
 pizza:
   meal: main dish
+  calculate nutrition & price: false
   ingredients:
     - 2 c water
     - 1 t lemon juice
@@ -448,6 +477,7 @@ pizza:
 
 dinner rolls:
   meal: side dish, bread
+  calculate nutrition & price: false
   ingredients:
     - 2 c water
     - 1/4 c potato pearls
@@ -467,6 +497,7 @@ dinner rolls:
 
 roasted potatoes:
   meal: side dish
+  calculate nutrition & price: false
   ingredients:
     - 8 potatoes
     - 1/4 c oil
@@ -481,6 +512,7 @@ roasted potatoes:
 
 ramen salad:
   meal: side dish
+  calculate nutrition & price: false
   ingredients:
     - 1 3 oz package soy sauce flavored ramen noodles
     - 2 T sesame seeds
@@ -499,6 +531,7 @@ ramen salad:
 
 no-bake cookies:
   meal: dessert
+  calculate nutrition & price: false
   ingredients:
     - 1/2 c plant-based butter (I used a 50/50 mix of coconut oil & butter-flavor shortening)
     - 2/3 c erythritol
@@ -518,6 +551,7 @@ no-bake cookies:
 
 cinnamon rolls:
   meal: breakfast, dessert
+  calculate nutrition & price: false
   ingredients:
     - 2 c water
     - 1/4 c potato pearls

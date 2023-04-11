@@ -1,0 +1,92 @@
+whole wheat flour:
+  serving size: 1 cup
+  servings per container: 20.0
+  container price: 4.00
+  nutrition facts:
+    Calories: 408 Cal
+    Total Fat: 3 g
+    Saturated Fat: 0.5 g
+    Total Carbs: 86 g
+    Fiber: 13 g
+    Sugar: 0.5 g
+    Protein: 16 g
+    Vitamins:
+      Calcium: 47 mg
+      Iron: 5 mg
+      Magnesium: 170 mg
+      Phosphorus: 440 mg
+      Potassium: 470 mg
+      Copper: 565 µg
+      Manganese: 4.45 mg
+      Selenium: 30 µg
+      Molybdenum: 73 µg
+      Thiamin: 630 µg
+      Riboflavin: 160 µg
+      Niacin: 7.5 mg
+      Vitamin B6: 335 µg
+      Folate: 48 µg
+      Zinc: 4 mg
+
+white flour:
+  serving size: 1 cup
+  servings per container: 20.0
+  container price: 2.30
+  nutrition facts:
+    Calories: 455 Cal
+    Total Fat: 1.2 g
+    Saturated Fat: 1.2 g
+    Total Carbs: 95 g
+    Fiber: 3.4 g
+    Sugar: 0.3 g
+    Protein: 13 g
+    Vitamins:
+      Calcium: 40 mg
+      Iron: 5.2 mg
+      Potassium: 200 mg
+      Thiamin: 800 µg
+      Riboflavin: 400 µg
+      Niacin: 7.2 mg
+
+erythritol:
+  serving size: 2 tsp
+  servings per container: 226.0
+  container price: 16.00
+  nutrition facts:
+    Total Carbs: 8 g
+    Sugar Alcohol: 8 g
+
+salt:
+  serving size: 1/4 tsp
+  servings per container: 491.0
+  container price: 0.70
+  nutrition facts:
+    Sodium: 575 mg
+    Vitamins:
+      Iodine: 67 µg
+
+canola oil:
+  serving size: 1 tbsp
+  servings per container: 96.0
+  container price: 4.00
+  nutrition facts:
+    Calories: 120 Cal
+    Total Fat: 14 g
+    Saturated Fat: 1 g
+
+baking powder:
+  serving size: 1/4 tsp
+  servings per container: 191.0
+  container price: 3.50
+  nutrition facts:
+    Sodium: 122 mg
+
+guar gum:
+  serving size: 1 tsp
+  servings per container: 259.0
+  container price: 3.50
+  nutrition facts:
+    Calories: 10 Cal
+    Total Carbs: 3 g
+    Fiber: 3 g
+    Vitamins:
+      Iron: 1.8 mg

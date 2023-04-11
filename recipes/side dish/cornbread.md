@@ -1,7 +1,7 @@
 # cornbread
 
 ### ingredients
-- 1/2 c canola oil
+- 1/2 c oil
 - 12 aspartame packets
 - 1 1/2 c water
 - 1 t salt
