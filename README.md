@@ -185,15 +185,11 @@ Dietary fiber is found in vegetables, legumes, and whole grains. Fruits are also
 ## Shopping list
 Some of my recipe ingredients are not very common, so here's a brief overview (including how I feel about each ingredient and where to get it)
 
-#### Aspartame Packets
+#### Sucralose Powder
 - rating: 10/10
-- buy it: [Amazon](https://www.amazon.com/dp/B08J91Q9YJ), $13 for 1000 packets
-- The cheapest low-calorie sweetener I know of.
-
-#### Splenda Packets
-- rating: 10/10
-- buy it: [Amazon](https://www.amazon.com/dp/B000LRO5O4), $40 for 2000 packets
-- The cheapest low-calorie sweetener that can be used in baking.
+- buy it: [Amazon](https://www.amazon.com/dp/B00CCXMBD2), $3.31/oz
+- It seems expensive until you realize that it's the equivalent of over 200 pounds of sugar.
+- It's kinda difficult to work with a potent sweetener like this, but it's definitely worth it to me.
 
 #### Sourdough Starter
 - rating: 10/10
@@ -227,6 +223,11 @@ Some of my recipe ingredients are not very common, so here's a brief overview (i
     - [butter-flavor shortening](https://www.walmart.com/ip/426222521), $0.19/oz
     - [coconut oil](https://www.walmart.com/ip/46651267), $0.22/oz
 - Luckily there are plenty of ways to replace butter in a recipe. Coconut oil works great if you need a high saturated fat content; otherwise there are other cheaper & healthier options such as shortening & margarine.
+
+#### Splenda Packets
+- rating: 9/10
+- buy it: [Amazon](https://www.amazon.com/dp/B000LRO5O4), $40 for 2000 packets
+- A combination of sucralose and maltodextrin. Each packet has the equivalent sweetness of 2 teaspoons of sugar, so that's pretty convenient.
 
 #### Oat Fiber
 - rating: 9/10
