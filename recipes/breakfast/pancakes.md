@@ -66,13 +66,13 @@ Zinc                      5 mg     45%        2.5 mg     23%
 
 test:
 
-<section class="performance-facts">
-  <header class="performance-facts__header">
-    <h1 class="performance-facts__title">Nutrition Facts</h1>
+<section style="font-size: small; line-height: 1.4;">
+  <header style="border-bottom: 10px solid black; padding: 0 0 0.25rem 0; margin: 0 0 0.5rem 0;">
+    <h1 style="font-weight: bold; font-size: 2rem; margin: 0 0 0.25rem 0;">Nutrition Facts</h1>
     <p>Serving Size 1/2 cup (about 82g)
       <p>Serving Per Container 8</p>
   </header>
-  <table class="performance-facts__table">
+  <table style="width: 100%;">
     <thead>
       <tr>
         <th colspan="3" class="small-info">
