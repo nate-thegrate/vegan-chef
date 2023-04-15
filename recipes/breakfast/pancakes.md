@@ -63,3 +63,69 @@ Vitamin B6              419 µg     25%        210 µg     12%
 Folic Acid               60 µg     15%         30 µg      8%
 Zinc                      5 mg     45%        2.5 mg     23%
 ```
+
+test:
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+
+
+```math
+\documentclass[border=2]{standalone}
+\usepackage{xparse}
+\usepackage{booktabs}
+\newlength{\NFwidth}
+\setlength{\NFwidth}{2.5in}
+
+\NewDocumentCommand{\NFelement}{mmm}{\large\textbf{#1} #2\hfill #3}
+\NewDocumentCommand{\NFline}{O{l}m}{\makebox[\NFwidth][#1]{#2}}
+\NewDocumentCommand{\NFentry}{sm}{%
+  \makebox[.5\NFwidth][l]{\large
+    \IfBooleanT{#1}{\makebox[0pt][r]{\textbullet\ }}%
+    #2}\ignorespaces}
+\NewDocumentCommand{\NFtext}{+m}
+ {\parbox{\NFwidth}{\raggedright#1}}
+
+\newcommand{\NFtitle}{\multicolumn{1}{c}{\Huge\bfseries Nutrition Facts}}
+
+\newcommand{\NFRULE}{\midrule[6pt]}
+\newcommand{\NFRule}{\midrule[3pt]}
+\newcommand{\NFrule}{\midrule}
+
+\begin{document}
+\sffamily
+\fbox{%
+\begin{tabular}{@{}p{\NFwidth}@{}}
+\NFtitle\\
+\NFtext{Serving Size 2 tbsp.\ (33\,g)}\\
+\NFtext{Servings Per Container 7}\\
+\NFRULE
+\NFline{Amount Per Serving}\\
+\NFrule
+\NFelement{Calories}{20}{Calories from Fat 10}\\
+\NFRule
+\NFline[r]{\% Daily Value*}\\
+\NFrule
+\NFelement{Total Fat}{1\,g}{2\%}\\
+\NFrule
+\NFelement{Sodium}{190\,mg}{8\%}\\
+\NFrule
+\NFelement{Total Carbohydrate}{2\,g}{1\%}\\
+\NFrule
+\NFelement{Protein}{1\,g}{}\\
+\NFRule
+\NFentry{Vitamin A 2\%}
+\NFentry*{Vitamin C 15\%}\\
+\NFentry{Iron 10\%}
+\NFentry*{Vitamin B6 20\%}\\
+\NFentry{Vitamin B12 4\%}\\
+\NFrule
+\NFtext{Not a significant source of saturated fat,
+  trans fat, cholesterol, dietary fiber, sugars,
+  and calcium.}\\
+\NFrule
+\NFtext{* Percent Daily Values are based on a
+  2,000 calorie diet.}
+\end{tabular}}
+\end{document}
+```
