@@ -46,17 +46,27 @@ class Measure:
         return amount, units.from_name(unit_name)
 
     def __str__(self) -> str:
-        display_quantity = Fraction(self.amt, self.unit.multiplier)
-        plural = self.unit.category == units.Unit.cups and display_quantity > 1
-        if self.unit.category == units.Unit.cups:
-            full_measures = int(display_quantity)
-            partial_measures = display_quantity - full_measures
-            display_quantity = " ".join(str(measure) for measure in [full_measures, partial_measures] if measure)
+        amount = Fraction(self.amt, self.unit.multiplier)
+
+        measured_in_cups = self.unit.category == units.Unit.cups
+        plural = measured_in_cups and amount > 1
+        unit_str = str(self.unit)
+        if plural:
+            unit_str += "s"
+
+        if measured_in_cups:
+            full_measures = int(amount)
+            partial_measures = amount - full_measures
+            output = [full_measures, partial_measures]
         else:
-            display_quantity = float(display_quantity)
-            if display_quantity.is_integer():
-                display_quantity = int(display_quantity)
-        return f"{display_quantity} {self.unit}{'s' if plural else ''}"
+            amount = round(float(amount), 2)
+            if amount.is_integer():
+                amount = int(amount)
+            output = [str(amount)]
+        return " ".join(str(x) for x in [*output, unit_str] if x)
+
+    def __format__(self, format_spec):
+        return format(str(self), format_spec)
 
     def __add__(self, other: Measure):
 
@@ -90,7 +100,11 @@ class Measure:
         return self.amt / other.amt
 
 
-daily_values = files.load_daily_values()
+daily_values = {name: Measure(amt) for name, amt in files.load_daily_values()}
+def daily_value(name, amount):
+    amount_per_day = daily_values[name]
+    return f"{round((amount / amount_per_day) * 100)}%"
+
 ingredient_data = files.load_ingredient_data()
 ingredient_names = {
     "water": None,
@@ -101,6 +115,12 @@ remap_ingredient_name = lambda name: ingredient_names.get(name, name)
 
 
 def price_and_nutrition(ingredients: list[str | dict], recipe_servings: float):
+
+    def serving_info(main_info, info_per_serving):
+        if recipe_servings > 1:
+            return f"{main_info} {info_per_serving}"
+        else:
+            return str(main_info)
 
     def unpack() -> list[str]:
         new_ingredients = []
@@ -158,16 +178,19 @@ def price_and_nutrition(ingredients: list[str | dict], recipe_servings: float):
 
             overall_nutrition_facts[nutrient] += (Measure(amount) * servings)
 
+    amount_table_header = " " * 22 + "amount in recipe    amount per serving"
+
     return "\n".join([
         "\n<br>\n",
         f"### calculated ingredient cost:\n",
-        f"${price:.2f} for the whole recipe, ${price/recipe_servings:.2f} per serving\n",
-        "<br>\n",
+        serving_info(f"${price:.2f}", f"for the whole recipe, ${price / recipe_servings:.2f} per serving"),
+        "\n<br>\n",
+        "### nutrition facts\n",
         "```",
-        "Nutrition Facts\n",
-        *(f"{name:20} {amt}" for name, amt in overall_nutrition_facts.items()),
+        amount_table_header,
+        *(f"{name:20} {amt:>9} {daily_value(name, amt):>7} {amt//recipe_servings:>13} {daily_value(name, amt//recipe_servings):>7}" for name, amt in overall_nutrition_facts.items()),
         "\n\nVitamins & Minerals:\n",
-        *(f"{name:20} {amt}" for name, amt in vitamin_facts.items()),
+        *(f"{name:20} {amt:>9} {daily_value(name, amt):>7} {amt//recipe_servings:>13} {daily_value(name, amt//recipe_servings):>7}" for name, amt in vitamin_facts.items()),
         "```",
     ])
     # return f"Nutrition Facts\n\n{overall_nutrition_facts}\n\n" f"Vitamins & Minerals\n\n{vitamin_facts}"

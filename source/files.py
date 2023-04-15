@@ -25,7 +25,7 @@ def get_yaml_dict(path) -> dict:
 
 
 def load_daily_values():
-    return get_yaml_dict(_daily_values)
+    return get_yaml_dict(_daily_values).items()
 
 
 def load_ingredient_data():
