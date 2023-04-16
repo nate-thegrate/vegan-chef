@@ -60,7 +60,7 @@ class Measure:
             partial_measures = amount - full_measures
             output = [full_measures, partial_measures]
         else:
-            decimal_places = 1 if amount < 10 else None
+            decimal_places = 1 if 0 < amount < 10 else None
             amount = round(float(amount), decimal_places)
             output = [str(amount)]
         return " ".join(str(x) for x in [*output, unit_str] if x)
