@@ -42,7 +42,7 @@ class Recipe():
             nutrition = price_and_nutrition(self.ingredients, self.servings)
             filename = files.save_nutrition_html_as_image(self.name)
             markdown_link = f"../../source/nutrition/nutrition_label/images/{filename}"
-            nutrition.append(f'<img src="{markdown_link}" alt="{self.name} nutrition facts" width="500" />')
+            nutrition.append(f"![{self.name} nutrition facts]({markdown_link})")
         else:
             nutrition = []
         return "\n".join([
