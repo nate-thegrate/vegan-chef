@@ -6,6 +6,8 @@ from pathlib import Path
 from shutil import rmtree
 import os
 import yaml
+import jinja2 as jinja
+from subprocess import run
 
 script = Path(__file__)
 source = Path(script.parent).resolve()
@@ -58,5 +60,24 @@ def recipe(meal: str, name: str):
 
 nutrition_label = nutrition.joinpath("nutrition_label")
 nutrition_images = nutrition_label.joinpath("images")
-nutrition_html = nutrition_label.joinpath("nutrition_label.html")
+nutrition_html = nutrition_label.joinpath("nutrition_label_template.html")
 nutrition_css = nutrition_label.joinpath("nutrition_label.css")
+nutrition_generated_file = nutrition_label.joinpath("generated_nutrition_label.html")
+
+
+def send_nutrition_to_html(context: dict):
+    loader = jinja.FileSystemLoader(str(nutrition_label))
+    template = jinja.Environment(loader=loader).get_template("nutrition_label_template.html")
+
+    with open(nutrition_generated_file, "w") as file:
+        file.write(template.render(context))
+
+
+def save_nutrition_html_as_image(recipe_name: str):
+    firefox_path = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+    filename = f"{recipe_name}.png"
+    img_path = nutrition_images.joinpath(filename)
+
+    command = [str(x) for x in (firefox_path, '--headless', '--screenshot', img_path, nutrition_generated_file)]
+    run(command)
+    return filename

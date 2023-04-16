@@ -97,7 +97,7 @@ tofu curry:
 
 pancakes:
   meal: breakfast
-  servings: 2
+  servings: 3
   ingredients:
     - 1 c water
     - 1/2 t salt
@@ -113,7 +113,7 @@ pancakes:
 
 waffles:
   meal: breakfast
-  servings: 2
+  servings: 3
   ingredients:
     - 1 c water
     - 1/2 t salt

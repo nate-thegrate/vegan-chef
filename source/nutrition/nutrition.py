@@ -2,6 +2,7 @@ from __future__ import annotations
 from fractions import Fraction
 from nutrition import units
 import files
+from typing import Callable
 
 
 class Measure:
@@ -59,9 +60,8 @@ class Measure:
             partial_measures = amount - full_measures
             output = [full_measures, partial_measures]
         else:
-            amount = round(float(amount), 2)
-            if amount.is_integer():
-                amount = int(amount)
+            decimal_places = 1 if amount < 10 else None
+            amount = round(float(amount), decimal_places)
             output = [str(amount)]
         return " ".join(str(x) for x in [*output, unit_str] if x)
 
@@ -101,38 +101,50 @@ class Measure:
 
 
 daily_values = {name: Measure(amt) for name, amt in files.load_daily_values()}
-def daily_value(name, amount):
-    amount_per_day = daily_values[name]
-    return f"{round((amount / amount_per_day) * 100)}%"
 
-ingredient_data = files.load_ingredient_data()
+
+def daily_value(name: str, serving_amt: Measure, recipe_amt: Measure = None):
+    """returns a %DV based on a single amount, or an HTML table row if 2 amounts are passed."""
+    amount_per_day = daily_values[name]
+    dv: Callable[[Measure], str] = lambda amount: f"{round((amount / amount_per_day) * 100)}%"
+    if recipe_amt is None:
+        return dv(serving_amt)
+    else:
+        return f"<tr><td>{name}<hr></td><td>{dv(serving_amt)}<hr></td><td>{dv(recipe_amt)}<hr></td></tr>"
+
+
+ingredient_data: dict[str, dict[str, dict[str, dict | str] | any]] = files.load_ingredient_data()
 ingredient_names = {
     "water": None,
     "oil": "canola oil",
     "sourdough starter": "whole wheat flour",
 }
-remap_ingredient_name = lambda name: ingredient_names.get(name, name)
+def find_ingredient(ingredient: str):
+    words = ingredient.split(" ")
+    name_index = 3 if words[2][0].isnumeric() else 2
+    name = " ".join(words[name_index:])
+    if name not in ingredient_data and name not in ingredient_names:
+        raise KeyError(f"'{name}' (parsed from '{ingredient}') not found in ingredient_data.yaml")
+    return ingredient_names.get(name, name)
+
+html_template_names = {
+    "Total Fat": "fat",
+    "Saturated Fat": "sat_fat",
+    "Cholesterol": "cholesterol",
+    "Sodium": "sodium",
+    "Total Carbs": "carbs",
+    "Fiber": "fiber",
+    "Sugar": "sugar",
+    "Sugar Alcohol": "sugar_alc",
+    "Protein": "protein",
+}.items()
 
 
 def price_and_nutrition(ingredients: list[str | dict], recipe_servings: float):
-
-    def serving_info(main_info, info_per_serving):
-        if recipe_servings > 1:
-            return f"{main_info} {info_per_serving}"
-        else:
-            return str(main_info)
-
-    def unpack() -> list[str]:
-        new_ingredients = []
-        for ingredient in ingredients:
-            match ingredient:
-                case str():
-                    new_ingredients.append(ingredient)
-                case dict():
-                    for stuff in ingredient:
-                        new_ingredients.append(stuff)
-        return new_ingredients
-
+    """Compiles recipe nutrition facts and calls `send_nutrition_to_html()` to create a nutrition label.
+    
+    Returns the calculated cost of all ingredients (as a list of strings in Markdown format).
+    """
     price = 0.0
     overall_nutrition_facts = {
         "Calories": Measure("0"),
@@ -148,59 +160,60 @@ def price_and_nutrition(ingredients: list[str | dict], recipe_servings: float):
     }
     vitamin_facts = {}
 
-    ingred_list: list[str] = unpack()
-    for ingredient in ingred_list:
-        name = ingredient.split(" ")
-        name_index = 3 if name[2][0].isnumeric() else 2
-        name = " ".join(name[name_index:])
-        if name not in ingredient_data and name not in ingredient_names:
-            raise KeyError(f"'{name}' (parsed from '{ingredient}') not found in ingredient_data.yaml")
-        name = remap_ingredient_name(name)
+    parsed_ingreds: list[str] = []
+    for ingredient in ingredients:
+        match ingredient:
+            case str():
+                parsed_ingreds.append(ingredient)
+            case dict():
+                parsed_ingreds.extend(ingredient.values())
+
+    for ingredient in parsed_ingreds:
+        name = find_ingredient(ingredient)
         if name is None:
             continue
 
         data = ingredient_data[name]
 
-        ingredient_measure = Measure(ingredient)
-        serving_measure = Measure(data["serving size"])
-        servings = ingredient_measure / serving_measure
-        price += data["container price"] / data["servings per container"] * servings
-        nutrition_facts: dict[str, str | dict] = data["nutrition facts"]
-        for nutrient, amount in nutrition_facts.items():
+        ingredient_servings = Measure(ingredient) / Measure(data["serving size"])
+        price += float(data["container price"] / data["servings per container"]) * ingredient_servings
+        for nutrient, amount in data["nutrition facts"].items():
             if nutrient == "Vitamins":
                 for vitamin, amt in amount.items():
-                    measure = Measure(amt) * servings
+                    measure = Measure(amt) * ingredient_servings
                     if vitamin in vitamin_facts:
                         vitamin_facts[vitamin] += measure
                     else:
                         vitamin_facts[vitamin] = measure
-                continue
+            else:
+                overall_nutrition_facts[nutrient] += (Measure(amount) * ingredient_servings)
 
-            overall_nutrition_facts[nutrient] += (Measure(amount) * servings)
+    vitamins = "\n".join(daily_value(name, amt // recipe_servings, amt) for name, amt in vitamin_facts.items())
+    context = {
+        "servings": recipe_servings,
+        "serving_calories": str(overall_nutrition_facts["Calories"] // recipe_servings),
+        "recipe_calories": str(overall_nutrition_facts["Calories"]),
+        "vitamins": vitamins,
+    }
 
-    amount_table_header = " " * 22 + "amount in recipe    amount per serving"
+    for nutrient_name, html_code in html_template_names:
+        total_amt = overall_nutrition_facts[nutrient_name]
+        amt_per_serving = total_amt // recipe_servings
+        dv = lambda amt: daily_value(nutrient_name, amt)
+        grams = lambda amt: str(amt).replace(" ", "")
 
-    return "\n".join([
+        context.update({
+            f"serving_{html_code}_g": grams(amt_per_serving),
+            f"serving_{html_code}_dv": dv(amt_per_serving),
+            f"recipe_{html_code}_g": grams(total_amt),
+            f"recipe_{html_code}_dv": dv(total_amt),
+        })
+
+    files.send_nutrition_to_html(context)
+
+    return [
         "\n<br>\n",
         f"### calculated ingredient cost:\n",
-        serving_info(f"${price:.2f}", f"for the whole recipe, ${price / recipe_servings:.2f} per serving"),
+        f"${price:.2f} for the whole recipe, ${price / recipe_servings:.2f} per serving",
         "\n<br>\n",
-        "### nutrition facts\n",
-        "```",
-        amount_table_header,
-        *(f"{name:20} {amt:>9} {daily_value(name, amt):>7} {amt//recipe_servings:>13} {daily_value(name, amt//recipe_servings):>7}" for name, amt in overall_nutrition_facts.items()),
-        "\n\nVitamins & Minerals:\n",
-        *(f"{name:20} {amt:>9} {daily_value(name, amt):>7} {amt//recipe_servings:>13} {daily_value(name, amt//recipe_servings):>7}" for name, amt in vitamin_facts.items()),
-        "```",
-    ])
-    # return f"Nutrition Facts\n\n{overall_nutrition_facts}\n\n" f"Vitamins & Minerals\n\n{vitamin_facts}"
-
-    # net_carbs = None
-    # if "Total Carbs" in ingredients:
-    #     estimated_starch = total_carbs - fiber - sugar - sugar_alcohol
-    #     if made_with_resistant_starch:
-    #         # current evidence suggests that resistant starch still has an impact on blood sugar,
-    #         # about 50% as strong as regular starch
-    #         estimated_starch /= 2
-    #         fiber -= estimated_starch  # might as well adjust fiber accordingly
-    #     net_carbs = sugar + estimated_starch
+    ]

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <link rel="stylesheet" type="text/css" href="nutrition_label.css" />
+</head>
+
+<body>
+    <div id="outer-box">
+        <div id="pre-table">
+            <h1>Nutrition Facts</h1>
+            <hr>
+            <p id="servings">recipe yields {{servings}} servings</p>
+            <hr class="thiccc">
+        </div>
+
+        <table>
+            <tr>
+                <th>&nbsp;</th>
+                <th>one serving</th>
+                <th>whole recipe</th>
+            </tr>
+            <tr id="calories">
+                <td>Calories
+                    <hr class="thicc">
+                    <hr>
+                </td>
+                <td>{{serving_calories}}
+                    <hr class="thicc">
+                    <hr>
+                </td>
+                <td>{{recipe_calories}}
+                    <hr class="thicc">
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Total Fat
+                    <hr>
+                </td>
+                <td class="grams">{{serving_fat_g}}<span class="dv">{{serving_fat_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_fat_g}}<span class="dv">{{recipe_fat_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Saturated Fat</span>
+                    <hr>
+                </td>
+                <td class="grams">{{serving_sat_fat_g}}<span class="dv">{{serving_sat_fat_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_sat_fat_g}}<span class="dv">{{recipe_sat_fat_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Cholesterol
+                    <hr>
+                </td>
+                <td class="grams">{{serving_cholesterol_g}}<span class="dv">{{serving_cholesterol_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_cholesterol_g}}<span class="dv">{{recipe_cholesterol_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Sodium
+                    <hr>
+                </td>
+                <td class="grams">{{serving_sodium_g}}<span class="dv">{{serving_sodium_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_sodium_g}}<span class="dv">{{recipe_sodium_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Total Carbohydrate
+                    <hr>
+                </td>
+                <td class="grams">{{serving_carbs_g}}<span class="dv">{{serving_carbs_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_carbs_g}}<span class="dv">{{recipe_carbs_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Dietary Fiber</span>
+                    <hr>
+                </td>
+                <td class="grams">{{serving_fiber_g}}<span class="dv">{{serving_fiber_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_fiber_g}}<span class="dv">{{recipe_fiber_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Sugars</span>
+                    <hr>
+                </td>
+                <td class="grams">{{serving_sugar_g}}<span class="dv">{{serving_sugar_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_sugar_g}}<span class="dv">{{recipe_sugar_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Sugar Alcohol</span>
+                    <hr>
+                </td>
+                <td class="grams">{{serving_sugar_alc_g}}<span class="dv">{{serving_sugar_alc_dv}}</span>
+                    <hr>
+                </td>
+                <td class="grams">{{recipe_sugar_alc_g}}<span class="dv">{{recipe_sugar_alc_dv}}</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Protein
+                    <hr class="thiccc">
+                </td>
+                <td class="grams">{{serving_protein_g}}<span class="dv">{{serving_protein_dv}}</span>
+                    <hr class="thiccc">
+                </td>
+                <td class="grams">{{recipe_protein_g}}<span class="dv">{{recipe_protein_dv}}</span>
+                    <hr class="thiccc">
+                </td>
+            </tr>
+        </table>
+        <table id="vitamins">{{vitamins}}</table>
+    </div>
+</body>
+
+</html>
