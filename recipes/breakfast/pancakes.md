@@ -28,4 +28,4 @@ $0.59 for the whole recipe, $0.20 per serving
 
 <br>
 
-<img src="../../source/nutrition/nutrition_label/images/pancakes.png" alt="pancakes nutrition facts" width="900" />
+<img src="../../source/nutrition/nutrition_label/images/pancakes.png" alt="pancakes nutrition facts" width="500" />
