@@ -54,3 +54,9 @@ def recipe(meal: str, name: str):
     if not recipe_path.is_dir():
         recipe_path.mkdir()
     return open(recipe_path.joinpath(f"{name}.md"), "w", encoding="utf8")
+
+
+nutrition_label = nutrition.joinpath("nutrition_label")
+nutrition_images = nutrition_label.joinpath("images")
+nutrition_html = nutrition_label.joinpath("nutrition_label.html")
+nutrition_css = nutrition_label.joinpath("nutrition_label.css")

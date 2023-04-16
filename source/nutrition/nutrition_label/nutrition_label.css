@@ -1,11 +1,12 @@
 body {
     font-family: Helvetica, sans-serif;
+    background-color: white;
 }
 
 #outer-box {
     width: max-content;
     border: 2px solid black;
-    margin: auto;
+    /* margin: auto; */
     padding: 1px;
 }
 
@@ -21,18 +22,26 @@ h1 {
 
 hr {
     margin: 0;
+    border: 0.5px solid black;
 }
 
-hr.thin {
-    border: 0.4px solid black;
+td hr {
+    margin-top: 4px;
+}
+
+
+td:first-child hr {
+    margin-right: -10px;
 }
 
 hr.thicc {
     border: 4px solid black;
+    margin-bottom: 8px;
 }
 
 hr.thiccc {
     border: 8px solid black;
+    margin-bottom: 8px;
 }
 
 #servings {
@@ -45,8 +54,9 @@ hr.thiccc {
 }
 
 table {
-    margin-top: 4px;
     border-collapse: collapse;
+    background-color: white;
+    /* maybe delete this */
 }
 
 th {
@@ -56,12 +66,13 @@ th {
 }
 
 td {
-    padding: 3px;
+    padding: 2px 3px;
     width: 55px;
 }
 
 td:first-child {
-    width: 150px;
+    width: 160px;
+    font-weight: bold;
 }
 
 td:last-child {
@@ -69,7 +80,7 @@ td:last-child {
 }
 
 #calories {
-    font-size: large;
+    font-size: 24px;
     font-weight: bold;
     text-align: center;
 }
@@ -78,11 +89,28 @@ td:last-child {
     text-align: left;
 }
 
+.subset {
+    font-weight: normal;
+    padding-left: 12px;
+}
+
 .grams {
-    padding-left: 6px;
+    text-indent: 2px;
 }
 
 .dv {
     float: right;
     font-weight: bold;
+}
+
+
+#vitamins tr td {
+    text-align: right;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#vitamins tr td:first-child {
+    text-align: left;
+    font-weight: lighter;
 }
