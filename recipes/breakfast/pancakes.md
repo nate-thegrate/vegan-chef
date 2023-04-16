@@ -64,4 +64,4 @@ Folic Acid               60 µg     15%         30 µg      8%
 Zinc                      5 mg     45%        2.5 mg     23%
 ```
 
-![nut](../../source/nutrition/nutrition_label/images/image.png)
+<img src="../../source/nutrition/nutrition_label/images/image.png" width="800" />
