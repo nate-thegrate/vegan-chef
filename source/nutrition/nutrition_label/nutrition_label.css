@@ -1,63 +1,88 @@
-#nutritionfacts {
-    background-color: white;
-    border: 1px solid black;
-    padding: 3px;
-    width: 244px;
+body {
+    font-family: Helvetica, sans-serif;
 }
 
-#nutritionfacts td {
-    color: black;
-    font-family: 'Arial Black', 'Helvetica Bold', sans-serif;
-    font-size: 8pt;
-    padding: 0;
+#outer-box {
+    width: max-content;
+    border: 2px solid black;
+    margin: auto;
+    padding: 1px;
 }
 
-#nutritionfacts td.header {
-    font-family: 'Arial Black', 'Helvetica Bold', sans-serif;
-    font-size: 28px;
-    white-space: nowrap;
+#pre-table {
+    padding: 0 4px;
 }
 
-#nutritionfacts div.label {
-    float: left;
-    font-family: 'Arial Black', 'Helvetica Bold', sans-serif;
+h1 {
+    margin: -4px 0;
+    text-align: center;
+    font-weight: 800;
 }
 
-#nutritionfacts div.serving {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 8pt;
+hr {
+    margin: 0;
+}
+
+hr.thin {
+    border: 0.4px solid black;
+}
+
+hr.thicc {
+    border: 4px solid black;
+}
+
+hr.thiccc {
+    border: 8px solid black;
+}
+
+#servings {
+    /* text-align: center; */
+    margin: 2px;
+}
+
+.lightweight {
+    font-stretch: condensed;
+}
+
+table {
+    margin-top: 4px;
+    border-collapse: collapse;
+}
+
+th {
+    font-weight: lighter;
+    font-stretch: condensed;
     text-align: center;
 }
 
-#nutritionfacts div.weight {
-    display: inline;
-    font-family: Arial, Helvetica, sans-serif;
-    padding-left: 1px;
-
+td {
+    padding: 3px;
+    width: 55px;
 }
 
-#nutritionfacts div.dv {
-    display: inline;
+td:first-child {
+    width: 150px;
+}
+
+td:last-child {
+    border-left: 1.4px solid black;
+}
+
+#calories {
+    font-size: large;
+    font-weight: bold;
+    text-align: center;
+}
+
+#calories td:first-child {
+    text-align: left;
+}
+
+.grams {
+    padding-left: 6px;
+}
+
+.dv {
     float: right;
-    font-family: 'Arial Black', 'Helvetica Bold', sans-serif;
-}
-
-#nutritionfacts table.vitamins td {
-    font-family: Arial, Helvetica, sans-serif;
-    white-space: nowrap;
-    width: 33%;
-}
-
-#nutritionfacts div.line {
-    border-top: 1px solid black;
-}
-
-#nutritionfacts div.labellight {
-    float: left;
-    font-family: Arial, Helvetica, sans-serif;
-}
-
-#nutritionfacts .highlighted {
-    border: 1px dotted grey;
-    padding: 2px;
+    font-weight: bold;
 }
