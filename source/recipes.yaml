@@ -143,11 +143,13 @@ crepes:
   meal: breakfast
   calculate nutrition & price: false
   ingredients:
-    - 1/2 cup oil
-    - 1/2 cup soy milk
-    - 1/2 cup water
+    - 1 c soy milk
     - 1/2 t salt
-    - 3/4 cup flour
+    - 1/4 c oil
+    - 1/4 c water
+    - 1/4 c sourdough starter
+    - 3/4 c flour
+    - 1/4 c gluten
     - 1/4 t guar gum
     - 1/2 t cream of tartar
   directions:
