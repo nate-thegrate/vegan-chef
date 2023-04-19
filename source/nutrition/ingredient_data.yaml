@@ -47,6 +47,20 @@ white flour:
       Riboflavin: 400 µg
       Niacin: 7.2 mg
 
+gluten:
+  serving size: 1/4 cup
+  servings per container: 60.0
+  container price: 25.00
+  nutrition facts:
+    Calories: 110 Cal
+    Total Fat: 1.5 g
+    Total Carbs: 4 g
+    Protein: 23 g
+    Vitamins:
+      Calcium: 13 mg
+      Iron: 1.3 mg
+      Potassium: 25 mg
+
 erythritol:
   serving size: 2 tsp
   servings per container: 226.0
@@ -54,6 +68,20 @@ erythritol:
   nutrition facts:
     Total Carbs: 8 g
     Sugar Alcohol: 8 g
+
+soy milk:
+  serving size: 1 cup
+  servings per container: 8
+  container price: 4.00
+  nutrition facts:
+    Calories: 80 Cal
+    Total Fat: 4 g
+    Saturated Fat: 0.5 g
+    Sodium: 75 mg
+    Total Carbs: 3 g
+    Fiber: 2 g
+    Sugar: 1 g
+    Protein: 7 g
 
 salt:
   serving size: 1/4 tsp
