@@ -9,7 +9,7 @@
 - 1 c peanut butter
 - 1/4 t molasses
 - 1 T vanilla
-- 36 aspartame packets 😈
+- 1 1/2 c sweetener
 - 3 c old-fashioned oats
 
 <br>

@@ -1,0 +1,1 @@
+from .price_and_nutrition import generate_nutrition_price_data

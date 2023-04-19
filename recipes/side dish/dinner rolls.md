@@ -6,7 +6,7 @@
 - 1 t lemon juice
 - 1/4 c oil
 - 1/2 c sourdough starter
-- 1 T sugar 😫 (don't worry, it's just to activate the yeast)
+- 1 T sugar 😫 (it's just to activate the yeast)
 - 2 t salt
 - 4 c flour
 - 1 T yeast

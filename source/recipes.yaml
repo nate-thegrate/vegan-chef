@@ -3,7 +3,7 @@ cornbread:
   calculate nutrition & price: false
   ingredients:
     - 1/2 c oil
-    - 12 aspartame packets
+    - 1/2 c sweetener
     - 1 1/2 c water
     - 1 t salt
     - 1 c flour (use whole wheat unless you're a heathen)
@@ -147,7 +147,7 @@ aebleskivers:
   ingredients:
     - 3 c soy milk
     - 1 t salt
-    - 4 Splenda packets
+    - 1 T erythritol
     - 3 1/3 c flour
     - 1/2 T baking powder
     - 1/2 T baking soda
@@ -276,7 +276,7 @@ pb & j:
     - peanut butter
     - jam
   directions:
-    - I'm just adding this as a recipe since I keep forgetting that I can just make a PB&J when I'm hungry.
+    - Adding this as a recipe since I keep forgetting that I can just make a PB&J when I'm hungry.
 
 vegan deli sandwich:
   meal: bread, main dish
@@ -463,7 +463,7 @@ pizza:
     - 1 t lemon juice
     - 1/4 c oil
     - 1/2 c sourdough starter
-    - 1 T sugar 😫 (don't worry, it's just to activate the yeast)
+    - 1 T sugar 😫 (it's just to activate the yeast)
     - 2 t salt
     - 4 c flour
     - 1 T yeast
@@ -484,7 +484,7 @@ dinner rolls:
     - 1 t lemon juice
     - 1/4 c oil
     - 1/2 c sourdough starter
-    - 1 T sugar 😫 (don't worry, it's just to activate the yeast)
+    - 1 T sugar 😫 (it's just to activate the yeast)
     - 2 t salt
     - 4 c flour
     - 1 T yeast
@@ -541,7 +541,7 @@ no-bake cookies:
     - 1 c peanut butter
     - 1/4 t molasses
     - 1 T vanilla
-    - 36 aspartame packets 😈
+    - 1 1/2 c sweetener
     - 3 c old-fashioned oats
   directions:
     - Bring butter, erythritol, milk, salt, and cocoa to a boil; boil for 90 seconds.
@@ -558,7 +558,7 @@ cinnamon rolls:
     - 1 t lemon juice
     - 1/4 c oil
     - 1/2 c sourdough starter
-    - 1 T sugar 😫 (don't worry, it's just to activate the yeast)
+    - 1 T sugar 😫 (it's just to activate the yeast)
     - 2 t salt
     - 4 c flour
     - 1 T yeast

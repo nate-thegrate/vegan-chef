@@ -2,7 +2,7 @@
 
 ### ingredients
 - 1/2 c oil
-- 12 aspartame packets
+- 1/2 c sweetener
 - 1 1/2 c water
 - 1 t salt
 - 1 c flour (use whole wheat unless you're a heathen)

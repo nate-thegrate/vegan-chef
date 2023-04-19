@@ -1,5 +1,5 @@
 import files
-from nutrition.nutrition import price_and_nutrition
+from nutrition import generate_nutrition_price_data
 
 
 class Recipe():
@@ -10,7 +10,7 @@ class Recipe():
         self.calculate_nutrition: bool = recipe.get("calculate nutrition & price", True)
         self.servings: float = recipe.get("servings", 1.0)
         self.ingredients: list = recipe["ingredients"]
-        self.directions: list[str] = recipe["directions"]
+        self.directions = (f"{direction}\n" for direction in recipe["directions"])
 
     def parse_ingredients(self):
         ingreds = self.ingredients
@@ -33,45 +33,48 @@ class Recipe():
                         *(f"- {item}" for item in items),
                         "\n<br>\n" if str_after_this(section) else "",
                     ])
-        parsed_ingreds.append("")
         return parsed_ingreds
 
     @property
     def markdown_text(self):
         if self.calculate_nutrition:
-            nutrition = price_and_nutrition(self.ingredients, self.servings)
-            filename = files.save_nutrition_html_as_image(self.name)
-            markdown_link = f"../../source/nutrition/nutrition_label/images/{filename}"
-            nutrition.append(f"![{self.name} nutrition facts]({markdown_link})")
+            if self.servings == 1:
+                raise ValueError(f"calculate_nutrition is {self.calculate_nutrition}, but there's just one serving.\n"
+                                 "Change the number of servings so the nutrition facts table doesn't look stupid.")
+            context, price = generate_nutrition_price_data(self.ingredients, self.servings)
+            files.nutrition_facts.export(self.name, context)
+            markdown_link = f"../../source/nutrition/nutrition_labels/{self.name}/nutrition_facts.png"
+            price_nutrition_facts = [
+                "\n<br>\n",
+                f"### calculated ingredient cost:\n",
+                f"${price:.2f} for the whole recipe, ${price / self.servings:.2f} per serving",
+                "\n<br>\n",
+                f"![{self.name} nutrition facts]({markdown_link})",
+            ]
         else:
-            nutrition = []
+            price_nutrition_facts = []
         return "\n".join([
             f"# {self.name}",
             f"*yield: {self.servings} servings*\n" if self.servings > 1 else "",
             "### ingredients",
             *self.parse_ingredients(),
-            "<br>\n",
+            "\n<br>\n",
             "### directions:\n",
-            *(f"{direction}\n" for direction in self.directions),
-            *nutrition,
+            *self.directions,
+            *price_nutrition_facts,
         ])
 
     def export_to_recipe_folder(self):
         """Adds the recipe to `recipes/` in markdown format."""
         text = self.markdown_text
         for meal in self.meals:
-            with files.recipe(meal, self.name) as recipe_markdown:
+            with files.open_recipe(meal, self.name) as recipe_markdown:
                 recipe_markdown.write(text)
 
-
-def main():
+if __name__ == "__main__":
     files.yeet_everything()
 
-    recipe_list = [Recipe(*item) for item in files.load_recipes()]
+    recipe_list = [Recipe(*item) for item in files.yaml_dicts.recipes()]
 
-    for recipe in recipe_list:
-        recipe.export_to_recipe_folder()
-
-
-if __name__ == "__main__":
-    main()
+    for open_recipe in recipe_list:
+        open_recipe.export_to_recipe_folder()

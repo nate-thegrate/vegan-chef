@@ -25,4 +25,4 @@ $0.54 for the whole recipe, $0.18 per serving
 
 <br>
 
-![waffles nutrition facts](../../source/nutrition/nutrition_label/images/waffles.png)
+![waffles nutrition facts](../../source/nutrition/nutrition_labels/waffles/nutrition_facts.png)
