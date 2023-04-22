@@ -1,28 +1,27 @@
 # crepes
-*yield: 3 servings*
+*yield: 2 servings*
 
 ### ingredients
-- 1 c soy milk
-- 1/2 t salt
-- 1/4 c oil
-- 1/4 c water
+- 1 c water
+- 1/4 t salt
+- 2 T oil
 - 1/4 c sourdough starter
-- 3/4 c whole wheat flour
-- 2 T gluten
+- 1/2 c whole wheat flour
+- 3 T gluten
 - 1/8 t guar gum
 
 <br>
 
 ### directions:
 
-figure it out I guess
+probably just Google [how to cook crepes](https://www.google.com/search?q=how+to+cook+crepes)
 
 
 <br>
 
 ### calculated ingredient cost:
 
-$1.08 for the whole recipe, $0.36 per serving
+$0.55 for the whole recipe, $0.27 per serving
 
 <br>
 
