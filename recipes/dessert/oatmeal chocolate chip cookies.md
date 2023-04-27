@@ -2,7 +2,8 @@
 
 ### ingredients
 - 1 c allulose
-- 1/2 c butter
+- 1/2 c plant-based butter
+- 1/8 c coconut oil
 - 1/4 c water
 - 1/2 t sucralose syrup
 - 1/2 t molasses
