@@ -4,7 +4,7 @@
 ### ingredients
 - 1 1/4 c water
 - 1/4 t salt
-- 2 T oil
+- 1/8 c oil
 - 1/4 c sourdough starter
 - 1/2 c whole wheat flour
 - 3 T gluten
