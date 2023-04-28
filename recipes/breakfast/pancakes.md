@@ -5,7 +5,7 @@
 - 1 c water
 - 1/2 t salt
 - 1 T erythritol
-- 2 T oil
+- 1/8 c oil
 - 1/4 c sourdough starter
 - 1 c whole wheat flour
 - 2 t baking powder

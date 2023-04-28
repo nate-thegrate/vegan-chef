@@ -1,7 +1,7 @@
 # white bean & spinach soup
 
 ### ingredients
-- 2 T oil
+- 1/8 c oil
 - 1 onion, chopped
 - 1 stalk celery, chopped
 - 2 carrots, cut into matchsticks

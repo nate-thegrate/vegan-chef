@@ -2,13 +2,13 @@
 
 ### ingredients
 - 1 3 oz package soy sauce flavored ramen noodles
-- 2 T sesame seeds
+- 1/8 c sesame seeds
 - 1/4 c sliced almonds
 - 1/2 head cabbage, sliced
 
 #### salad dressing
-- 2 T oil
-- 2 T rice vinegar
+- 1/8 c oil
+- 1/8 c rice vinegar
 - 3 aspartame packets
 - 1/4 t black pepper
 - flavor packet (from the ramen noodles package)

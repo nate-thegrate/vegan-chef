@@ -5,7 +5,7 @@
 - 1/8 c oil
 - 1 onion
 - 1/2 t garlic powder
-- 2 T curry powder
+- 1/8 c curry powder
 - 1 T ginger
 - 2 t coriander
 - 1/4 t cayenne pepper

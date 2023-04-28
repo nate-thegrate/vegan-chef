@@ -10,7 +10,7 @@
 - 2 t salt
 - 4 c flour
 - 1 T yeast
-- 2 T wheat gluten
+- 1/8 c wheat gluten
 
 <br>
 

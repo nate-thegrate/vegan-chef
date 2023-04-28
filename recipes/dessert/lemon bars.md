@@ -10,7 +10,7 @@
 <br>
 
 - 18 Splenda packets
-- 2 T lupin flour
+- 1/8 c lupin flour
 - 2 t lemon peel
 - 3 T lemon juice
 - 1/2 t guar gum
