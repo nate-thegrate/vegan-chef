@@ -2,7 +2,7 @@
 *yield: 2 servings*
 
 ### ingredients
-- 1 c water
+- 1 1/4 c water
 - 1/4 t salt
 - 2 T oil
 - 1/4 c sourdough starter

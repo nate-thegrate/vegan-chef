@@ -13,7 +13,7 @@
 - 1/2 c white flour
 - 1/2 c whole wheat pastry flour
 - 1/8 c lupin flour
-- 1 t baking powder
+- 1/2 T baking powder
 - 1/8 t guar gum
 - chocolate chips
 

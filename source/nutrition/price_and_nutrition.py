@@ -25,7 +25,7 @@ ingredient_names = {
 
 def find_ingredient(ingredient: str):
     words = ingredient.split(" ")
-    name_index = 3 if words[2][0].isnumeric() else 2
+    name_index = 3 if words[1][0].isnumeric() else 2
     name = " ".join(words[name_index:])
     if name in ingredient_names:
         name = ingredient_names[name]
