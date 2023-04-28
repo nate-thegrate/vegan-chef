@@ -2,7 +2,7 @@
 
 ### ingredients
 - Strawberries
-- lots of aspartame packets
+- lots of sweetener
 - thickener (either Fibersol-2 or guar gum)
 
 <br>
@@ -11,4 +11,4 @@
 
 Heat the raspberries in a pot, using a potato masher to smash them into jam.
 
-Add some thickener, then add the aspartame and let it cool.
+Add some thickener, then add the sweetener and let it cool.

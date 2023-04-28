@@ -2,10 +2,10 @@
 
 ### ingredients
 - 1 c soy milk
-- 1/4 c oat fiber
+- 1/4 t guar gum
 - 2 c cooked rice
 - 1/4 t salt
-- 16 Splenda packets
+- 2/3 c sweetener
 - 1/4 t molasses
 - 1/2 T vanilla
 - 1/8 t cinnamon
