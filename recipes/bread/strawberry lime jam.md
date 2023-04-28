@@ -1,7 +1,7 @@
 # strawberry lime jam
 
 ### ingredients
-- Strawberries
+- strawberries
 - lime juice
 - lots of sweetener
 - chia seeds
