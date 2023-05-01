@@ -3,7 +3,7 @@
 
 ### ingredients
 - 1 1/4 c water
-- 1/4 t salt
+- 1/2 t salt
 - 1/8 c oil
 - 1/4 c sourdough starter
 - 1/2 c whole wheat flour
@@ -21,7 +21,7 @@ probably just Google [how to cook crepes](https://www.google.com/search?q=how+to
 
 ### calculated ingredient cost:
 
-$0.55 for the whole recipe, $0.27 per serving
+$0.55 for the whole recipe, $0.28 per serving
 
 <br>
 
