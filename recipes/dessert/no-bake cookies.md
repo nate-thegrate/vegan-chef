@@ -1,7 +1,7 @@
 # no-bake cookies
 
 ### ingredients
-- 1/2 c plant-based butter (I used a 50/50 mix of coconut oil & butter-flavor shortening)
+- 1/2 c coconut oil
 - 2/3 c erythritol
 - 1/2 c soy milk
 - 1/4 t salt

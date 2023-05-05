@@ -18,6 +18,9 @@ def daily_value(name: str, serving_amt: Measure, recipe_amt: Measure = None):
 ingredient_data: dict[str, dict[str, dict[str, dict | str]]] = yaml_dicts.ingredient_data()
 ingredient_names = {
     "water": None,
+    "fresh fruit (optional)": None,
+    "sweetener": "sucralose",
+    "nutritional yeast": "fortified premium yeast flakes",
     "oil": "canola oil",
     "sourdough starter": "whole wheat flour",
 }

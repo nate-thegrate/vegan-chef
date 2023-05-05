@@ -34,7 +34,7 @@ white flour:
   nutrition facts:
     Calories: 455 Cal
     Total Fat: 1.2 g
-    Saturated Fat: 1.2 g
+    Saturated Fat: 0.2 g
     Total Carbs: 95 g
     Fiber: 3.4 g
     Sugar: 0.3 g
@@ -46,6 +46,77 @@ white flour:
       Thiamin: 800 µg
       Riboflavin: 400 µg
       Niacin: 7.2 mg
+
+oats:
+  serving size: 1/2 cup
+  servings per container: 30.0
+  container price: 4.70
+  nutrition facts:
+    Calories: 150 Cal
+    Total Fat: 2.5 g
+    Total Carbs: 27 g
+    Fiber: 4 g
+    Sugar: 1 g
+    Protein: 5 g
+    Vitamins:
+      Calcium: 21 mg
+      Iron: 1 mg
+      Potassium: 145 mg
+
+yellow cornmeal:
+  serving size: 3 T
+  servings per container: 25.0
+  container price: 2.00
+  nutrition facts:
+    Calories: 90 Cal
+    Total Carbs: 21 g
+    Fiber: 1 g
+    Protein: 2 g
+    Vitamins:
+      Calcium: 2 mg
+      Iron: 1 mg
+      Potassium: 200 mg
+      Thiamin: 100 µg
+      Folic Acid: 36 µg
+      Riboflavin: 100 µg
+      Niacin: 1 mg
+
+fortified premium yeast flakes:
+  serving size: 2 T
+  servings per container: 26.0
+  container price: 12.00
+  nutrition facts:
+    Calories: 60 Cal
+    Sodium: 27 mg
+    Total Carbs: 6 g
+    Fiber: 4 g
+    Protein: 8 g
+    Vitamins:
+      Vitamin B6: 10 mg
+      Calcium: 10 mg
+      Iron: 1 mg
+      Potassium: 320 mg
+      Thiamin: 10 mg
+      Folic Acid: 1040 µg
+      Riboflavin: 10 mg
+      Niacin: 46 mg
+
+chia seeds:
+  serving size: 4 T
+  servings per container: 33.0
+  container price: 10.50
+  nutrition facts:
+    Calories: 150 Cal
+    Total Fat: 9 g
+    Saturated Fat: 1 g
+    Sodium: 5 mg
+    Total Carbs: 13 g
+    Fiber: 10 g
+    Protein: 5 g
+    Vitamins:
+      Calcium: 189 mg
+      Iron: 2 mg
+      Potassium: 120 mg
 
 gluten:
   serving size: 1/4 cup
@@ -114,6 +185,13 @@ baking soda:
   container price: 1.00
   nutrition facts:
     Sodium: 160 mg
+
+sucralose:
+  serving size: 1 cup
+  servings per container: 1000.0
+  container price: 28.96
+  nutrition facts:
+    Calories: 0 Cal
 
 guar gum:
   serving size: 1 tsp

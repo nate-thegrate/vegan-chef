@@ -3,7 +3,7 @@
 ### ingredients
 - Strawberries
 - lots of sweetener
-- thickener (either Fibersol-2 or guar gum)
+- guar gum
 
 <br>
 

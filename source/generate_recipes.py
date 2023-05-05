@@ -39,8 +39,7 @@ class Recipe():
     def markdown_text(self):
         if self.calculate_nutrition:
             if self.servings == 1:
-                raise ValueError(f"calculate_nutrition is {self.calculate_nutrition}, but there's just one serving.\n"
-                                 "Change the number of servings so the nutrition facts table doesn't look stupid.")
+                raise ValueError(f"U gotta increase number of servings for {self.name}")
             context, price = generate_nutrition_price_data(self.ingredients, self.servings)
             files.nutrition_facts.export(self.name, context)
             markdown_link = f"../../source/nutrition/nutrition_labels/{self.name}/nutrition_facts.png"

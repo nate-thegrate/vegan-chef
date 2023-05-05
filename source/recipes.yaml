@@ -1,18 +1,19 @@
 cornbread:
   meal: side dish, bread
-  calculate nutrition & price: false
+  servings: 6
   ingredients:
     - 1/2 c oil
     - 1/2 c sweetener
     - 1 1/2 c water
     - 1 t salt
-    - 1 c flour (use whole wheat unless you're a heathen)
+    - 1 c whole wheat flour
     - 1 c yellow cornmeal
     - 1/2 c nutritional yeast
     - 1/2 t guar gum
     - 1 1/2 T baking powder
   directions:
-    - Mix all ingredients and bake at 400°F for 20-25 min.
+    - Mix all ingredients and pour into glass pan.
+    - Bake at 400°F for 20-25 min.
     - Serve hot, with honey or butter or whatever substitutes for those you wanna use.
 
 guacamole:
@@ -169,7 +170,7 @@ french toast:
 
 oatmeal:
   meal: breakfast
-  calculate nutrition & price: false
+  servings: 2
   ingredients:
     - 1 c oats
     - 3 T chia seeds
@@ -341,7 +342,7 @@ strawberry lime jam:
     - lime juice
     - lots of sweetener
     - chia seeds
-    - thickener (optional, either Fibersol-2 or guar gum)
+    - guar gum (optional)
   directions:
     - Heat the strawberries & lime juice in a pot, using a potato masher to smash the strawberries into jam.
     - Either add some thickener or wait for some of the excess water to boil off (chia seeds make a pretty good thickener anyway).
@@ -354,7 +355,7 @@ raspberry jam:
   ingredients:
     - Strawberries
     - lots of sweetener
-    - thickener (either Fibersol-2 or guar gum)
+    - guar gum
   directions:
     - Heat the raspberries in a pot, using a potato masher to smash them into jam.
     - Add some thickener, then add the sweetener and let it cool.
@@ -535,7 +536,7 @@ no-bake cookies:
   meal: dessert
   calculate nutrition & price: false
   ingredients:
-    - 1/2 c plant-based butter (I used a 50/50 mix of coconut oil & butter-flavor shortening)
+    - 1/2 c coconut oil
     - 2/3 c erythritol
     - 1/2 c soy milk
     - 1/4 t salt

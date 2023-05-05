@@ -5,7 +5,7 @@
 - lime juice
 - lots of sweetener
 - chia seeds
-- thickener (optional, either Fibersol-2 or guar gum)
+- guar gum (optional)
 
 <br>
 
