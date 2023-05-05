@@ -2,12 +2,12 @@
 *yield: 3 servings*
 
 ### ingredients
-- 1 c water
-- 1/4 t salt
+- 1 1/2 c water
+- 1/2 t salt
 - 1 t erythritol
 - 1/4 c sourdough starter
 - 1 c whole wheat flour
-- 1/2 T baking powder
+- 1 t baking powder
 - 1/8 t guar gum
 
 <br>
@@ -21,7 +21,7 @@ Combine all ingredients, then cook in an aebleskiver pan.
 
 ### calculated ingredient cost:
 
-$0.40 for the whole recipe, $0.13 per serving
+$0.36 for the whole recipe, $0.12 per serving
 
 <br>
 
