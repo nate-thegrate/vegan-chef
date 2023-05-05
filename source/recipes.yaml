@@ -127,15 +127,15 @@ waffles:
 
 aebleskivers:
   meal: breakfast
-  calculate nutrition & price: false
+  servings: 3
   ingredients:
-    - 3 c soy milk
-    - 1 t salt
-    - 1 T erythritol
-    - 3 1/3 c flour
+    - 1 c water
+    - 1/4 t salt
+    - 1 t erythritol
+    - 1/4 c sourdough starter
+    - 1 c whole wheat flour
     - 1/2 T baking powder
-    - 1/2 T baking soda
-    - 1/2 t guar gum
+    - 1/8 t guar gum
   directions:
     - Combine all ingredients, then cook in an aebleskiver pan.
 
