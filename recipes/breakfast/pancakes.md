@@ -6,7 +6,7 @@
 - 1/2 t salt
 - 1 T erythritol
 - 1/8 c oil
-- 1/4 c sourdough starter
+- 1/3 c sourdough starter
 - 1 c whole wheat flour
 - 2 t baking powder
 - 1/8 t guar gum
@@ -24,7 +24,7 @@ Hopefully you know how to flip pancakes.
 
 ### calculated ingredient cost:
 
-$0.59 for the whole recipe, $0.20 per serving
+$0.61 for the whole recipe, $0.20 per serving
 
 <br>
 
