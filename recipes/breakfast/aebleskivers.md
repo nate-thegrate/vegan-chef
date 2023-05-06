@@ -15,7 +15,7 @@
 
 ### directions:
 
-Combine all ingredients except for the oil.
+Combine all ingredients, **except for the oil.**
 
 Cook in an aebleskiver pan (add ~¼ teaspoon of oil to each divet before pouring the batter).
 

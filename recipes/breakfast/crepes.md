@@ -7,7 +7,7 @@
 - 1/8 c oil
 - 1/3 c sourdough starter
 - 1/2 c whole wheat flour
-- 3 T gluten
+- 3 T wheat gluten
 - 1/8 t guar gum
 
 <br>
