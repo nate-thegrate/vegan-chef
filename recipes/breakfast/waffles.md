@@ -5,9 +5,9 @@
 - 1 c water
 - 1/2 t salt
 - 1/4 c oil
-- 1/3 c sourdough starter
-- 2/3 c whole wheat flour
-- 1/3 c lupin flour
+- 2/3 c sourdough starter
+- 1/2 c whole wheat flour
+- 1/4 c lupin flour
 - 1/2 T baking powder
 - 1/8 t guar gum
 
@@ -22,7 +22,7 @@ Mix everything in a bowl and cook as per your waffle maker's instructions.
 
 ### calculated ingredient cost:
 
-$1.52 for the whole recipe, $0.51 per serving
+$1.29 for the whole recipe, $0.43 per serving
 
 <br>
 
