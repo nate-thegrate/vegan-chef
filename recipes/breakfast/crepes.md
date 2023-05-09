@@ -16,6 +16,8 @@
 
 probably just Google [how to cook crepes](https://www.google.com/search?q=how+to+cook+crepes)
 
+Tip: don't cook both sides for the same amount of time: Cook for several minutes, then flip and cook the other side for about 30 seconds.
+
 
 <br>
 
