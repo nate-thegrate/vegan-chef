@@ -1,4 +1,4 @@
-from .main import source, UTF8
+from .main import compile_recipes, UTF8
 from .nutrition_facts import nutrition_folder
 import yaml
 
@@ -20,10 +20,10 @@ def ingredient_data():
 
 def branch_multiplier() -> float:
     """(not currently in use since we aren't multiplying recipes)"""
-    branch_config = source.joinpath("branch_config.yaml")
+    branch_config = compile_recipes.joinpath("branch_config.yaml")
     return _load(branch_config)["recipe_multiplier"]
 
 
 def recipes():
-    recipes = source.joinpath("recipes.yaml")
+    recipes = compile_recipes.joinpath("recipes.yaml")
     return _load(recipes).items()

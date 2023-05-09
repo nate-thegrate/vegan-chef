@@ -1,8 +1,8 @@
 from pathlib import Path
 from shutil import rmtree
 
-source = Path(__file__).parent.parent.resolve()
-repo = source.parent.resolve()
+compile_recipes = Path(__file__).parent.parent.resolve()
+repo = compile_recipes.parent.resolve()
 
 recipe_export = repo.joinpath("recipes")
 

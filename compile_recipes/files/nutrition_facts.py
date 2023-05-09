@@ -1,8 +1,8 @@
-from .main import source, UTF8
+from .main import compile_recipes, UTF8
 import jinja2 as jinja
 from subprocess import run
 
-nutrition_folder = source.joinpath("nutrition")
+nutrition_folder = compile_recipes.joinpath("nutrition")
 labels_folder = nutrition_folder.joinpath("nutrition_labels")
 
 

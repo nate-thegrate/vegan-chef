@@ -25,4 +25,4 @@ $0.57 for the whole recipe, $0.28 per serving
 
 <br>
 
-![crepes nutrition facts](../../source/nutrition/nutrition_labels/crepes/nutrition_facts.png)
+[![crepes nutrition facts](../../compile_recipes/nutrition/nutrition_labels/crepes/nutrition_facts.png)](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/crepes/nutrition_facts.html)

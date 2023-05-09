@@ -28,4 +28,4 @@ $0.60 for the whole recipe, $0.20 per serving
 
 <br>
 
-![aebleskivers nutrition facts](../../source/nutrition/nutrition_labels/aebleskivers/nutrition_facts.png)
+[![aebleskivers nutrition facts](../../compile_recipes/nutrition/nutrition_labels/aebleskivers/nutrition_facts.png)](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/aebleskivers/nutrition_facts.html)
