@@ -31,7 +31,7 @@ def export(recipe_name: str, context: dict):
     with open(nutrition_html_path, "w", **UTF8) as file:
         file.write(nutrition_html_code)
 
-    firefox_path = "C:\\Program Files\\Mozilla Firefox\\firefox.exe"
+    firefox_path = R"C:\Program Files\Mozilla Firefox\firefox.exe"
     img_path = nutrition_folder_path.joinpath("nutrition_facts.png")
 
     command = [str(x) for x in (firefox_path, '--headless', '--screenshot', img_path, nutrition_html_path)]
