@@ -186,24 +186,42 @@ oatmeal:
     - Pour the oats, chia seeds, salt, sweetener, and milk into a cereal bowl, one at a time.
     - Mix and then microwave for 2 minutes, or to your satisfaction. Let it cool a little bit and then add fruit if you want.
 
-lemon bars:
+mini raspberry cheesecakes:
   meal: dessert
   calculate nutrition & price: false
   ingredients:
     - crust:
-        - 1/3 c plant-based butter
-        - 6 Splenda packets
-        - 1 c whole wheat flour
-    - 18 Splenda packets
-    - 1/8 c lupin flour
-    - 2 t lemon peel
-    - 3 T lemon juice
-    - 1/2 t guar gum
-    - 1/4 t baking powder
-    - 1/8 t salt
+        - 1/3 c shortening
+        - 1/4 c allulose (+ a little erythritol)
+        - 1 c whole wheat pastry flour
+    - 3/4 c sweetener
+    - 1 T vanilla
+    - both cream cheese packages
+    - leftover whipped cream + leftover thicc cream
+    - puree'd raspberries
+    - "[experiment with lupin/fibersol/gluten]"
   directions:
-    - Combine the first 3 ingredients and press into an 8x8 pan; bake at 350°F for 15 min.
+    - Combine the crust ingredients and press into an 8x8 pan; bake at 350°F for 15 min.
     - Combine other ingredients and pour on top of crust; bake at 350°F for 20-25 min.
+
+# lemon bars:
+#   meal: dessert
+#   calculate nutrition & price: false
+#   ingredients:
+#     - crust:
+#         - 1/3 c plant-based butter
+#         - 6 Splenda packets
+#         - 1 c whole wheat flour
+#     - 18 Splenda packets
+#     - 1/8 c lupin flour
+#     - 2 t lemon peel
+#     - 3 T lemon juice
+#     - 1/2 t guar gum
+#     - 1/4 t baking powder
+#     - 1/8 t salt
+#   directions:
+#     - Combine the first 3 ingredients and press into an 8x8 pan; bake at 350°F for 15 min.
+#     - Combine other ingredients and pour on top of crust; bake at 350°F for 20-25 min.
 
 oatmeal chocolate chip cookies:
   meal: dessert
