@@ -35,4 +35,5 @@ def export(recipe_name: str, context: dict):
     img_path = nutrition_folder_path.joinpath("nutrition_facts.png")
 
     command = [str(x) for x in (firefox_path, '--headless', '--screenshot', img_path, nutrition_html_path)]
-    run(command)
+    # print("running:", " ".join(command))
+    # run(command)
