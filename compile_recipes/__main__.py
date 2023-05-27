@@ -45,7 +45,7 @@ class Recipe():
             nutrition_label_path = f"compile_recipes/nutrition/nutrition_labels/{self.name}/nutrition_facts"
             # relative_image_path = f"../../{nutrition_label_path}.png"
             rendered_html_link = ("https://htmlpreview.github.io/?"
-                                  f"https://github.com/nate-thegrate/vegan-chef/blob/main/{nutrition_label_path}.html")
+                                  "https://github.com/nate-thegrate/vegan-chef/blob/main/{}.html".format(nutrition_label_path.replace(" ", "%20")))
             price_nutrition_facts = [
                 "\n<br>\n",
                 f"### calculated ingredient cost:\n",
