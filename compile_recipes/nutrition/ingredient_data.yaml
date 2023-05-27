@@ -242,6 +242,40 @@ vanilla:
   nutrition facts:
     Calories: 0 Cal
 
+peanut butter:
+  serving size: 2 T
+  servings per container: 16.0
+  container price: 1.84
+  nutrition facts:
+    Calories: 190 Cal
+    Total Fat: 15 g
+    Saturated Fat: 3 g
+    Sodium: 120 mg
+    Total Carbs: 8 g
+    Fiber: 2 g
+    Sugar: 3 g
+    Protein: 7 g
+    Vitamins:
+      Calcium: 20 mg
+      Iron: 0.5 mg
+      Potassium: 190 mg
+
+molasses:
+  serving size: 1 T
+  servings per container: 16.0
+  container price: 4.00
+  nutrition facts:
+    Calories: 60 Cal
+    Sodium: 5 mg
+    Total Carbs: 16 g
+    Fiber: 1 g
+    Sugar: 15 g
+    Vitamins:
+      Calcium: 30 mg
+      Iron: 0.7 mg
+      Potassium: 200 mg
+      Magnesium: 10 mg
+
 cocoa powder:
   serving size: 1 T
   servings per container: 45.0

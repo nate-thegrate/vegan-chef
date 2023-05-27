@@ -581,7 +581,7 @@ roasted potatoes:
 
 no-bake cookies:
   meal: dessert
-  calculate nutrition & price: false
+  servings: 12
   ingredients:
     - 1/2 c coconut oil
     - 2/3 c erythritol
@@ -589,10 +589,9 @@ no-bake cookies:
     - 1/4 t salt
     - 1/4 c cocoa powder
     - 1 c peanut butter
-    - 1/4 t molasses
     - 1 T vanilla
     - 1 1/2 c sweetener
-    - 3 c old-fashioned oats
+    - 3 c oats
   directions:
     - Bring butter, erythritol, milk, salt, and cocoa to a boil; boil for 90 seconds.
     - Let it cool for a minute and then stir in the peanut butter, molasses, and vanilla.
