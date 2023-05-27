@@ -1,5 +1,5 @@
 # red velvet cake
-*yield: 12 servings*
+*yield: 24 servings*
 
 ### ingredients
 - 2 c allulose
@@ -36,7 +36,7 @@ Bake at 375°F for 30 minutes.
 
 ### calculated ingredient cost:
 
-$27.74 for the whole recipe, $2.31 per serving
+$27.74 for the whole recipe, $1.16 per serving
 
 <br>
 
