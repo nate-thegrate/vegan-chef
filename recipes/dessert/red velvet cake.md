@@ -40,4 +40,4 @@ $27.74 for the whole recipe, $2.31 per serving
 
 <br>
 
-[click here for Nutrition Facts](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/red velvet cake/nutrition_facts.html)
+[click here for Nutrition Facts](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/red%20velvet%20cake/nutrition_facts.html)

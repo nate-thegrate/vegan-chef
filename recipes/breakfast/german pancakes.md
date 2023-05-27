@@ -28,4 +28,4 @@ $1.95 for the whole recipe, $0.97 per serving
 
 <br>
 
-[click here for Nutrition Facts](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/german pancakes/nutrition_facts.html)
+[click here for Nutrition Facts](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/german%20pancakes/nutrition_facts.html)
