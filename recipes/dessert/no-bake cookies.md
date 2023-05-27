@@ -1,5 +1,5 @@
 # no-bake cookies
-*yield: 12 servings*
+*yield: 24 servings*
 
 ### ingredients
 - 1/2 c coconut oil
@@ -29,7 +29,7 @@ Separate into individual cookie balls and let them cool on a cookie sheet for ab
 
 ### calculated ingredient cost:
 
-$4.50 for the whole recipe, $0.37 per serving
+$4.50 for the whole recipe, $0.19 per serving
 
 <br>
 
