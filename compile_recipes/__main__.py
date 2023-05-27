@@ -43,7 +43,7 @@ class Recipe():
             context, price = generate_nutrition_price_data(self.ingredients, self.servings)
             files.nutrition_facts.export(self.name, context)
             nutrition_label_path = f"compile_recipes/nutrition/nutrition_labels/{self.name}/nutrition_facts"
-            relative_image_path = f"../../{nutrition_label_path}.png"
+            # relative_image_path = f"../../{nutrition_label_path}.png"
             rendered_html_link = ("https://htmlpreview.github.io/?"
                                   f"https://github.com/nate-thegrate/vegan-chef/blob/main/{nutrition_label_path}.html")
             price_nutrition_facts = [
@@ -51,7 +51,8 @@ class Recipe():
                 f"### calculated ingredient cost:\n",
                 f"${price:.2f} for the whole recipe, ${price / self.servings:.2f} per serving",
                 "\n<br>\n",
-                f"[![{self.name} nutrition facts]({relative_image_path})]({rendered_html_link})",
+                # f"[![{self.name} nutrition facts]({relative_image_path})]({rendered_html_link})",
+                f"[click here for Nutrition Facts]({rendered_html_link})",
             ]
         else:
             price_nutrition_facts = []

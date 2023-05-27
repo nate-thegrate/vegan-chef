@@ -164,6 +164,13 @@ erythritol:
     Total Carbs: 8 g
     Sugar Alcohol: 8 g
 
+allulose:
+  serving size: 1 tsp
+  servings per container: 340.25
+  container price: 25.60
+  nutrition facts:
+    Total Carbs: 4 g
+
 soy milk:
   serving size: 1 cup
   servings per container: 8
@@ -195,6 +202,66 @@ canola oil:
     Calories: 120 Cal
     Total Fat: 14 g
     Saturated Fat: 1 g
+
+margarine:
+  serving size: 1 tbsp
+  servings per container: 32.0
+  container price: 1.80
+  nutrition facts:
+    Calories: 60 Cal
+    Total Fat: 7 g
+    Saturated Fat: 3 g
+    Sodium: 105 mg
+    Vitamins:
+      Vitamin A: 105 mg
+
+coconut oil:
+  serving size: 1 tbsp
+  servings per container: 120.0
+  container price: 13.44
+  nutrition facts:
+    Calories: 120 Cal
+    Total Fat: 14 g
+    Saturated Fat: 12 g
+
+plant-based cream cheese:
+  serving size: 2 tbsp
+  servings per container: 7.0
+  container price: 3.79
+  nutrition facts:
+    Calories: 90 Cal
+    Total Fat: 8 g
+    Saturated Fat: 8 g
+    Sodium: 125 mg
+    Total Carbs: 3 g
+
+vanilla:
+  serving size: 1 T
+  servings per container: 16.0
+  container price: 1.46
+  nutrition facts:
+    Calories: 0 Cal
+
+cocoa powder:
+  serving size: 1 T
+  servings per container: 45.0
+  container price: 2.48
+  nutrition facts:
+    Calories: 20 Cal
+    Total Fat: 0.5 g
+    Total Carbs: 3 g
+    Fiber: 2 g
+    Protein: 1 g
+    Vitamins:
+      Iron: 0.8 mg
+      Potassium: 94 mg
+
+white vinegar:
+  serving size: 1 T
+  servings per container: 63.0
+  container price: 1.30
+  nutrition facts:
+    Calories: 0 Cal
 
 baking powder:
   serving size: 1/4 tsp

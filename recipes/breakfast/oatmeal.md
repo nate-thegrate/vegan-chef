@@ -26,4 +26,4 @@ $1.05 for the whole recipe, $0.53 per serving
 
 <br>
 
-[![oatmeal nutrition facts](../../compile_recipes/nutrition/nutrition_labels/oatmeal/nutrition_facts.png)](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/oatmeal/nutrition_facts.html)
+[click here for Nutrition Facts](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/oatmeal/nutrition_facts.html)

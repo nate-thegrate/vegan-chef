@@ -26,4 +26,4 @@ $1.29 for the whole recipe, $0.43 per serving
 
 <br>
 
-[![waffles nutrition facts](../../compile_recipes/nutrition/nutrition_labels/waffles/nutrition_facts.png)](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/waffles/nutrition_facts.html)
+[click here for Nutrition Facts](https://htmlpreview.github.io/?https://github.com/nate-thegrate/vegan-chef/blob/main/compile_recipes/nutrition/nutrition_labels/waffles/nutrition_facts.html)

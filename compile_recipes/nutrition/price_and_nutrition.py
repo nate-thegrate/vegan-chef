@@ -19,6 +19,8 @@ ingredient_data: dict[str, dict[str, dict[str, dict | str]]] = yaml_dicts.ingred
 ingredient_names = {
     "water": None,
     "fresh fruit (optional)": None,
+    "red food coloring": None,
+    "erythritol powder": "erythritol",
     "sweetener": "sucralose",
     "nutritional yeast": "fortified premium yeast flakes",
     "oil": "canola oil",
@@ -76,9 +78,11 @@ def generate_nutrition_price_data(ingredients: list[str | dict], recipe_servings
             case str():
                 parsed_ingreds.append(ingredient)
             case dict():
-                parsed_ingreds.extend(ingredient.values())
+                for ingredient_list in ingredient.values():
+                    parsed_ingreds.extend(ingredient_list)
 
     for ingredient in parsed_ingreds:
+        # print(ingredient)
         name = find_ingredient(ingredient)
         if name is None:
             continue
