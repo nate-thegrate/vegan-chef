@@ -36,7 +36,7 @@ Bake at 375°F for 30 minutes.
 
 ### calculated ingredient cost:
 
-$27.74 for the whole recipe, $1.16 per serving
+$27.76 for the whole recipe, $1.16 per serving
 
 <br>
 

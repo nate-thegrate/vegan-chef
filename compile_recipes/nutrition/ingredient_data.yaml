@@ -184,6 +184,39 @@ soy milk:
     Fiber: 2 g
     Sugar: 1 g
     Protein: 7 g
+    Vitamins:
+      Vitamin D: 3 µg
+      Calcium: 300 mg
+      Potassium: 300 mg
+      Iron: 1 mg
+      Vitamin A: 140 µg
+      Folic Acid: 40 µg
+      Phosphorus: 80 mg
+      Riboflavin: 0.44 mg
+      Vitamin B12: 2.5 µg
+      Magnesium: 35 µg
+
+
+oat milk:
+  serving size: 1 cup
+  servings per container: 6
+  container price: 4.30
+  nutrition facts:
+    Calories: 45 Cal
+    Total Fat: 0.5 g
+    Sodium: 100 mg
+    Total Carbs: 8 g
+    Fiber: 1 g
+    Sugar: 0 g
+    Protein: 1 g
+    Vitamins:
+      Vitamin D: 4 µg
+      Calcium: 350 mg
+      Iron: 0.7 mg
+      Potassium: 340 mg
+      Vitamin A: 180 µg
+      Riboflavin: 0.13 mg
+      Vitamin B12: 0.24 µg
 
 salt:
   serving size: 1/4 tsp
@@ -227,13 +260,33 @@ coconut oil:
 plant-based cream cheese:
   serving size: 2 tbsp
   servings per container: 7.0
-  container price: 3.79
+  container price: 3.80
   nutrition facts:
     Calories: 90 Cal
     Total Fat: 8 g
     Saturated Fat: 8 g
     Sodium: 125 mg
     Total Carbs: 3 g
+
+plant-based sour cream:
+  serving size: 2 tbsp
+  servings per container: 14.0
+  container price: 4.00
+  nutrition facts:
+    Calories: 40 Cal
+    Total Fat: 3.5 g
+    Saturated Fat: 3 g
+    Sodium: 65 mg
+    Total Carbs: 2 g
+    Fiber: 1 g
+
+glycerin:
+  serving size: 1 tsp
+  servings per container: 192.0
+  container price: 21.57
+  nutrition facts:
+    Calories: 22 Cal
+    Total Carbs: 5 g
 
 vanilla:
   serving size: 1 T
@@ -317,6 +370,34 @@ sucralose:
   container price: 28.96
   nutrition facts:
     Calories: 0 Cal
+
+soy protein:
+  serving size: 5 tbsp
+  servings per container: 57
+  container price: 30.00
+  nutrition facts:
+    Calories: 110 Cal
+    Total Fat: 0.5 g
+    Protein: 25 g
+    Vitamins:
+      Calcium: 20 mg
+      Iron: 3 mg
+      Vitamin D: 3 µg
+      Potassium: 172 mg
+
+sunflower lecithin:
+  serving size: 4 tsp
+  servings per container: 45.0
+  container price: 21.00
+  nutrition facts:
+    Calories: 50 Cal
+    Total Fat: 5 g
+    Saturated Fat: 1 g
+    Vitamins:
+      Calcium: 25 mg
+      Iron: 0.3 mg
+      Potassium: 80 mg
+      Phosphorus: 270 mg
 
 guar gum:
   serving size: 1 tsp

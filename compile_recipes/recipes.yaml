@@ -271,32 +271,28 @@ red velvet cake:
   directions:
     - Bake at 375°F for 30 minutes.
 
-red velvet cake (halved):
+ice cream:
   meal: dessert
-  calculate nutrition & price: false
+  servings: 8
   ingredients:
-    - 1 c allulose
-    - 1/2 c margarine
-    - 1 T red food coloring
-    - 1/2 T vanilla
-    - 1 c water
+    - 2 c soy milk
+    - 2 c oat milk
+    - 2/3 c allulose
+    - 1/2 c erythritol
+    - 1/2 c sweetener
     - 1/4 t salt
-    - 1/4 c sourdough starter
-    - 1/4 c oil
-    - 1 T cocoa powder
-    - 1 c whole wheat flour
-    - 3/4 t white vinegar
-    - 1/2 t baking soda
-    - 1/4 t guar gum
-    - icing:
-      - 1 c plant-based cream cheese
-      - 3/4 t vanilla
-      - 1/8 t salt
-      - 1/16 t guar gum
-      - 3/8 c coconut oil
-      - 2 1/2 c erythritol powder
+    - 14 oz plant-based sour cream
+    - 1/4 c coconut oil
+    - 1/4 c canola oil
+    - 1/8 c glycerin
+    - 4 t vanilla
+    - 1/8 c soy protein
+    - 1/2 t guar gum
+    - 1/2 t sunflower lecithin
   directions:
-    - Bake at 375°F for 30 minutes.
+    - Warm the milk in the microwave for 1 minute, or until it's warm enough to melt the coconut oil.
+    - Combine all ingredients and mix (preferably in a blender).
+
 
 chili skillet:
   meal: main dish
