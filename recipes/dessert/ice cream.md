@@ -1,5 +1,5 @@
 # ice cream
-*yield: 8 servings*
+*yield: 12 servings*
 
 ### ingredients
 - 2 c soy milk
@@ -30,7 +30,7 @@ Combine all ingredients and mix (preferably in a blender).
 
 ### calculated ingredient cost:
 
-$11.39 for the whole recipe, $1.42 per serving
+$11.39 for the whole recipe, $0.95 per serving
 
 <br>
 
