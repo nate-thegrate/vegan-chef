@@ -23,7 +23,7 @@
 
 Warm the milk in the microwave for 1 minute, or until it's warm enough to melt the coconut oil.
 
-Combine all ingredients and mix (preferably in a blender).
+Combine all ingredients, mix (preferably in a blender), and freeze (preferably in an ice cream maker).
 
 
 <br>
