@@ -25,6 +25,7 @@
 - 1/2 c Fibersol (optional)
 - 2 c allulose
 - 1/2 c erythritol
+- 1/8 t salt
 
 
 <br>
@@ -43,7 +44,7 @@ Put the rolls in a pan and set the pan in the oven. Set the oven to 350°F for 3
 
 Let the cinnamon rolls rise for 30-45 min. Then set oven to 350°F and bake for 20 min.
 
-<br>For the icing, if the allulose/erythritol aren't in powdered form, stick them in the blender until they are.
+<br>For the icing, if the allulose/erythritol/salt aren't in powder form, stick them in the blender until they are.
 
 Then combine the icing ingredients using an electric mixer and spread it on the cinnamon rolls (once they've had a few minutes to cool).
 
