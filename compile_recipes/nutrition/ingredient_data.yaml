@@ -142,6 +142,30 @@ chia seeds:
       Iron: 2 mg
       Potassium: 120 mg
 
+rye flour:
+  serving size: 1/4 cup
+  servings per container: 71.0
+  container price: 15.00
+  nutrition facts:
+    Total Fat: 0.5 g
+    Total Carbs: 22 g
+    Fiber: 8 g
+    Protein: 5 g
+    Vitamins:
+      Potassium: 230 mg
+      Iron: 0.7 mg
+
+potato flakes:
+  serving size: 1/3 cup
+  servings per container: 25.0
+  container price: 9.26
+  nutrition facts:
+    Total Carbs: 15 g
+    Fiber: 1 g
+    Protein: 1 g
+    Vitamins:
+      Potassium: 209 mg
+
 wheat gluten:
   serving size: 1/4 cup
   servings per container: 60.0
@@ -256,6 +280,20 @@ coconut oil:
     Calories: 120 Cal
     Total Fat: 14 g
     Saturated Fat: 12 g
+
+plant-based butter:
+  serving size: 1 tbsp
+  servings per container: 16.0
+  container price: 6.00
+  nutrition facts:
+    Calories: 90 Cal
+    Total Fat: 10 g
+    Saturated Fat: 8 g
+    Sodium: 65 mg
+    Total Carbs: 3 g
+    Vitamins:
+      Calcium: 1 mg
+      Potassium: 4 mg
 
 plant-based cream cheese:
   serving size: 2 tbsp

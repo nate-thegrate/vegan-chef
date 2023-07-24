@@ -20,6 +20,8 @@ ingredient_names = {
     "water": None,
     "fresh fruit (optional)": None,
     "red food coloring": None,
+    "Fibersol (optional)": None,
+    "cinnamon": None,
     "erythritol powder": "erythritol",
     "sweetener": "sucralose",
     "nutritional yeast": "fortified premium yeast flakes",

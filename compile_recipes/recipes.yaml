@@ -410,25 +410,24 @@ strawberry lime jam:
   ingredients:
     - strawberries
     - lime juice
-    - lots of sweetener
+    - sweetener
     - chia seeds
-    - guar gum (optional)
   directions:
     - Heat the strawberries & lime juice in a pot, using a potato masher to smash the strawberries into jam.
-    - Either add some thickener or wait for some of the excess water to boil off (chia seeds make a pretty good thickener anyway).
-    - Once the strawberries seem cooked to your satisfaction, add the sweetener & chia seeds, and then let it cool.
-    - Alternatively, you can use sugar-free lemonade mix in place of lime juice, which will also reduce the amount of sweetener needed.
+    - Stir it as it simmers for a few minutes, then mix in the sweetener and chia seeds and let it cool.
+    - (Amounts aren't listed since it depends on personal preference, and there's usually no consistency in the amount of strawberries I'm working with.)
 
 raspberry jam:
   meal: bread
   calculate nutrition & price: false
   ingredients:
-    - Strawberries
-    - lots of sweetener
+    - raspberries
+    - sweetener
     - guar gum
   directions:
     - Heat the raspberries in a pot, using a potato masher to smash them into jam.
-    - Add some thickener, then add the sweetener and let it cool.
+    - Stir it as it simmers for a few minutes, then mix in the sweetener & guar gum and let it cool.
+    - (Amounts aren't listed since it depends on personal preference, and there's usually no consistency in the amount of strawberries I'm working with.)
 
 sweet potato:
   meal: main dish
@@ -548,7 +547,7 @@ spaghetti:
     - Hopefully you know how to cook spaghetti.
 
 pizza:
-  meal: main dish
+  meal: main dish, bread
   servings: 3
   ingredients:
     - 1 c water
@@ -568,16 +567,15 @@ pizza:
 
 dinner rolls:
   meal: side dish, bread
-  calculate nutrition & price: false
+  servings: 10
   ingredients:
     - 2 c water
-    - 1/4 c potato pearls
-    - 1 t lemon juice
+    - 1/4 c potato flakes
     - 1/4 c oil
     - 1/2 c sourdough starter
-    - 1 T sugar 😫 (it's just to activate the yeast)
     - 2 t salt
-    - 4 c flour
+    - 4 c whole wheat flour
+    - 1/4 c rye flour
     - 1 T yeast
     - 1/8 c wheat gluten
   directions:
@@ -621,28 +619,35 @@ no-bake cookies:
     - Separate into individual cookie balls and let them cool on a cookie sheet for about 30 minutes.
 
 cinnamon rolls:
-  meal: breakfast, dessert
-  calculate nutrition & price: false
+  meal: breakfast, dessert, bread
+  servings: 24
   ingredients:
     - 2 c water
-    - 1/4 c potato pearls
-    - 1 t lemon juice
+    - 1/4 c potato flakes
     - 1/4 c oil
     - 1/2 c sourdough starter
-    - 1 T sugar 😫 (it's just to activate the yeast)
     - 2 t salt
-    - 4 c flour
+    - 4 c whole wheat flour
     - 1 T yeast
     - 1/8 c wheat gluten
     - cinnamon spread:
-        - 1/2 c plant-based butter (room-temperature)
-        - 12 Splenda packets
+        - 1/2 c plant-based butter
+        - 1/2 c sweetener
         - 1/4 c cinnamon
+    - icing:
+        - 8 oz plant-based cream cheese
+        - 2 T plant-based butter
+        - 1 t vanilla
+        - 1/2 c sweetener
+        - 1/2 c Fibersol (optional)
+        - 2 c allulose
+        - 1/2 c erythritol
   directions:
-    - Mix the cinnamon spread ingredients; set aside.
-    - Combine all other ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
-    - Using a rolling pin, spread the dough out into a large rectangle. Spread the butter/sugar/cinnamon mixture on top.
+    - Set out the butter and cream cheese so they have time to reach room temperature.
+    - Combine all ingredients (except for the cinnamon spread) and mix, either in a bread machine or by hand, and let rise for about an hour.
+    - Using a rolling pin, spread the dough out into a large rectangle. Mix the cinnamon spread ingredients and spread on top.
     - Roll the dough up and use dental floss to cut it into individual rolls (about 1 in thick).
     - Put the rolls in a pan and set the pan in the oven. Set the oven to 350°F for 3 min to warm it up a bit, and then turn the oven off.
     - Let the cinnamon rolls rise for 30-45 min. Then set oven to 350°F and bake for 20 min.
-    - Once the rolls are done, transfer them to a serving plate and ice them.
+    - <br>For the icing, if the allulose/erythritol aren't in powdered form, stick them in the blender until they are.
+    - Then combine the icing ingredients using an electric mixer and spread it on the cinnamon rolls (once they've had a few minutes to cool).

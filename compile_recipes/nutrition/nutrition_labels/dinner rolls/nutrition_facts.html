@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        body {
+            font-family: Helvetica, sans-serif;
+            background-color: white;
+            font-size: 24px;
+        }
+
+        #outer-box {
+            width: max-content;
+            border: 4px solid black;
+            /* margin: auto; */
+            padding: 2px;
+        }
+
+        #pre-table {
+            padding: 0 8px;
+        }
+
+        h1 {
+            font-size: 64px;
+            margin: -8px 0;
+            text-align: center;
+            font-weight: 800;
+        }
+
+        hr {
+            margin: 0;
+            border: 1px solid black;
+        }
+
+        td hr {
+            margin-top: 8px;
+        }
+
+
+        td:first-child hr {
+            margin-right: -20px;
+        }
+
+        hr.thicc {
+            border: 8px solid black;
+            margin-bottom: 16px;
+        }
+
+        hr.thiccc {
+            border: 16px solid black;
+            margin-bottom: 4px;
+        }
+
+        #servings {
+            margin: 8px 0;
+            text-align: center;
+            font-stretch: condensed;
+        }
+
+
+        table {
+            border-collapse: collapse;
+            background-color: white;
+            /* maybe delete this */
+        }
+
+        th {
+            padding-top: 8px;
+            font-size: 20px;
+            font-weight: initial;
+            font-stretch: condensed;
+            text-align: center;
+        }
+
+        td {
+            padding: 4px 6px;
+            width: 150px;
+        }
+
+        td:first-child {
+            width: 280px;
+            font-weight: bold;
+        }
+
+        td:last-child {
+            border-left: 3px solid black;
+        }
+
+        #calories {
+            font-size: 36px;
+            font-weight: bold;
+            text-align: center;
+        }
+
+        #calories td:first-child {
+            text-align: left;
+        }
+
+        .subset {
+            font-weight: normal;
+            padding-left: 24px;
+        }
+
+        .grams {
+            text-indent: 4px;
+        }
+
+        .dv {
+            float: right;
+            font-weight: bold;
+        }
+
+
+        #vitamins tr td {
+            text-align: right;
+            font-weight: bold;
+            margin-right: 20px;
+        }
+
+        #vitamins tr td:first-child {
+            text-align: left;
+            font-weight: initial;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="outer-box">
+        <div id="pre-table">
+            <h1>Nutrition Facts</h1>
+            <hr>
+            <p id="servings">recipe yields 10 servings</p>
+            <hr class="thiccc">
+        </div>
+
+        <table>
+            <tr>
+                <th>&nbsp;</th>
+                <th>one serving</th>
+                <th>whole recipe</th>
+            </tr>
+            <tr id="calories">
+                <td>Calories
+                    <hr class="thicc">
+                    <hr>
+                </td>
+                <td>241
+                    <hr class="thicc">
+                    <hr>
+                </td>
+                <td>2407
+                    <hr class="thicc">
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Total Fat
+                    <hr>
+                </td>
+                <td class="grams">7.1g<span class="dv">9%</span>
+                    <hr>
+                </td>
+                <td class="grams">71g<span class="dv">91%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Saturated Fat</span>
+                    <hr>
+                </td>
+                <td class="grams">0.6g<span class="dv">3%</span>
+                    <hr>
+                </td>
+                <td class="grams">6.2g<span class="dv">31%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Cholesterol
+                    <hr>
+                </td>
+                <td class="grams">0mg<span class="dv">0%</span>
+                    <hr>
+                </td>
+                <td class="grams">0mg<span class="dv">0%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Sodium
+                    <hr>
+                </td>
+                <td class="grams">462mg<span class="dv">20%</span>
+                    <hr>
+                </td>
+                <td class="grams">4624mg<span class="dv">201%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Total Carbohydrate
+                    <hr>
+                </td>
+                <td class="grams">43g<span class="dv">15%</span>
+                    <hr>
+                </td>
+                <td class="grams">426g<span class="dv">155%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Dietary Fiber</span>
+                    <hr>
+                </td>
+                <td class="grams">6.7g<span class="dv">24%</span>
+                    <hr>
+                </td>
+                <td class="grams">67g<span class="dv">240%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Sugars</span>
+                    <hr>
+                </td>
+                <td class="grams">0.2g<span class="dv">0%</span>
+                    <hr>
+                </td>
+                <td class="grams">2.2g<span class="dv">4%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td><span class="subset">Sugar Alcohol</span>
+                    <hr>
+                </td>
+                <td class="grams">0g<span class="dv">0%</span>
+                    <hr>
+                </td>
+                <td class="grams">0g<span class="dv">0%</span>
+                    <hr>
+                </td>
+            </tr>
+            <tr>
+                <td>Protein
+                    <hr class="thiccc">
+                </td>
+                <td class="grams">9.3g<span class="dv">19%</span>
+                    <hr class="thiccc">
+                </td>
+                <td class="grams">93g<span class="dv">186%</span>
+                    <hr class="thiccc">
+                </td>
+            </tr>
+        </table>
+        <table id="vitamins"><tr><td>Potassium<hr></td><td>6%<hr></td><td>56%<hr></td></tr>
+<tr><td>Calcium<hr></td><td>2%<hr></td><td>17%<hr></td></tr>
+<tr><td>Iron<hr></td><td>13%<hr></td><td>132%<hr></td></tr>
+<tr><td>Magnesium<hr></td><td>18%<hr></td><td>182%<hr></td></tr>
+<tr><td>Phosphorus<hr></td><td>17%<hr></td><td>165%<hr></td></tr>
+<tr><td>Copper<hr></td><td>28%<hr></td><td>282%<hr></td></tr>
+<tr><td>Manganese<hr></td><td>87%<hr></td><td>871%<hr></td></tr>
+<tr><td>Selenium<hr></td><td>25%<hr></td><td>245%<hr></td></tr>
+<tr><td>Molybdenum<hr></td><td>73%<hr></td><td>729%<hr></td></tr>
+<tr><td>Thiamin<hr></td><td>24%<hr></td><td>236%<hr></td></tr>
+<tr><td>Riboflavin<hr></td><td>6%<hr></td><td>55%<hr></td></tr>
+<tr><td>Niacin<hr></td><td>21%<hr></td><td>211%<hr></td></tr>
+<tr><td>Vitamin B6<hr></td><td>9%<hr></td><td>89%<hr></td></tr>
+<tr><td>Folic Acid<hr></td><td>6%<hr></td><td>54%<hr></td></tr>
+<tr><td>Zinc<hr></td><td>16%<hr></td><td>164%<hr></td></tr>
+<tr><td>Iodine<hr></td><td>36%<hr></td><td>357%<hr></td></tr></table>
+    </div>
+</body>
+
+</html>
