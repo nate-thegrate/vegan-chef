@@ -16,6 +16,18 @@ cornbread:
     - Bake at 400°F for 20-25 min.
     - Serve hot, with honey or butter or whatever substitutes for those you wanna use.
 
+popcorn:
+  meal: side dish
+  servings: 3
+  ingredients:
+    - 1/2 c popcorn
+    - 1/4 c oil
+    - 1/2 t salt
+    - 1/2 t nutritional yeast
+  directions:
+    - Put the salt and yeast in a food processor to create a powder (it's easiest to make a lot at once and store it in a salt shaker).
+    - Add the popcorn and oil to your popcorn maker. Pop it, then pour into a bowl and season it with that powder.
+
 guacamole:
   meal: side dish
   calculate nutrition & price: false
@@ -262,12 +274,12 @@ red velvet cake:
     - 1 t baking soda
     - 1/2 t guar gum
     - icing:
-      - 2 c plant-based cream cheese
-      - 1/2 T vanilla
-      - 1/4 t salt
-      - 1/8 t guar gum
-      - 3/4 c coconut oil
-      - 5 c erythritol powder
+        - 2 c plant-based cream cheese
+        - 1/2 T vanilla
+        - 1/4 t salt
+        - 1/8 t guar gum
+        - 3/4 c coconut oil
+        - 5 c erythritol powder
   directions:
     - Bake at 375°F for 30 minutes.
 
@@ -292,7 +304,6 @@ ice cream:
   directions:
     - Warm the milk in the microwave for 1 minute, or until it's warm enough to melt the coconut oil.
     - Combine all ingredients, mix (preferably in a blender), and freeze (preferably in an ice cream maker).
-
 
 chili skillet:
   meal: main dish

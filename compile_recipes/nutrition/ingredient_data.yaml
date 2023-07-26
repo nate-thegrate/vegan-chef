@@ -87,6 +87,21 @@ oats:
       Iron: 1 mg
       Potassium: 145 mg
 
+popcorn:
+  serving size: 2 tbsp
+  servings per container: 28.33
+  container price: 3.00
+  nutrition facts:
+    Calories: 110 Cal
+    Total Fat: 1.5 g
+    Total Carbs: 22 g
+    Fiber: 4 g
+    Protein: 3 g
+    Vitamins:
+      Calcium: 2 mg
+      Iron: 1 mg
+      Potassium: 82 mg
+
 yellow cornmeal:
   serving size: 3 T
   servings per container: 25.0
@@ -219,7 +234,6 @@ soy milk:
       Riboflavin: 0.44 mg
       Vitamin B12: 2.5 µg
       Magnesium: 35 µg
-
 
 oat milk:
   serving size: 1 cup
