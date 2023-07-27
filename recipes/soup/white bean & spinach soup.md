@@ -6,13 +6,13 @@
 - 1 stalk celery, chopped
 - 2 carrots, cut into matchsticks
 - 1/4 teaspoon garlic powder
-- 15 oz white beans
+- 15 oz white beans, undrained
 - 4 cups chicken broth
 - 1/2 teaspoon black pepper
 - 3 tablespoons parsley
 - 1 teaspoon thyme
 - 1 bay leaf
-- 8 oz spinach, tough stems trimmed
+- 8 oz spinach (trim off tough stems)
 - 1 tablespoon lemon juice
 
 <br>

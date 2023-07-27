@@ -8,7 +8,7 @@
 - 1 teaspoon salt
 - 1 cup whole wheat flour
 - 1 cup yellow cornmeal
-- 1/2 cup nutritional yeast
+- 1/4 cup nutritional yeast
 - 1/2 teaspoon guar gum
 - 1 1/2 tablespoon baking powder
 
@@ -27,7 +27,7 @@ Serve hot, with honey or butter or whatever substitutes for those you wanna use.
 
 ### calculated ingredient cost:
 
-$3.15 for the whole recipe, $0.52 per serving
+$2.23 for the whole recipe, $0.37 per serving
 
 <br>
 

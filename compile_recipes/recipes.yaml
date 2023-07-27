@@ -8,7 +8,7 @@ cornbread:
     - 1 teaspoon salt
     - 1 cup whole wheat flour
     - 1 cup yellow cornmeal
-    - 1/2 cup nutritional yeast
+    - 1/4 cup nutritional yeast
     - 1/2 teaspoon guar gum
     - 1 1/2 tablespoon baking powder
   directions:
@@ -516,13 +516,13 @@ white bean & spinach soup:
     - 1 stalk celery, chopped
     - 2 carrots, cut into matchsticks
     - 1/4 teaspoon garlic powder
-    - 15 oz white beans
+    - 15 oz white beans, undrained
     - 4 cups chicken broth
     - 1/2 teaspoon black pepper
     - 3 tablespoons parsley
     - 1 teaspoon thyme
     - 1 bay leaf
-    - 8 oz spinach, tough stems trimmed
+    - 8 oz spinach (trim off tough stems)
     - 1 tablespoon lemon juice
   directions:
     - Heat oil in a saucepan over medium heat. Add celery & onion and cook for about 5 minutes.
@@ -535,7 +535,7 @@ italian sausage soup:
   calculate nutrition & price: false
   ingredients:
     - 14 oz plant-based sausage
-    - 1 teaspoon Italian seasoning (or ½ teaspoon basil, ¼ teaspoon oregano, and ¼ teaspoon garlic)
+    - 1 teaspoon Italian seasoning
     - 15 oz white beans, undrained
     - 15 oz black beans, undrained
     - 15 oz diced tomatoes
@@ -556,6 +556,28 @@ spaghetti:
   directions:
     - Hopefully you know how to cook spaghetti.
 
+bagels:
+  meal: breakfast, bread
+  servings: 8
+  ingredients:
+    - 1 cup water
+    - 1/8 cup oil
+    - 1/2 cup sourdough starter
+    - 1 teaspoon salt
+    - 2 cups whole wheat flour
+    - 1/2 tablespoon yeast
+    - 1/8 cup wheat gluten
+    - 7 oz plant-based sour cream
+  directions:
+    - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about 90 minutes.
+    - Cut dough into 8 pieces and roll into balls, making a hole in each ball. (Feel free to look up a video before you do it the first time.)
+    - Set the oven to 350°F for 3 min to warm it up a bit, and then turn the oven off. Let the bagels rise in the oven for about 10 minutes.
+    - Fill a large pot with water and bring to a boil.
+    - Remove bagels from oven, and preheat oven to 425°F.
+    - Boil each bagel for 3 minutes, flipping halfway through (so 90 seconds for each side).
+    - Once all bagels are boiled, return them to the baking sheet, and bake at 425°F for 20 minutes.
+    - Let the bagels cool and serve however you like (e.g. by spreading plant-based sour cream or cream cheese on top).
+
 pizza:
   meal: main dish, bread
   servings: 3
@@ -572,10 +594,10 @@ pizza:
         - 7 oz plant-based mozzarella
         - plant-based sausage, bell peppers, jalapeños, diced red onion, etc.
   directions:
-    - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
+    - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about 90 minutes.
     - Roll out dough into 2 pizzas (or use half of it for breadsticks).
     - For breadsticks, roll dough into breadstick shapes, then dip in olive oil and sprinkle garlic, nutritional yeast, and salt on top.
-    - Top with marinara sauce, plant-based cheese & sausage, peppers, onions, jalapeños, and/or olives.
+    - Top with sauce, cheese, and whatever else you want.
     - Bake at 425°F for 12-15 minutes.
 
 dinner rolls:
@@ -592,7 +614,7 @@ dinner rolls:
     - 1 tablespoon yeast
     - 1/8 cup wheat gluten
   directions:
-    - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
+    - Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about 90 minutes.
     - Cut dough into 24 rolls. Roll them up and stick them on a pan in the oven.
     - Set the oven to 350°F for 3 min to warm it up a bit, and then turn the oven off.
     - Let the rolls rise for 30-45 min. Then set oven to 350°F and bake for 20 min.

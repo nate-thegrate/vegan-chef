@@ -16,7 +16,7 @@
 
 ### directions:
 
-Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
+Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about 90 minutes.
 
 Cut dough into 24 rolls. Roll them up and stick them on a pan in the oven.
 

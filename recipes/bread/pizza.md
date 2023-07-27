@@ -20,13 +20,13 @@
 
 ### directions:
 
-Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
+Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about 90 minutes.
 
 Roll out dough into 2 pizzas (or use half of it for breadsticks).
 
 For breadsticks, roll dough into breadstick shapes, then dip in olive oil and sprinkle garlic, nutritional yeast, and salt on top.
 
-Top with marinara sauce, plant-based cheese & sausage, peppers, onions, jalapeños, and/or olives.
+Top with sauce, cheese, and whatever else you want.
 
 Bake at 425°F for 12-15 minutes.
 

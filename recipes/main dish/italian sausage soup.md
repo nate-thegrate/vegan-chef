@@ -2,7 +2,7 @@
 
 ### ingredients
 - 14 oz plant-based sausage
-- 1 teaspoon Italian seasoning (or ½ teaspoon basil, ¼ teaspoon oregano, and ¼ teaspoon garlic)
+- 1 teaspoon Italian seasoning
 - 15 oz white beans, undrained
 - 15 oz black beans, undrained
 - 15 oz diced tomatoes
