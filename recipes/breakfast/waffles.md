@@ -2,14 +2,14 @@
 *yield: 3 servings*
 
 ### ingredients
-- 1 c water
-- 1/2 t salt
-- 1/4 c oil
-- 2/3 c sourdough starter
-- 1/2 c whole wheat flour
-- 1/4 c lupin flour
-- 1/2 T baking powder
-- 1/8 t guar gum
+- 1 cup water
+- 1/2 teaspoon salt
+- 1/4 cup oil
+- 2/3 cup sourdough starter
+- 1/2 cup whole wheat flour
+- 1/4 cup lupin flour
+- 1/2 tablespoon baking powder
+- 1/8 teaspoon guar gum
 
 <br>
 

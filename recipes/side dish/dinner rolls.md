@@ -2,15 +2,15 @@
 *yield: 10 servings*
 
 ### ingredients
-- 2 c water
-- 1/4 c potato flakes
-- 1/4 c oil
-- 1/2 c sourdough starter
-- 2 t salt
-- 4 c whole wheat flour
-- 1/4 c rye flour
-- 1 T yeast
-- 1/8 c wheat gluten
+- 2 cups water
+- 1/4 cup potato flakes
+- 1/4 cup oil
+- 1/2 cup sourdough starter
+- 2 teaspoons salt
+- 4 cups whole wheat flour
+- 1/4 cup rye flour
+- 1 tablespoon yeast
+- 1/8 cup wheat gluten
 
 <br>
 

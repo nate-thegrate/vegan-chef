@@ -2,14 +2,14 @@
 *yield: 2 servings*
 
 ### ingredients
-- 1 c soy milk
-- 1/2 t salt
-- 1 T oil
-- 1/3 c sourdough starter
-- 3/4 c white flour
-- 1/3 c lupin flour
-- 2 T wheat gluten
-- 1/4 t guar gum
+- 1 cup soy milk
+- 1/2 teaspoon salt
+- 1 tablespoon oil
+- 1/3 cup sourdough starter
+- 3/4 cup white flour
+- 1/3 cup lupin flour
+- 2 tablespoons wheat gluten
+- 1/4 teaspoon guar gum
 
 <br>
 

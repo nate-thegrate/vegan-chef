@@ -2,11 +2,11 @@
 
 ### ingredients
 - 8 potatoes
-- 1/4 c oil
-- 1 t salt
-- 1 t garlic
-- 1/2 t onion powder
-- 1 t rosemary
+- 1/4 cup oil
+- 1 teaspoon salt
+- 1 teaspoon garlic
+- 1/2 teaspoon onion powder
+- 1 teaspoon rosemary
 
 <br>
 

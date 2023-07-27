@@ -1,14 +1,14 @@
 # beans & rice
 
 ### ingredients
-- 1 c rice
-- 1/2 t garlic
-- 1 T onion powder
-- 1/2 t cumin
-- 1/2 t italian seasoning
-- 1/4 t cayenne pepper
-- 1 T oil
-- 2 c vegetable broth (or water + bullion or something)
+- 1 cup rice
+- 1/2 teaspoon garlic
+- 1 tablespoon onion powder
+- 1/2 teaspoon cumin
+- 1/2 teaspoon italian seasoning
+- 1/4 teaspoon cayenne pepper
+- 1 tablespoon oil
+- 2 cups vegetable broth (or water + bullion or something)
 - 8 oz beans (most cans are about 16 oz)
 
 <br>

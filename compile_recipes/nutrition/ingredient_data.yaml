@@ -256,6 +256,58 @@ oat milk:
       Riboflavin: 0.13 mg
       Vitamin B12: 0.24 µg
 
+pizza sauce: # Great Value
+  serving size: 1/4 cup
+  servings per container: 6
+  container price: 4.30
+  nutrition facts:
+    Calories: 25 Cal
+    Total Fat: 1 g
+    Sodium: 250 mg
+    Total Carbs: 4 g
+    Fiber: 1 g
+    Sugar: 2 g
+    Protein: 1 g
+    Vitamins:
+      Potassium: 175 mg
+
+plant-based mozzarella: # Daiya
+  serving size: 1 oz
+  servings per container: 7
+  container price: 6.00
+  nutrition facts:
+    Calories: 25 Cal
+    Total Fat: 5 g
+    Saturated Fat: 3 g
+    Sodium: 230 mg
+    Total Carbs: 8 g
+    Vitamins:
+      Calcium: 165 mg
+      Potassium: 20 mg
+
+plant-based sausage:
+  serving size: 2 oz
+  servings per container: 7
+  container price: 4.00
+  nutrition facts:
+    Calories: 130 Cal
+    Total Fat: 9 g
+    Saturated Fat: 4 g
+    Sodium: 380 mg
+    Total Carbs: 5 g
+    Fiber: 1 g
+    Protein: 7 g
+    Vitamins:
+      Calcium: 90 mg
+      Iron: 1.4 mg
+      Potassium: 210 mg
+      Riboflavin: 195 µg
+      Niacin: 4 mg
+      Vitamin B6: 0.17 mg
+      Folic Acid: 40 µg
+      Vitamin B12: 1 µg
+      Zinc: 3 mg
+
 salt:
   serving size: 1/4 tsp
   servings per container: 491.0
@@ -321,7 +373,7 @@ plant-based cream cheese:
     Total Carbs: 3 g
 
 plant-based sour cream:
-  serving size: 2 tbsp
+  serving size: 1 oz
   servings per container: 14.0
   container price: 4.00
   nutrition facts:
@@ -417,11 +469,19 @@ baking soda:
     Sodium: 160 mg
 
 sucralose:
-  serving size: 1 cup
-  servings per container: 1000.0
+  serving size: 1 tsp
+  servings per container: 15625.0
   container price: 28.96
   nutrition facts:
     Calories: 0 Cal
+
+Splenda:
+  serving size: 2 tsp
+  servings per container: 2000.0
+  container price: 38.00
+  nutrition facts:
+    Calories: 3 Cal
+    Total Carbs: 0.9 g
 
 soy protein:
   serving size: 5 tbsp

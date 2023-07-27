@@ -2,14 +2,14 @@
 *yield: 3 servings*
 
 ### ingredients
-- 1 1/2 c water
-- 1/2 t salt
-- 1 t erythritol
-- 1/3 c sourdough starter
-- 1 c whole wheat flour
-- 1 t baking powder
-- 1/8 t guar gum
-- 1/3 c oil
+- 1 1/2 cup water
+- 1/2 teaspoon salt
+- 1 teaspoon erythritol
+- 1/3 cup sourdough starter
+- 1 cup whole wheat flour
+- 1 teaspoon baking powder
+- 1/8 teaspoon guar gum
+- 1/3 cup oil
 
 <br>
 

@@ -1,14 +1,13 @@
 # rice pudding
 
 ### ingredients
-- 1 c soy milk
-- 1/4 t guar gum
-- 2 c cooked rice
-- 1/4 t salt
-- 2/3 c sweetener
-- 1/4 t molasses
-- 1/2 T vanilla
-- 1/8 t cinnamon
+- 1 cup soy milk
+- 1/4 teaspoon guar gum
+- 2 cups cooked rice
+- 1/4 teaspoon salt
+- 2/3 teaspoon sucralose
+- 1/2 tablespoon vanilla
+- 1/8 teaspoon cinnamon
 
 <br>
 

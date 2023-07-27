@@ -2,30 +2,30 @@
 *yield: 24 servings*
 
 ### ingredients
-- 2 c water
-- 1/4 c potato flakes
-- 1/4 c oil
-- 1/2 c sourdough starter
-- 2 t salt
-- 4 c whole wheat flour
-- 1 T yeast
-- 1/8 c wheat gluten
+- 2 cups water
+- 1/4 cup potato flakes
+- 1/4 cup oil
+- 1/2 cup sourdough starter
+- 2 teaspoons salt
+- 4 cups whole wheat flour
+- 1 tablespoon yeast
+- 1/8 cup wheat gluten
 
 #### cinnamon spread
-- 1/2 c plant-based butter
-- 1/2 c sweetener
-- 1/4 c cinnamon
+- 1/2 cup plant-based butter
+- 1/2 teaspoon sucralose
+- 1/4 cup cinnamon
 
 
 #### icing
 - 8 oz plant-based cream cheese
-- 2 T plant-based butter
-- 1 t vanilla
-- 1/2 c sweetener
-- 1/2 c Fibersol (optional)
-- 2 c allulose
-- 1/2 c erythritol
-- 1/8 t salt
+- 2 tablespoons plant-based butter
+- 1 teaspoon vanilla
+- 1/2 teaspoon sucralose
+- 1/2 cup Fibersol (optional)
+- 2 cups allulose
+- 1/2 cup erythritol
+- 1/8 teaspoon salt
 
 
 <br>
@@ -53,7 +53,7 @@ Then combine the icing ingredients using an electric mixer and spread it on the 
 
 ### calculated ingredient cost:
 
-$18.38 for the whole recipe, $0.77 per serving
+$18.35 for the whole recipe, $0.76 per serving
 
 <br>
 

@@ -1,14 +1,14 @@
 # italian sausage soup
 
 ### ingredients
-- 1 lb plant-based sausage
-- 1 t Italian seasoning (or ½ t basil, ¼ t oregano, and ¼ t garlic)
+- 14 oz plant-based sausage
+- 1 teaspoon Italian seasoning (or ½ teaspoon basil, ¼ teaspoon oregano, and ¼ teaspoon garlic)
 - 15 oz white beans, undrained
 - 15 oz black beans, undrained
 - 15 oz diced tomatoes
-- 2 c water
-- 4 t beef base
-- ½ lb pasta
+- 2 cups water
+- 1 tablespoon beef base
+- 8 oz pasta
 
 <br>
 

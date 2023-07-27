@@ -2,15 +2,15 @@
 *yield: 6 servings*
 
 ### ingredients
-- 1/2 c oil
-- 1/2 c sweetener
-- 1 1/2 c water
-- 1 t salt
-- 1 c whole wheat flour
-- 1 c yellow cornmeal
-- 1/2 c nutritional yeast
-- 1/2 t guar gum
-- 1 1/2 T baking powder
+- 1/2 cup oil
+- 1/2 teaspoon sucralose
+- 1 1/2 cup water
+- 1 teaspoon salt
+- 1 cup whole wheat flour
+- 1 cup yellow cornmeal
+- 1/2 cup nutritional yeast
+- 1/2 teaspoon guar gum
+- 1 1/2 tablespoon baking powder
 
 <br>
 
@@ -27,7 +27,7 @@ Serve hot, with honey or butter or whatever substitutes for those you wanna use.
 
 ### calculated ingredient cost:
 
-$3.16 for the whole recipe, $0.53 per serving
+$3.15 for the whole recipe, $0.52 per serving
 
 <br>
 

@@ -2,27 +2,27 @@
 *yield: 24 servings*
 
 ### ingredients
-- 2 c allulose
-- 1 c margarine
-- 1/8 c red food coloring
-- 1 T vanilla
-- 2 c water
-- 1/2 t salt
-- 1/2 c sourdough starter
-- 1/2 c oil
-- 1/8 c cocoa powder
-- 2 c whole wheat flour
-- 1/2 T white vinegar
-- 1 t baking soda
-- 1/2 t guar gum
+- 2 cups allulose
+- 1 cup margarine
+- 1/8 cup red food coloring
+- 1 tablespoon vanilla
+- 2 cups water
+- 1/2 teaspoon salt
+- 1/2 cup sourdough starter
+- 1/2 cup oil
+- 1/8 cup cocoa powder
+- 2 cups whole wheat flour
+- 1/2 tablespoon white vinegar
+- 1 teaspoon baking soda
+- 1/2 teaspoon guar gum
 
 #### icing
-- 2 c plant-based cream cheese
-- 1/2 T vanilla
-- 1/4 t salt
-- 1/8 t guar gum
-- 3/4 c coconut oil
-- 5 c erythritol powder
+- 16 oz plant-based cream cheese
+- 1/2 tablespoon vanilla
+- 1/4 teaspoon salt
+- 1/8 teaspoon guar gum
+- 3/4 cup coconut oil
+- 5 cups erythritol powder
 
 
 <br>

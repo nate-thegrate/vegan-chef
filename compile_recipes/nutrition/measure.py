@@ -33,6 +33,7 @@ units = {
 
 
 def unit_from_name(name: str) -> Unit:
+    name = name.removesuffix("s")
     for unit in units:
         if name in unit:
             return unit

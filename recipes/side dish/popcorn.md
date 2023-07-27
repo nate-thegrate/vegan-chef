@@ -2,10 +2,10 @@
 *yield: 3 servings*
 
 ### ingredients
-- 1/2 c popcorn
-- 1/4 c oil
-- 1/2 t salt
-- 1/2 t nutritional yeast
+- 1/2 cup popcorn
+- 1/4 cup oil
+- 1/2 teaspoon salt
+- 1/2 teaspoon nutritional yeast
 
 <br>
 

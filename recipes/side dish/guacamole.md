@@ -2,12 +2,12 @@
 
 ### ingredients
 - 3 avocados
-- 1/8 c lime juice
-- 1 t salt
+- 1/8 cup lime juice
+- 1 teaspoon salt
 - 1 red onion
-- 1/4 t cayenne pepper
-- 1/4 t cumin
-- 1/4 t garlic powder
+- 1/4 teaspoon cayenne pepper
+- 1/4 teaspoon cumin
+- 1/4 teaspoon garlic powder
 
 <br>
 

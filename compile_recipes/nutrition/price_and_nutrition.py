@@ -22,6 +22,7 @@ ingredient_names = {
     "red food coloring": None,
     "Fibersol (optional)": None,
     "cinnamon": None,
+    "bell peppers, jalapeños, diced red onion, etc.": None,
     "erythritol powder": "erythritol",
     "sweetener": "sucralose",
     "nutritional yeast": "fortified premium yeast flakes",

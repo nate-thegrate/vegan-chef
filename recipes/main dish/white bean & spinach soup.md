@@ -1,19 +1,19 @@
 # white bean & spinach soup
 
 ### ingredients
-- 1/8 c oil
+- 1/8 cup oil
 - 1 onion, chopped
 - 1 stalk celery, chopped
 - 2 carrots, cut into matchsticks
-- 1/4 t garlic powder
+- 1/4 teaspoon garlic powder
 - 15 oz white beans
-- 4 c chicken broth
-- 1/2 t black pepper
-- 3 T parsley
-- 1 t thyme
+- 4 cups chicken broth
+- 1/2 teaspoon black pepper
+- 3 tablespoons parsley
+- 1 teaspoon thyme
 - 1 bay leaf
 - 8 oz spinach, tough stems trimmed
-- 1 T lemon juice
+- 1 tablespoon lemon juice
 
 <br>
 

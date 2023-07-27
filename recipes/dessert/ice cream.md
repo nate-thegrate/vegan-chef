@@ -2,20 +2,20 @@
 *yield: 12 servings*
 
 ### ingredients
-- 2 c soy milk
-- 2 c oat milk
-- 2/3 c allulose
-- 1/2 c erythritol
-- 1/2 c sweetener
-- 1/4 t salt
+- 2 cups soy milk
+- 2 cups oat milk
+- 2/3 cup allulose
+- 1/2 cup erythritol
+- 1/2 teaspoon sucralose
+- 1/4 teaspoon salt
 - 14 oz plant-based sour cream
-- 1/4 c coconut oil
-- 1/4 c canola oil
-- 1/8 c glycerin
-- 4 t vanilla
-- 1/8 c soy protein
-- 1/2 t guar gum
-- 1/2 t sunflower lecithin
+- 1/4 cup coconut oil
+- 1/4 cup canola oil
+- 1/8 cup glycerin
+- 1 tablespoon vanilla
+- 1/8 cup soy protein
+- 1/2 teaspoon guar gum
+- 1/2 teaspoon sunflower lecithin
 
 <br>
 
@@ -30,7 +30,7 @@ Combine all ingredients, mix (preferably in a blender), and freeze (preferably i
 
 ### calculated ingredient cost:
 
-$11.39 for the whole recipe, $0.95 per serving
+$11.35 for the whole recipe, $0.95 per serving
 
 <br>
 

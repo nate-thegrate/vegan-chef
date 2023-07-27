@@ -18,12 +18,6 @@ def ingredient_data():
     return _load(ingredient_data)
 
 
-def branch_multiplier() -> float:
-    """(not currently in use since we aren't multiplying recipes)"""
-    branch_config = compile_recipes.joinpath("branch_config.yaml")
-    return _load(branch_config)["recipe_multiplier"]
-
-
 def recipes():
     recipes = compile_recipes.joinpath("recipes.yaml")
     return _load(recipes).items()

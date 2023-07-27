@@ -2,13 +2,19 @@
 *yield: 3 servings*
 
 ### ingredients
-- 1 c water
-- 1/8 c oil
-- 1/2 c sourdough starter
-- 1 t salt
-- 2 c whole wheat flour
-- 1/2 T yeast
-- 1/8 c wheat gluten
+- 1 cup water
+- 1/8 cup oil
+- 1/2 cup sourdough starter
+- 1 teaspoon salt
+- 2 cups whole wheat flour
+- 1/2 tablespoon yeast
+- 1/8 cup wheat gluten
+
+#### toppings
+- 1/8 cup pizza sauce
+- 7 oz plant-based mozzarella
+- plant-based sausage, bell peppers, jalapeños, diced red onion, etc.
+
 
 <br>
 
@@ -16,9 +22,9 @@
 
 Combine all ingredients and mix, either in a bread machine or by hand, and let rise for about an hour.
 
-Roll out dough into 2 rectangles (or use half of it for breadsticks).
+Roll out dough into 2 pizzas (or use half of it for breadsticks).
 
-For breadsticks, roll dough into breadstick shapes, then dip in olive oil and sprinkle garlic and/or parmesan on top.
+For breadsticks, roll dough into breadstick shapes, then dip in olive oil and sprinkle garlic, nutritional yeast, and salt on top.
 
 Top with marinara sauce, plant-based cheese & sausage, peppers, onions, jalapeños, and/or olives.
 
@@ -29,7 +35,7 @@ Bake at 425°F for 12-15 minutes.
 
 ### calculated ingredient cost:
 
-$1.09 for the whole recipe, $0.36 per serving
+$7.45 for the whole recipe, $2.48 per serving
 
 <br>
 

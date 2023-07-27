@@ -2,20 +2,20 @@
 
 ### ingredients
 - 28 oz extra firm tofu
-- 1/8 c oil
+- 1/8 cup oil
 - 1 onion
-- 1/2 t garlic powder
-- 1/8 c curry powder
-- 1 T ginger
-- 2 t coriander
-- 1/4 t cayenne pepper
-- 1/2 t black pepper
-- 2 t salt
+- 1/2 teaspoon garlic powder
+- 1/8 cup curry powder
+- 1 tablespoon ginger
+- 2 teaspoons coriander
+- 1/4 teaspoon cayenne pepper
+- 1/2 teaspoon black pepper
+- 2 teaspoons salt
 - 14 oz diced tomatoes
 - 14 oz coconut milk
-- 1/2 T lime juice
-- 1 c vegetable broth
-- 3 Splenda packets
+- 1/2 tablespoon lime juice
+- 1 cup vegetable broth
+- 1/8 teaspoon sucralose
 
 <br>
 

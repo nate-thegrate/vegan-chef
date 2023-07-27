@@ -1,16 +1,16 @@
 # kale sausage soup
 
 ### ingredients
-- 1 package plant-based sausage
+- 14 oz plant-based sausage
 - 1 onion
-- 6 c vegetable broth
-- 1/2 lb kale
-- 2 lb other veggies (cauliflower, potatoes, carrots)
-- 1 t basil
-- 1/2 t oregano
-- 1 t garlic powder
-- 1 t salt
-- 1/2 t pepper
+- 6 cups vegetable broth
+- 8 oz kale
+- 32 oz other veggies (cauliflower, potatoes, carrots)
+- 1 teaspoon basil
+- 1/2 teaspoon oregano
+- 1 teaspoon garlic powder
+- 1 teaspoon salt
+- 1/2 teaspoon pepper
 
 <br>
 

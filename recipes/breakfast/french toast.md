@@ -1,10 +1,10 @@
 # french toast
 
 ### ingredients
-- 1/2 c soy milk
-- 1/2 T vanilla
-- 1/4 t salt
-- 1/8 t guar gum
+- 1/2 cup soy milk
+- 1/2 tablespoon vanilla
+- 1/4 teaspoon salt
+- 1/8 teaspoon guar gum
 - sliced bread
 
 <br>

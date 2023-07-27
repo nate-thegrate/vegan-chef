@@ -2,11 +2,11 @@
 *yield: 2 servings*
 
 ### ingredients
-- 1 c oats
-- 3 T chia seeds
-- 1/8 t salt
-- 1 c soy milk
-- 1 T sweetener
+- 1 cup oats
+- 3 tablespoons chia seeds
+- 1/8 teaspoon salt
+- 1 cup soy milk
+- 4 teaspoons Splenda
 - cinnamon or fresh fruit (optional)
 
 <br>
@@ -22,7 +22,7 @@ Mix and then microwave for 2 minutes, or to your satisfaction. Let it cool a lit
 
 ### calculated ingredient cost:
 
-$1.05 for the whole recipe, $0.53 per serving
+$1.09 for the whole recipe, $0.55 per serving
 
 <br>
 
