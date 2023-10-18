@@ -4,7 +4,6 @@
 ### ingredients
 - 1 1/2 cup water
 - 1/2 teaspoon salt
-- 1 teaspoon erythritol
 - 1/3 cup sourdough starter
 - 1 cup whole wheat flour
 - 1 teaspoon baking powder
@@ -24,7 +23,7 @@ Cook in an aebleskiver pan (add ~¼ teaspoon of oil to each divet before pouring
 
 ### calculated ingredient cost:
 
-$0.60 for the whole recipe, $0.20 per serving
+$0.57 for the whole recipe, $0.19 per serving
 
 <br>
 
