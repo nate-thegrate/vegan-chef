@@ -354,6 +354,21 @@ smoothie:
   directions:
     - Blend it up 😎
 
+hot cocoa:
+  meal: drink
+  servings: 2
+  ingredients:
+    - 1/4 cup cocoa powder
+    - 1/4 teaspoon sunflower lecithin
+    - 1/8 teaspoon salt
+    - 2 cups soy milk
+    - 1/4 teaspoon sucralose
+    - 1 teaspoon vanilla
+    - 1/8 cup oil
+  directions:
+    - Mix dry ingredients (cocoa, lecithin, and salt) together, then add everything else.
+    - Heat in the microwave or on the stove.
+
 sourdough bread:
   meal: side dish, bread
   calculate nutrition & price: false
