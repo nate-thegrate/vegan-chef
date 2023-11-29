@@ -2,19 +2,19 @@
 *yield: 2 servings*
 
 ### ingredients
+- 2 cups soy milk
+- 1/8 cup plant cream
+- 1 teaspoon vanilla
+- 1/4 teaspoon sucralose
+- 1/8 teaspoon salt
 - 1/4 cup cocoa powder
 - 1/4 teaspoon sunflower lecithin
-- 1/8 teaspoon salt
-- 2 cups soy milk
-- 1/4 teaspoon sucralose
-- 1 teaspoon vanilla
-- 1/8 cup oil
 
 <br>
 
 ### directions:
 
-Mix dry ingredients (cocoa, lecithin, and salt) together, then add everything else.
+Combine all ingredients. (Recommendation: mix cocoa & lecithin together before adding to rest of mixture.)
 
 Heat in the microwave or on the stove.
 
@@ -23,7 +23,7 @@ Heat in the microwave or on the stove.
 
 ### calculated ingredient cost:
 
-$1.36 for the whole recipe, $0.68 per serving
+$1.52 for the whole recipe, $0.76 per serving
 
 <br>
 
