@@ -1,0 +1,86 @@
+body {
+    font-family: Calibri, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #e0f0f0;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 0;
+}
+
+h2 {
+    text-align: center;
+    font-size: small;
+    margin-bottom: 50px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+#recipe-list {
+    width: 100%;
+    max-width: max-content;
+    margin: auto;
+}
+
+#recipe-list div {
+    display: flex;
+    padding: 5px;
+    align-items: center;
+}
+
+#recipe-list a:nth-child(even)>div {
+    background-color: #ffffff80;
+}
+
+#recipe-list div div {
+    margin: 6px;
+    margin-right: 0;
+    padding: 3px 8px 4px;
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: bold;
+}
+
+#recipe-list .name {
+    margin: 0;
+    margin-right: 10px;
+    padding: 0;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+.main-dish {
+    background-color: #483060;
+    color: #eeddff;
+}
+
+.side-dish {
+    background-color: #00cccc;
+}
+
+.bread {
+    background-color: #a37446;
+    color: #fff0e0;
+}
+
+.breakfast {
+    background-color: #ffcc33;
+}
+
+.dessert {
+    background-color: #fff8f8;
+    color: #ff0000;
+}
+
+.drink {
+    background-color: #006439;
+    color: #eefff8;
+}
+
+.soup {
+    background-color: #6c641e;
+    color: #ffcc77;
+}
