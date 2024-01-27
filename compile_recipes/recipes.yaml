@@ -525,7 +525,7 @@ kale sausage soup:
     - Brown sausage with onion.
     - Then add all other ingredients and bring to a boil. Simmer for 30 min.
 
-white bean & spinach soup:
+bean & spinach soup:
   meal: main dish, soup
   calculate nutrition & price: false
   ingredients:
