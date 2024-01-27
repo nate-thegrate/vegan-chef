@@ -100,7 +100,7 @@ if __name__ == "__main__":
     for recipe in recipe_list:
         files.export_recipe(recipe.filename, recipe.html_text)
 
-    for filename in ["recipe.css"]:
+    for filename in ["recipe.css", "index.css"]:
         files.copy_into_recipes(filename)
 
     files.generate_index([recipe.hyperlink for recipe in recipe_list])
