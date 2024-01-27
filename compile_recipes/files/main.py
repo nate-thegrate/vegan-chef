@@ -10,7 +10,7 @@ recipe_export = repo.joinpath("recipes")
 
 def generate_index(recipes: list[str]):
     env = jinja.Environment(loader=jinja.FileSystemLoader(repo))
-    html = env.get_template("index.html").render(recipe_list="\n".join(recipes))
+    html = env.get_template("index.html").render(recipe_list="\n    ".join(recipes))
 
     with open(recipe_export.joinpath("index.html"), "w", encoding="utf8") as index_file:
         index_file.write(html)
