@@ -5,7 +5,7 @@ import jinja2 as jinja
 compile_recipes = Path(__file__).parent.parent.resolve()
 repo = compile_recipes.parent.resolve()
 
-recipe_export = repo.joinpath("recipes")
+recipe_export = repo.joinpath("docs")
 
 
 def generate_index(recipes: list[str]):
@@ -17,7 +17,7 @@ def generate_index(recipes: list[str]):
 
 
 def yeet_everything():
-    """clears out the `recipes/` directory."""
+    """clears out the `docs/` directory."""
     rmtree(recipe_export)
     recipe_export.mkdir()
 
@@ -29,4 +29,4 @@ def export_recipe(filename: str, contents: str):
 
 
 def copy_into_recipes(filename: str):
-    copy(filename, f"recipes/{filename}")
+    copy(filename, f"docs/{filename}")
