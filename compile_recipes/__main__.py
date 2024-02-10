@@ -1,16 +1,21 @@
 import files
 from nutrition import generate_nutrition_price_data
+import jinja2 as jinja
 
 
-class Recipe():
+def dashed(name: str):
+    return name.replace(" ", "-")
 
+
+class Recipe:
     def __init__(self, name: str, recipe: dict):
         self.name = name
+        self.filename = f"{dashed(name)}.html"
         self.meals = str(recipe["meal"]).split(", ")
         self.calculate_nutrition: bool = recipe.get("calculate nutrition & price", True)
         self.servings: float = recipe.get("servings", 1.0)
         self.ingredients: list = recipe["ingredients"]
-        self.directions = (f"{direction}\n" for direction in recipe["directions"])
+        self.directions = (f"<p>{direction}</p>\n" for direction in recipe["directions"])
 
     def parse_ingredients(self):
         ingreds = self.ingredients
@@ -22,57 +27,69 @@ class Recipe():
             next = ingreds.index(section) + 1
             return next < len(ingreds) and isinstance(ingreds[next], str)
 
-        for section in ingreds:
+        for i, section in enumerate(ingreds):
             match section:
                 case str():
-                    parsed_ingreds.append(f"- {section}")
+                    parsed_ingreds.append(
+                        f'<input type="checkbox" id="ingredient{i}">\n'
+                        f'<label for="ingredient{i}">{section}</label><br>\n'
+                    )
                 case dict():
                     name, items = list(section.items())[0]
-                    parsed_ingreds.extend([
-                        f"\n#### {name}",
-                        *(f"- {item}" for item in items),
-                        "\n<br>\n" if str_after_this(section) else "",
-                    ])
+                    parsed_ingreds.extend(
+                        [
+                            f"\n<h3>{name}</h3>",
+                            *(f"- {item}" for item in items),
+                            "\n<br>\n" if str_after_this(section) else "",
+                        ]
+                    )
         return parsed_ingreds
 
     @property
-    def markdown_text(self):
+    def hyperlink(self):
+        meal_tags = " ".join(f'<div class="{dashed(meal)}">{meal}</div>' for meal in self.meals)
+        return f'<a href="{self.filename}"><div><div class="name">{self.name}</div> {meal_tags}</div></a>'
+
+    @property
+    def html_text(self):
         if self.calculate_nutrition:
             if self.servings == 1:
                 raise ValueError(f"U gotta increase number of servings for {self.name}")
             context, price = generate_nutrition_price_data(self.ingredients, self.servings)
-            files.nutrition_facts.export(self.name, context)
-            nutrition_label_path = f"compile_recipes/nutrition/nutrition_labels/{self.name}/nutrition_facts"
-            # relative_image_path = f"../../{nutrition_label_path}.png"
-            rendered_html_link = ("https://htmlpreview.github.io/?"
-                                  "https://github.com/nate-thegrate/vegan-chef/blob/main/{}.html".format(nutrition_label_path.replace(" ", "%20")))
             price_nutrition_facts = [
                 "\n<br>\n",
-                f"### calculated ingredient cost:\n",
-                f"${price:.2f} for the whole recipe, ${price / self.servings:.2f} per serving",
+                f"<h2>calculated ingredient cost</h2>\n",
+                f"<p>${price:.2f} for the whole recipe, ${price / self.servings:.2f} per serving</p>",
                 "\n<br>\n",
-                # f"[![{self.name} nutrition facts]({relative_image_path})]({rendered_html_link})",
-                f"[click here for Nutrition Facts]({rendered_html_link})",
+                "</section>",
+                files.nutrition_facts.html_code(context),
             ]
         else:
-            price_nutrition_facts = []
-        return "\n".join([
-            f"# {self.name}",
-            f"*yield: {self.servings} servings*\n" if self.servings > 1 else "",
-            "### ingredients",
-            *self.parse_ingredients(),
-            "\n<br>\n",
-            "### directions:\n",
-            *self.directions,
-            *price_nutrition_facts,
-        ])
-
-    def export_to_recipe_folder(self):
-        """Adds the recipe to `recipes/` in markdown format."""
-        text = self.markdown_text
-        for meal in self.meals:
-            with files.open_recipe(meal, self.name) as recipe_markdown:
-                recipe_markdown.write(text)
+            price_nutrition_facts = ["</section>"]
+        return "\n".join(
+            [
+                "<!DOCTYPE html>",
+                '<html lang="en">',
+                "",
+                "<head>",
+                '  <meta charset="UTF-8">',
+                '  <meta name="viewport" content="width=device-width, initial-scale=1.0">',
+                '<link rel="stylesheet" href="recipe.css">',
+                "  <title>vegan chef 😎</title>",
+                "</head>",
+                "<body>",
+                '<section id="recipe">',
+                f"<h1>{self.name}</h1>",
+                f"<p><i>yield: {self.servings} servings</i></p>\n" if self.servings > 1 else "",
+                "<h2>ingredients</h2>",
+                *self.parse_ingredients(),
+                "\n<br>\n",
+                "<h2>directions</h2>\n",
+                *self.directions,
+                *price_nutrition_facts,
+                "</body>",
+            ]
+        )
 
 
 if __name__ == "__main__":
@@ -80,5 +97,10 @@ if __name__ == "__main__":
 
     recipe_list = [Recipe(*item) for item in files.yaml_dicts.recipes()]
 
-    for open_recipe in recipe_list:
-        open_recipe.export_to_recipe_folder()
+    for recipe in recipe_list:
+        files.export_recipe(recipe.filename, recipe.html_text)
+
+    for filename in ["recipe.css", "index.css"]:
+        files.copy_into_recipes(filename)
+
+    files.generate_index([recipe.hyperlink for recipe in recipe_list])

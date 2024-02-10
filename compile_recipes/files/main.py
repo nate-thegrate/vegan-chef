@@ -1,24 +1,32 @@
 from pathlib import Path
-from shutil import rmtree
+from shutil import copy, rmtree
+import jinja2 as jinja
 
 compile_recipes = Path(__file__).parent.parent.resolve()
 repo = compile_recipes.parent.resolve()
 
-recipe_export = repo.joinpath("recipes")
+recipe_export = repo.joinpath("docs")
 
-UTF8 = {"encoding": "utf8"}
+
+def generate_index(recipes: list[str]):
+    env = jinja.Environment(loader=jinja.FileSystemLoader(repo))
+    html = env.get_template("index.html").render(recipe_list="\n    ".join(recipes))
+
+    with open(recipe_export.joinpath("index.html"), "w", encoding="utf8") as index_file:
+        index_file.write(html)
 
 
 def yeet_everything():
-    """deletes every folder in the `recipes/` directory."""
-    for file in recipe_export.iterdir():
-        path = recipe_export.joinpath(file)
-        if path.is_dir():
-            rmtree(path)
+    """clears out the `docs/` directory."""
+    rmtree(recipe_export)
+    recipe_export.mkdir()
 
 
-def open_recipe(meal: str, name: str):
-    recipe_path = recipe_export.joinpath(meal)
-    if not recipe_path.is_dir():
-        recipe_path.mkdir()
-    return open(recipe_path.joinpath(f"{name}.md"), "w", **UTF8)
+def export_recipe(filename: str, contents: str):
+    """Adds the recipe to `recipes/` in html format."""
+    with open(recipe_export.joinpath(filename), "w", encoding="utf8") as recipe_html:
+        recipe_html.write(contents)
+
+
+def copy_into_recipes(filename: str):
+    copy(filename, f"docs/{filename}")

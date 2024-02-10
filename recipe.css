@@ -1,0 +1,141 @@
+#recipe {
+    font-family: Calibri, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+}
+
+#recipe h1 {
+    text-align: center;
+    font-size: 32px;
+    margin-top: 50px;
+}
+
+input:checked+label {
+    color: #c0c0c0;
+}
+
+input {
+    margin: 10px 0;
+}
+
+label {
+    margin-left: 5px;
+}
+
+#nutrition-facts {
+    font-family: Helvetica, sans-serif;
+    background-color: white;
+    font-size: 12px;
+    width: max-content;
+    border: 2px solid black;
+    margin: auto;
+    padding: 1px;
+}
+
+#pre-table {
+    padding: 0 4px;
+}
+
+#nutrition-facts h1 {
+    font-size: 32px;
+    margin: -4px 0;
+    text-align: center;
+    font-weight: 800;
+}
+
+#nutrition-facts hr {
+    margin: 0;
+    border: 1px solid black;
+}
+
+#nutrition-facts td hr {
+    margin-top: 4px;
+}
+
+
+#nutrition-facts td:first-child hr {
+    margin-right: -10px;
+}
+
+#nutrition-facts hr.thicc {
+    border: 4px solid black;
+    margin-bottom: 8px;
+}
+
+#nutrition-facts hr.thiccc {
+    border: 8px solid black;
+    margin-bottom: 2px;
+}
+
+#servings {
+    margin: 4px 0;
+    text-align: center;
+    font-stretch: condensed;
+}
+
+
+#nutrition-facts table {
+    border-collapse: collapse;
+    background-color: white;
+    /* maybe delete this */
+}
+
+#nutrition-facts th {
+    padding-top: 4px;
+    font-size: 10px;
+    font-weight: initial;
+    font-stretch: condensed;
+    text-align: center;
+}
+
+#nutrition-facts td {
+    padding: 2px 3px;
+    width: 80px;
+}
+
+#nutrition-facts td:first-child {
+    width: 140px;
+    font-weight: bold;
+}
+
+#nutrition-facts td:last-child {
+    border-left: 2px solid black;
+}
+
+#calories {
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#calories td:first-child {
+    text-align: left;
+}
+
+.subset {
+    font-weight: normal;
+    padding-left: 12px;
+}
+
+.grams {
+    text-indent: 2px;
+}
+
+.dv {
+    float: right;
+    font-weight: bold;
+}
+
+
+#vitamins tr td {
+    text-align: right;
+    font-weight: bold;
+    margin-right: 10px;
+}
+
+#vitamins tr td:first-child {
+    text-align: left;
+    font-weight: initial;
+}

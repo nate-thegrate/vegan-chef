@@ -1,10 +1,10 @@
-from .main import compile_recipes, UTF8
+from .main import compile_recipes
 from .nutrition_facts import nutrition_folder
 import yaml
 
 
 def _load(path) -> dict[str]:
-    with open(path, **UTF8) as file:
+    with open(path, encoding="utf8") as file:
         return yaml.safe_load(file)
 
 
