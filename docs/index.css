@@ -11,12 +11,70 @@ h1 {
 h2 {
     text-align: center;
     font-size: small;
-    margin-bottom: 50px;
 }
 
 a {
     color: black;
     text-decoration: none;
+}
+
+#buttons {
+    margin-left: 50%;
+    transform: translateX(-50%);
+    width: max-content;
+    margin-bottom: 50px;
+    max-width: 100%;
+    text-align: center;
+}
+
+button {
+    transition: 100ms;
+    cursor: pointer;
+    margin: 6px;
+    margin-right: 0;
+    padding: 5px 10px;
+    border-radius: 10px;
+    font-size: 10px;
+    font-weight: bold;
+    border-width: 0;
+}
+
+button:hover {
+    transition: 200ms;
+}
+
+button.main-dish:hover {
+    background-color: #7040c0;
+    color: #ffffff;
+}
+
+button.side-dish:hover {
+    background-color: #00f0f0;
+}
+
+button.soup:hover {
+    background-color: #908000;
+    color: #ffd969;
+}
+
+button.breakfast:hover {
+    background-color: #ffd860;
+    color: #402000;
+}
+
+button.bread:hover {
+    background-color: #804810;
+    color: #fff3cc;
+}
+
+button.drink:hover {
+    background-color: #00a060;
+    color: #ffffff;
+}
+
+button.dessert:hover {
+    background-color: #ff5050;
+    color: #ffffff;
 }
 
 #recipe-list {
@@ -29,6 +87,15 @@ a {
     display: flex;
     padding: 5px;
     align-items: center;
+}
+
+#recipe-list a>div:hover {
+    transition: 250ms;
+    background-color: #ffffff !important;
+}
+
+#recipe-list a>div {
+    transition: 250ms;
 }
 
 #recipe-list a:nth-child(even)>div {
