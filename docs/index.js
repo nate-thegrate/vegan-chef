@@ -1,23 +1,29 @@
+function alternateColors(link, index) {
+    let classes = link.querySelector('div').classList;
+    index % 2 === 1 ? classes.add('even') : classes.remove('even');
+}
+
+const buttonNames = [
+    'main dish',
+    'side dish',
+    'soup',
+    'breakfast',
+    'bread',
+    'drink',
+    'dessert',
+];
+const buttonClasses = '.main-dish, .side-dish, .soup, .breakfast, .bread, .drink, .dessert';
+
 document.addEventListener('DOMContentLoaded', function () {
-    const buttons = [
-        'main dish',
-        'side dish',
-        'soup',
-        'breakfast',
-        'bread',
-        'drink',
-        'dessert',
-    ];
-
-    const buttonDiv = document.getElementById('buttons');
-
-    buttons.forEach(label => {
+    let buttons = document.getElementById('buttons');
+    buttonNames.forEach(label => {
         const button = document.createElement('button');
         button.textContent = label;
         button.className = label.replace(' ', '-');
         button.addEventListener('click', function () { filterRecipes(this) });
-        buttonDiv.appendChild(button);
+        buttons.appendChild(button);
     });
+    document.querySelectorAll('#recipe-list a').forEach(alternateColors);
 });
 
 var filter = '';
@@ -27,24 +33,27 @@ function filterRecipes(button) {
     const showAll = category == filter;
     filter = showAll ? '' : category;
 
-    const recipeLinks = document.querySelectorAll('#recipe-list a');
+    document.querySelectorAll('#buttons button').forEach(button => {
+        let classes = button.classList;
+        classes[0] == filter ? classes.add('active') : classes.remove('active');
+    });
 
-    recipeLinks.forEach(function (link) {
-        var recipeCategory = link.querySelector('.' + category);
-        if (!showAll && recipeCategory === null) {
-            link.style.display = 'none';
-        } else {
-            link.style.display = 'block';
-            var recipeCategories = link.querySelectorAll(
-                '.main-dish, .side-dish, .soup, .breakfast, .bread, .drink, .dessert'
+    let visibleLinks = [];
+
+    document.querySelectorAll('#recipe-list a').forEach(recipeLink => {
+        let recipeCategory = recipeLink.querySelector('.' + category);
+        function setVisibility(element, comparator) {
+            let displayBlock = showAll || recipeCategory !== comparator;
+            element.style.display = displayBlock ? 'block' : 'none';
+            return displayBlock;
+        }
+
+        if (setVisibility(recipeLink, null)) {
+            recipeLink.querySelectorAll(buttonClasses).forEach(
+                category => setVisibility(category, category)
             );
-            recipeCategories.forEach(function (category) {
-                if (category !== recipeCategory) {
-                    category.style.display = 'block';
-                } else {
-                    category.style.display = showAll ? 'block' : 'none';
-                }
-            });
+            visibleLinks.push(recipeLink);
         }
     });
+    visibleLinks.forEach(alternateColors);
 }
